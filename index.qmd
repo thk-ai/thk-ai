@@ -1,0 +1,16 @@
+---
+title: "THK-AI Research Cluster"
+---
+
+::: {.hero-banner}
+![](figures/logos/THK-AI-Absenderkennung-EN.png){width="40%"}
+
+# Welcome to THK-AI Research Cluster
+:::
+
+---
+
+The THK-AI Research Cluster at the Technische Hochschule Köln is dedicated to advancing artificial intelligence research and applications. Our mission is to foster innovation, collaboration, and knowledge sharing in the field of AI, with a focus on practical solutions that address real-world challenges.
+
+
+
