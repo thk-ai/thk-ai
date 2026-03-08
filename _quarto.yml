@@ -11,6 +11,7 @@ website:
         text: Home
       - about.qmd
       - members.qmd
+      - veranstaltungen.qmd
     right:
       - icon: github
         href: https://github.com/sequential-parameter-optimization/thk-ai
