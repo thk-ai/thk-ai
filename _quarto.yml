@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - reference.qmd
+      - members.qmd
     right:
       - icon: github
         href: https://github.com/sequential-parameter-optimization/thk-ai
@@ -18,10 +18,6 @@ website:
     title: "THK-AI Research Cluster"
     description: "Forschungscluster THK-AI: Künstliche Intelligenz in der Technischen Hochschule Köln"
     image: <img src="figures/logos/thk-ai-logo.png" alt="THK-AI Logo" width="400"/>
-  twitter-card:
-    card-style: summary_large_image
-    creator: "@GeccoConf"
-
 format:
   html:
     theme:
