@@ -1,0 +1,23 @@
+---
+title: "Forschung"
+---
+
+## Aktuelle Forschungsprojekte (noch unvollständig)
+
+| Titel | Projektleitung und Beteiligte | Thema | Förderlinie |
+|---|---|---|---|
+| [THK KI plus](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/thk-ki-plus-bmbf_119586.php) | Thomas Bartz-Beielstein, Anja Richert | KI Infrastruktur | BMBF |
+| [ShapeFuture: Ensuring European ECS Industry Sovereignty by Shaping the Future of Electronic Components and Systems](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/shapef) | Thomas Bartz-Beielstein (Teilprojekt TH Köln) | Automotive | EU |
+| [IMProvT II - Intelligente Messverfahren zur Prozessoptimierung von Trinkwasserbereitstellung II](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/improvt-ii_119592.php) | Christian Wolf, Peter Kern (Gesamtprojekt),<br>Thomas Bartz-Beielstein (Teilprojekt) | Wasser | Bundesministerium für Wirtschaft und Klimaschutz |
+
+## Themen
+
+Die im Forschungscluster THK-AI behandelten Aufgaben lassen sich thematisch gliedern.
+
+### Automotive
+
+### Wasser
+
+Das Thema "Wasser" beinhaltet Fragestellungen, um die Bereitstellung und Verteilung von Trinkwasser energieeffizienter zu gestalten. Dazu wird die Entwicklung von Datenplattformen, um Informationen für die Betriebsstrategien von Wasserversorgungsnetzen zu berechnen, in den THK-AI Projekten behandelt. Auch wird erforscht, wie durch Künstliche Intelligenz die Strategien optimiert werden, so dass das KI-System lernt, sich selbst zu verbessern. Dabei spielen die Gewinnung und die Nutzung mehrdimensionaler Prozessdaten zur energie- und ressourceneffizienten Optimierung und Prozesssteuerung bei der Trinkwasseraufbereitung eine zentrale Rolle. Weitere Informationen sind auf der [THK-AI Themenseite "Wasser"](https://thk-ai.de/thk-ai-themenseite-wasser/) zu finden.
+
+

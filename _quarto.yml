@@ -12,6 +12,8 @@ website:
       - about.qmd
       - members.qmd
       - hpc.qmd
+      - lehre.qmd
+      - forschung.qmd
       - veranstaltungen.qmd
     right:
       - icon: github

@@ -1,11 +1,11 @@
 ---
-title: "THK-AI Research Cluster"
+title: "Welcome to THK-AI Research Cluster"
 ---
 
 ::: {.hero-banner}
 ![](figures/logos/THK-AI-Absenderkennung-EN.png){width="40%"}
 
-# Welcome to THK-AI Research Cluster
+
 :::
 
 ---
