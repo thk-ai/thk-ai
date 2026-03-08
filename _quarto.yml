@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "THK-AI Research Cluster"
+  description: "Forschungscluster THK-AI: Künstliche Intelligenz in der Technischen Hochschule Köln"
+  site-url: "https://sequential-parameter-optimization.github.io/thk-ai/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - reference.qmd
+    right:
+      - icon: github
+        href: https://github.com/sequential-parameter-optimization/thk-ai
+  open-graph:
+    title: "THK-AI Research Cluster"
+    description: "Forschungscluster THK-AI: Künstliche Intelligenz in der Technischen Hochschule Köln"
+    image: <img src="figures/logos/thk-ai-logo.png" alt="THK-AI Logo" width="400"/>
+  twitter-card:
+    card-style: summary_large_image
+    creator: "@GeccoConf"
+
+format:
+  html:
+    theme:
+      - litera
+    css: styles.css
+    toc: true
+    number-sections: false
+    smooth-scroll: true
+
+execute:
+  freeze: auto
