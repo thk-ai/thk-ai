@@ -1,0 +1,24 @@
+---
+title: "Veranstaltungen"
+---
+
+| Datum | Zeit | Ort/Raum | Veranstaltung | Bemerkung |
+|---|---|---|---|---|
+| 29.01.2025 | 9:00-11:00 | Online (MS-Teams) | Mitgliedertreffen | intern |
+| 07.05.2025 | 9:00-11:00 | Online (MS-Teams) | Mitgliedertreffen | intern |
+| 10.07.2025 | 15:00-17:00 | Online (MS-Teams) | KI-Cluster Workshop zur Bedarfsermittlung | intern |
+| 10.09.2025 | 9:00-11:00 | Online (MS-Teams) | Mitgliedertreffen | intern |
+| 03.12.2025 | 9:00-11:00 | Online (MS-Teams) | Mitgliedertreffen | intern |
+| 22.01.2026 | 10:30-12:00 | Online (MS-Teams) | [Ahmed Qarqour](https://www.linkedin.com/in/ahmed-qarqour-6a3771108/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN7IXqGNKQRu1szXS48uqTA%3D%3D): Development of a data-driven model<br>for predicting the reliability of<br>heating systems | Vortrag mit Diskussion im THK-AI Doktorandenseminar. Anmeldung erforderlich bei [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) |
+| 29.1.2026 | 11:00-12:00 | Online | Besprechung Antragstellung | intern |
+| 5.2.2026 | 11:00-12:00 | SPOTSeven Lab (Raum 1.518) | Austausch DLR | intern |
+| 12.2.2026 | 10:30-12:00 | SPOTSeven Lab | Marcel Klimm: Accelerating Surrogate-Model Based<br>Optimization | Kolloquium. Anmeldung erforderlich bei [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) |
+| 19.2.2026 | 10:00-13:00 | SPOTSeven Lab | Case-Study Presentations: Physics-Informed Neural Networks | Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein |
+| 26.2.2026 | 10:00-11:30 | SPOTSeven Lab | Vekil Bekmyradov: LLMs in the Context of Large Scale Software Projects | intern |
+| 04.03.2026 | 9:00-12:00 | Online (MS-Teams) | Mitgliedertreffen und Bedarfsanalyse | intern |
+| 12.3.2026 | 10:30-12:00 | Online (Zoom) | Kooperation: Forschungsschwerpunkt "Risiko, Resilienz und Transformation" | intern |
+| 19.3.2026 | 10:30-12:00 | SpotSevenLab | Nguyen Ha Ngan: AI and Water Resources Management | Doktorandenkolloquium: Anmeldung erforderlich bei [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) |
+| 03.06.2026 | 14:00-15:30 | Online (MS-Teams) | Mitgliedertreffen | intern |
+| 10.09.2026 | 9:00-10:30 | Online (MS-Teams) | Mitgliedertreffen | intern |
+| 10.12.2026 | 14:00-15:30 | Online (MS-Teams) | Mitgliedertreffen | intern |
+
