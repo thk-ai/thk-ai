@@ -7,17 +7,17 @@
     "text": "THK-AI"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "THK-AI Research Cluster",
-    "section": "",
-    "text": "Welcome to THK-AI Research Cluster\n\n\n\nThe THK-AI Research Cluster at the Technische Hochschule Köln is dedicated to advancing artificial intelligence research and applications. Our mission is to foster innovation, collaboration, and knowledge sharing in the field of AI, with a focus on practical solutions that address real-world challenges."
-  },
-  {
     "objectID": "GITHUB_PAGES_SETUP.html",
     "href": "GITHUB_PAGES_SETUP.html",
     "title": "GitHub Pages Configuration",
     "section": "",
     "text": "GitHub Pages Configuration\nTo enable GitHub Pages for your Quarto site:\n\nGo to your repository settings on GitHub.\nNavigate to the “Pages” section.\nSet the source to the gh-pages branch (created by the GitHub Action).\nSave the settings.\n\nYour site will be published at: https://.github.io//\nThe GitHub Action will automatically render and publish your site whenever you push changes to the main or master branch."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "THK-AI Research Cluster",
+    "section": "",
+    "text": "Welcome to THK-AI Research Cluster\n\n\n\nThe THK-AI Research Cluster at the Technische Hochschule Köln is dedicated to advancing artificial intelligence research and applications. Our mission is to foster innovation, collaboration, and knowledge sharing in the field of AI, with a focus on practical solutions that address real-world challenges."
   }
 ]
