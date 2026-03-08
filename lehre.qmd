@@ -1,0 +1,10 @@
+---
+title: "Lehre"
+---
+
+| Thema | Beschreibung | Link |
+|---|---|---|
+| Lehrveranstaltungen mit Bezug zu KI und Datenwissenschaften an der TH Köln (Übersicht) | Die TH Köln bietet eine vielfältige Auswahl an Studiengängen an, die Kenntnisse im Bereich KI vermitteln. | [https://www.th-koeln.de/forschung/_106481.php](https://www.th-koeln.de/forschung/_106481.php) |
+| DaLI | Die Data Literacy Initiative (DaLI) entwickelt ein modulares, interdisziplinäres Programm um Datenkompetenz systematisch und hochschulweit in Lehre und Forschung an der TH Köln zu verankern. Zusätzlich werden mit einem DaLI Lab, Kooperationsprojekten und einer Ringvorlesung Schnittstellen zu regionalen Akteuren, Organisationen und in die Zivilgeselllschaft gebildet. | [https://www.th-koeln.de/informations-und-kommunikationswissenschaften/dali---data-literacy-initiative_78648.php](https://www.th-koeln.de/informations-und-kommunikationswissenschaften/dali---data-literacy-initiative_78648.php) |
+| DaLI Ringvorlesung | Veranstaltungsreihe. Thematischer Schwerpunkt 2025/26: "Data Literacy: Zukunft durch Daten - KI gestalten, gesellschaftlichen Wandel fördern" | [https://www.th-koeln.de/informations-und-kommunikationswissenschaften/dali---data-literacy-initiative_78648.php](https://www.th-koeln.de/informations-und-kommunikationswissenschaften/dali---data-literacy-initiative_78648.php) |
+| Einführung in die KI | Selbstlernkurs für Studierende und Promovierende der TH Köln | [https://www.th-koeln.de/hochschule/einfuehrung-in-die-ki_89469.php](https://www.th-koeln.de/hochschule/einfuehrung-in-die-ki_89469.php) |
