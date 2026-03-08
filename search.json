@@ -1,10 +1,108 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "hpc.html",
+    "href": "hpc.html",
+    "title": "HPC Cluster",
     "section": "",
-    "text": "THK-AI"
+    "text": "Mit dem Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) hat die Technische Hochschule Köln ihre Kompetenzen im Bereich der anwendungs- und transferorientieren KI-Forschung zur Förderung des wissenschaftlichen Nachwuchses erheblich verbessert. Das Projekt hat außerdem zu neuen Forschungskooperationen und zu einem Transfer der Erkenntnisse in die Gesellschaft beigetragen. Geleitet wurde es von Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert."
+  },
+  {
+    "objectID": "hpc.html#zusammenfassung",
+    "href": "hpc.html#zusammenfassung",
+    "title": "HPC Cluster",
+    "section": "",
+    "text": "Mit dem Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) hat die Technische Hochschule Köln ihre Kompetenzen im Bereich der anwendungs- und transferorientieren KI-Forschung zur Förderung des wissenschaftlichen Nachwuchses erheblich verbessert. Das Projekt hat außerdem zu neuen Forschungskooperationen und zu einem Transfer der Erkenntnisse in die Gesellschaft beigetragen. Geleitet wurde es von Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert."
+  },
+  {
+    "objectID": "hpc.html#herausforderung",
+    "href": "hpc.html#herausforderung",
+    "title": "HPC Cluster",
+    "section": "Herausforderung",
+    "text": "Herausforderung\nDie Künstliche Intelligenz ist vermutlich eines der beherrschenden Themen in diesem Jahrhundert und wohl auch eines der umstrittensten. Künstliche Intelligenz ermöglicht es, das menschliche Lernvermögen komplexer Zusammenhänge mit mathematisch-programmiertechnischen Methoden nachzuahmen und sogar zu übertreffen. Dafür werden Neuronale Netze eingesetzt, die in der Lage sind, hochgradig nichtlineare Zusammenhänge abzubilden. Dies kann zur Steuerung von Robotern in der Industrie, zum autonomen Fahren oder auch für Deepfakes in den sozialen Medien genutzt werden. An der TH Köln ist Künstliche Intelligenz ein fester Bestandteil der Lehre und ist in Forschungsprojekten vor allem im Bereich Image Processing und KI-basierten Controllern für Maschinen und Prozessen integriert."
+  },
+  {
+    "objectID": "hpc.html#ziele-und-vorgehen",
+    "href": "hpc.html#ziele-und-vorgehen",
+    "title": "HPC Cluster",
+    "section": "Ziele und Vorgehen",
+    "text": "Ziele und Vorgehen\nIm Mittelpunkt des Projekts THK-KIplus stand die flexible Bereitstellung eines hochschulweiten KI-Rechenclusters inklusive Datenspeicher. Zudem wurden die Professuren “Data Science mit Schwerpunkt Datenmanagement” und “Big Data Analytics” etabliert. Die Bedeutung und das Potenzial des Vorhabens wurden daraus ersichtlich, dass acht von den zwölf Fakultäten der TH Köln unmittelbar an der Antragstellung beteiligt waren. An der Hochschule wurde somit ein “Forschungscluster KI” aufgebaut, um den Transfer- und auch die Kooperationsmöglichkeiten zu forcieren. Dies ermöglicht eine Strukturierung und Fokussierung der KI-Forschung in den interdisziplinären Use-Cases “Remote Sensing”, “Autonome Systeme”, “Menschenzentrierte KI”, “Biometrie”, “Industrielle KI” und “KI-Algorithmenentwicklung”."
+  },
+  {
+    "objectID": "hpc.html#innovationen-und-perspektiven",
+    "href": "hpc.html#innovationen-und-perspektiven",
+    "title": "HPC Cluster",
+    "section": "Innovationen und Perspektiven",
+    "text": "Innovationen und Perspektiven\nMit dem Projekt hat die TH Köln nachhaltige KI-Strukturen geschaffen, die dauerhaft mit hoher Flexibilität von allen Hochschulangehörigen genutzt werden können. Dadurch eröffnen sich auch neue Themenfelder für Bachelor- und Masterarbeiten sowie Promotionen. Mit dem hochschulweiten KI-Rechencluster werden neuartige KI-Verfahren erforscht und entwickelt, die von der studentischen Hilfskraft bis zu promovierten wissenschaftlichen Mitarbeitenden zur Aus- und Weiterbildung genutzt werden können und sollen. Zentral ist dabei die Zusammenarbeit mit Partnern aus Wirtschaft, Wissenschaft und Gesellschaft."
+  },
+  {
+    "objectID": "hpc.html#beschreibung-des-ki-rechenclusters",
+    "href": "hpc.html#beschreibung-des-ki-rechenclusters",
+    "title": "HPC Cluster",
+    "section": "Beschreibung des KI-Rechenclusters",
+    "text": "Beschreibung des KI-Rechenclusters\nDie TH Köln verfügt über ein hochmodernes High-Performance-Computing (HPC) Cluster, das speziell für anspruchsvolle Aufgaben in der Künstlichen Intelligenz, dem Maschinellen Lernen und Data Science konzipiert wurde. Der Cluster steht an zwei Standorten, in Gummersbach und in Leverkusen, so dass die Ausfallsicherheit erhöht wird.\n\nAm Standort Gummersbach steht folgende Hardware zur Verfügung:\n\nStorage: 28TB; Read/Write: 7000MB/s\nArbeitsspeicher: 2,25TB\nGPU: 8x NVIDIA H100 80GB HBN3\nCPU: 2x AMD EPYC mit insges. 192 Kernen\n\nAm Standort Leverkusen steht die folgende Hardware zur Verfügung:\n\nStorage: 750 TB; Read: 7000MB/s u. Write: 3700MB/s\n8x GPU-Node mit jeweils:\n1,5TB Arbeitsspeicher\nGPU: 4x NVIDIA L40S 48GB\nCPU: 2x AMD EPYC 32 Kerne\nTechnologie: NVMe-Flash für extreme Geschwindigkeiten (über 14 GB/s Datendurchsatz), damit die Grafikkarten nicht auf Daten warten müssen. Alle Systeme sind über ein 100 GBit/s Hochgeschwindigkeits-Netzwerk (RoCE) verbunden, was eine verzögerungsfreie Zusammenarbeit aller Knoten ermöglicht."
+  },
+  {
+    "objectID": "hpc.html#beispiele-für-projekte-die-mit-den-thk-ai-rechencluster-umgesetzt-wurden",
+    "href": "hpc.html#beispiele-für-projekte-die-mit-den-thk-ai-rechencluster-umgesetzt-wurden",
+    "title": "HPC Cluster",
+    "section": "Beispiele für Projekte, die mit den THK-AI Rechencluster umgesetzt wurden",
+    "text": "Beispiele für Projekte, die mit den THK-AI Rechencluster umgesetzt wurden\n\nVirtuelle Sensoren für autonome Fahrzeuge\nIm Rahmen des internationalen Kooperationsprojekts “ShapeFuture” haben zwei Doktoranden im THK-AI Research Cluster, Jens Brandt und Noah Pütz, unter der Leitung von Professor Bartz-Beielstein und in Zusammenarbeit mit Toyota Gazoo Racing Europe und dem VAIL Institute der Stanford University, an der Entwicklung zuverlässiger, KI-basierter virtueller Sensoren für Hochleistungsfahrzeuge geforscht. Ziel ist es, autonome Fahrsysteme robuster zu machen - auch unter kritischen Bedingungen. Autonome Fahrzeuge wurden dabei an ihre Grenzen gebracht, was zu spektakulären Fahrmanövern führte und teilweise den Eingriff eines menschlichen Fahrers erforderte. Dieses Forschungsprojekt zeigt eindrucksvoll, wie der THK-AI Rechencluster genutzt werden kann, um langfristig Innovationen für den Straßenverkehr zu ermöglichen.\nKontakt: Prof. Dr. Thomas Bartz-Beielstein\n\n\nAutonomes Fahren\nProf. Dr. Edwin Kamau betreut eine Masterarbeit, die untersucht, wie sich die Integration mehrerer spezialisierter KI-Modelle zu einem Gesamtmodell auf einem Jetson Orion Nano auf die Präzision, Zuverlässigkeit und Performance eines Fahrerassistenzsystems in einem RC-Modellfahrzeug auswirkt. Dazu werden KI-Modelle zur Erkennung von Verkehrsschildern, Personen und Fahrzeugen trainiert, in eine ROS2-basierte Systemarchitektur integriert und unter Echtzeitbedingungen (&lt;= 60 ms Inferenzzeit, &gt;= 10 FPS) auf dem Gesamtsystem getestet. Die Ergebnisse werden anhand von Performance-Messungen, visueller Auswertung mit OpenCV/TensorBoard sowie durch einen Demonstrator mit Fahrzeug, Kamera, LEDs und realitätsnaher Testumgebung dokumentiert und präsentiert.\nKontakt: Prof. Dr. Edwin Kamau\n\n\nQuantencomputing\nDie AI4Science Group der TH Köln hat unter Leitung von Prof. Dr. Pascal Cerfontaine im Rahmen des KI-Clusters ML-basierte Digital Twins für zentrale Hardwarekomponenten von Quantencomputern trainiert. Diese Modelle sollen künftig dazu beitragen, den Betrieb der Komponenten durch optimierte Regelungsstrategien zu verbessern und darüber hinaus gezielt Vorschläge für neue, leistungsfähigere Hardwaredesigns zu generieren.\nKontakt: Prof. Dr. Pascal Cerfontaine\n\n\nKünstliche Intelligenz schreibt Programmcode für SAP Unternehmenssoftware\nEin Team um Prof. Dr. Hartmut Westenberger, Mitglied des THK-AI Research Clusters an der Technischen Hochschule Köln, untersucht gemeinsam mit einem Industriepartner, wie Künstliche Intelligenz Programmcode für Unternehmenssoftware generieren kann. Im Mittelpunkt steht ABAP, die von SAP entwickelte Programmiersprache, die weltweit zur Automatisierung und Steuerung von Geschäftsprozessen in SAP-Systemen eingesetzt wird.\nLarge Language Models (LLMs) - leistungsfähige KI-Systeme wie ChatGPT - versprechen, Programmierer bei ihrer Arbeit zu unterstützen, indem sie automatisch Code generieren. Doch wie gut funktioniert das in der Praxis bei einer spezialisierten Sprache wie ABAP?\nDas Team begann vor zwei Jahren damit, verschiedene KI-Modelle auf ihre Fähigkeit zu testen, funktionsfähigen ABAP-Code zu schreiben. In der zweiten Phase des Projekts erweitern die Forschenden den international etablierten HumanEval-Testdatensatz um praxisnahe Szenarien aus dem ABAP-Umfeld, um die KI-Systeme noch realitätsnäher bewerten zu können. Für den umfangreichen Benchmark-Test nutzte das Team unter anderem die Recheninfrastruktur des THK-AI Research Clusters (thk-ai.de). Zum Einsatz kam dabei eine von Pascal Cerfontaine (ebenfalls Mitglied des THK-AI Research Clusters) bereitgestellte Schnittstelle zu verschiedenen KI-Modellen. Über 10.000 Code-Generierungen wurden durchgeführt und systematisch ausgewertet.\nLinkedIn-Post zum Projekt: https://www.linkedin.com/posts/hartmut-westenberger-8b2a21102_llm-codegeneration-benchmarking-activity-7331350438849495041-muEd\nKontakt: Prof. Dr. Hartmut Westenberger\n\n\nAutonomous Driving Challenge\nMit Hilfe der leistungsstarken Recheninfrastruktur trainierte das studentische Rennteam Escuderia Colonia unter Leitung von Prof. Dr. Elena Algorri und Prof. Mohieddine Jelali, die KI-Modelle für ihr autonomes Fahrzeug - und erreichte bei der Autonomous Driving Challenge (ADC) des Vereins Deutscher Ingenieure (VDI) den dritten Platz.\nAutonome Fahrzeuge benötigen ausgefeilte künstliche Intelligenz, um komplexe Fahraufgaben zu meistern. Das Training dieser KI-Modelle erfordert enorme Rechenleistung: Tausende Simulationen und Testläufe müssen durchgeführt werden, bevor das System zuverlässig funktioniert. Genau hier kam der THK-AI HPC-Cluster zum Einsatz, der speziell für rechenintensive KI-Anwendungen konzipiert wurde.\nDie fünf Studierenden Sebastian Pütz, Martin Cavazos de la Garza, Simon Boes, Ali Aydin und Falk Borgards nutzten den THK-AI HPC-Cluster intensiv für das Training ihrer neuronalen Netze. Der Hochleistungsrechner ermöglichte es ihnen, verschiedene KI-Architekturen parallel zu testen und ihre Modelle mit großen Datenmengen zu optimieren.\nWeitere Infos: https://www.th-koeln.de/hochschule/escuderia-colonia-campus-gummersbach-3-platz-adc-vdi-2025_130239.php\nKontakt: Prof. Dr. Elena Algorri\n\n\nTransformer-basierte Objekterkennung\nProf. Dr. Mohieddine Jelali betreute eine Masterarbeit, die die Integration verschiedener Vision-Transformer-Backbones in die YOLOv8-Architektur untersucht, um deren Eignung zur Steigerung der Erkennungsleistung bei Pflanzenerkrankungen zu analysieren.\nEs werden zwei Integrationsstrategien betrachtet: der vollständige Austausch des ursprünglichen Backbones durch den jeweiligen Vision Transformer sowie die modulare Integration von Transformer-Blöcken in den YOLOv8-Backbone unter Beibehaltung des Großteils der ursprünglichen Architektur. Alle Modelle werden dreimal auf verschiedenen Datensatzaufteilungen trainiert, um robuste Leistungsschätzungen zu gewährleisten, und anschließend auf dem festen PlantDoc-Testdatensatz evaluiert. Zur Analyse der Auswirkungen der Transformer-Integration auf interne Merkmalsrepräsentationen und Modellvorhersagen werden Methoden des Explainable AI eingesetzt.\nPflanzenkrankheiten stellen eine erhebliche Bedrohung für die weltweite Ernährungssicherheit und die langfristige Nachhaltigkeit der Landwirtschaft dar. Die rechtzeitige und genaue Erkennung von Pflanzenkrankheiten ist daher von großer Bedeutung für die Landwirtschaft. Die Masterarbeit wurde von Prof. Jelali für den “AALE Student Award” für die beste Masterarbeit auf der Konferenz der angewandten Automatisierungstechnik (AALE) 2026 vorgeschlagen. Die Ergebnisse der Arbeit werden in zwei Open-Access-Journal-Beiträgen zur Veröffentlichung eingereicht.\nKontakt: Prof. Dr. Mohieddine Jelali\n\n\nNachhaltige Entwicklung der Kaffeeindustrie, Schutz der Regenwälder und Bewältigung der Klimakrise\nIm Forschungsprojekt AI4SusCo entwickelt Prof. Dr. Gernot Heisenberg und sein Team gemeinsam mit der GRAS Global Risk Assessment Services GmbH innovative Technologien, die die Zertifizierung von Kaffee entlang globaler Lieferketten effizienter, präziser und transparenter machen. Damit leistet das Projekt einen wichtigen Beitrag zur nachhaltigen Entwicklung der Kaffeeindustrie, zum Schutz der Regenwälder und letztlich zur Bewältigung der globalen Klimakrise.\nDer Ansatz von AI4SusCo kombiniert multitemporale Fernerkundungsdaten mit modernen Deep-Learning-Architekturen wie Transformern und großen 3D-U-Net-Modellen. Durch das Vortrainieren und anschließende Feintuning dieser Modelle auf umfangreichen Satellitendatensätzen mittels des THK-AI Rechenclusters wird eine hochgenaue räumliche und zeitliche Identifikation von Kaffeeanbauflächen möglich - einschließlich der Erkennung potenzieller Expansionen in zuvor entwaldete Gebiete.\nZentraler Anwendungsfall des Projekts ist die Zertifizierung von entwaldungsfreiem Kaffee gemäß der EU-Deforestation-Verordnung (EUDR). Durch die Analyse räumlich-zeitlicher Satellitendaten unterstützt AI4SusCo Produzenten, Händler und Zertifizierungsorganisationen dabei, regulatorische Anforderungen einzuhalten und nachhaltige Lieferketten sicherzustellen.\nDas Projekt zeigt wie praxisnahe Forschung und technologische Innovation Hand in Hand zu einer nachhaltigeren globalen Landwirtschaft beitragen können.\nKontakt: Prof. Dr. Gernot Heisenberg"
+  },
+  {
+    "objectID": "hpc.html#infobox",
+    "href": "hpc.html#infobox",
+    "title": "HPC Cluster",
+    "section": "Infobox",
+    "text": "Infobox\n\nFörderlinie: KI-Nachwuchs@FH\nFörderkennzeichen: 13FH007KI2\nZuwendungssumme: 1.263.276,54 Euro\nProjektlaufzeit: Juni 2023 - November 2025\nZuwendungsempfänger: Technische Hochschule Köln\nAnsprechpartner:\nTH Köln: Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert\nVDI: Sarah Zerres, VDI Technologiezentrum GmbH\nProjektwebsite / weiterführende Infos: https://thk-ai.de"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Über THK-AI: Statuten, Mitglieder",
+    "section": "",
+    "text": "Das THK-AI Forschungscluster wurde Anfang 2023 ins Leben gerufen und am 31.01.2024 vom Präsidium der TH Köln als offizieller Forschungscluster für die Laufzeit von 2024 bis 2028 anerkannt. Unter dem Leitgedanken “Mit KI soziale Innovation gestalten” fungiert das THK-AI Forschungscluster als zentraler Ansprechpartner rund um das Thema Künstliche Intelligenz an der Hochschule. Es fördert und unterstützt kooperative Projekte zwischen Verbänden, Industriepartnern, Professorinnen und Professoren sowie Studierenden."
+  },
+  {
+    "objectID": "members.html#statuten-und-aufnahmeantrag",
+    "href": "members.html#statuten-und-aufnahmeantrag",
+    "title": "Über THK-AI: Statuten, Mitglieder",
+    "section": "Statuten und Aufnahmeantrag",
+    "text": "Statuten und Aufnahmeantrag\nDie Statuten des THK-AI Forschungsclusters vom 19. September 2025 wurden am 6. Oktober 2025 in den Amtlichen Mitteilungen der TH Köln veröffentlicht. Der Aufnahmeantrag kann [hier] heruntergeladen werden (PDF, 52kB). Bitte senden Sie das ausgefüllte Dokument an die Sprecher des Forschungsclusters."
+  },
+  {
+    "objectID": "members.html#sprecher",
+    "href": "members.html#sprecher",
+    "title": "Über THK-AI: Statuten, Mitglieder",
+    "section": "Sprecher",
+    "text": "Sprecher\n\n\n\n\n\n\n\nBild\nName\n\n\n\n\n\nThomas Bartz-BeielsteinInformatik und IngenieurwissenschaftenInstitut fuer Data Science, Engineering, and Analytics (IDE+A)\n\n\n\nAnja RichertAnlagen, Energie- und MaschinensystemeInstitut fuer Produktentwicklung und Konstruktionstechnik (IPK)"
+  },
+  {
+    "objectID": "members.html#gründungsmitglieder",
+    "href": "members.html#gründungsmitglieder",
+    "title": "Über THK-AI: Statuten, Mitglieder",
+    "section": "Gründungsmitglieder",
+    "text": "Gründungsmitglieder\n\n\n\n\n\n\n\nBild\nName\n\n\n\n\n\nPascal CerfontaineInformations-, Medien- und ElektrotechnikInstitute of Computer and Communication Technology (ICCT)\n\n\n\nArnulph FuhrmannFakultät für Informations-, Medien- und ElektrotechnikInstitut für Medien- und Phototechnik (IMP)\n\n\n\nDaniel GaidaInformatik und IngenieurwissenschaftenInstitut fuer Informatik (INF)\n\n\n\nGernot HeisenbergInformations- und KommunikationswissenschaftenInstitut fuer Informationswissenschaft (IWS)\n\n\n\nMohieddine JelalieAnlagen, Energie- und MaschinensystemeInstitut fuer Produktentwicklung und Konstruktionstechnik (IPK)\n\n\n\nEdwin KamauFahrzeugsysteme und ProduktionInstitut fuer Fahrzeugtechnik (IFK)\n\n\n\nSimone LakeInformatik und IngenieurwissenschaftenInstitut fuer Allgemeinen Maschinenbau (IAM)\n\n\n\nJörg LuderichAnlagen, Energie- und MaschinensystemeInstitut für Produktentwicklung und Konstruktionstechnik (IPK)\n\n\n\nLilia PaschFakultät für Wirtschafts- und RechtswissenschaftenSchmalenbach Institut für Wirtschaftswissenschaften (WI)\n\n\n\nEike PerminInformatik und IngenieurwissenschaftenInstitut fuer Allgemeinen Maschinenbau (IAM)\n\n\n\nBeate RheinInformations-, Medien- und ElektrotechnikInstitute of Computer and Communication Technology (ICCT)\n\n\n\nLars RibbeRaumentwicklung und InfrastruktursystemeInstitute for Natural Resources Technology and Management (ITT)\n\n\n\nJan SalmenInformations-, Medien- und ElektrotechnikInstitut fuer Medien- und Phototechnik (IMP)\n\n\n\nHartmut WestenbergerFakultät für Informatik und IngenieurwissenschaftenCologne Institute for Digital Ecosystems (CIDE)\n\n\n\nIsabel ZornAngewandte SozialwissenschaftenInstitut für Medienforschung und Medienpädagogik (IMM)"
+  },
+  {
+    "objectID": "members.html#mitglieder",
+    "href": "members.html#mitglieder",
+    "title": "Über THK-AI: Statuten, Mitglieder",
+    "section": "Mitglieder",
+    "text": "Mitglieder\n\n\n\nBild\nName\n\n\n\n\n\nMaria Elena AlgorriInformatik und IngenieurwissenschaftenInstitut fuer Automation & Industrial IT (AIT)\n\n\n\nPeter KernFakultät für Informatik und IngenieurwissenschaftenInstitut für Automation & Industrial IT (AIT)\n\n\n\nRoman BartnikFakultät für Informatik und IngenieurwissenschaftenInstitute for Business Administration and Leadership (IBAL)\n\n\n\nRichard SiegFakultät für Informations- und KommunikationswissenschaftenInstitut für Informationswissenschaft (IWS)\n\n\n\nKarolina SuchowolekInformations-, und KommunikationswissenschaftenInstitut fuer Translation und Mehrsprachige Kommunikation\n\n\n\nNicolas BennerscheidFakultät für Informations-, Medien- und ElektrotechnikInstitut für Automatisierungstechnik (IA)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "THK-AI Research Cluster",
+    "section": "",
+    "text": "Welcome to THK-AI Research Cluster\n\n\n\nThe THK-AI Research Cluster at the Technische Hochschule Köln is dedicated to advancing artificial intelligence research and applications. Our mission is to foster innovation, collaboration, and knowledge sharing in the field of AI, with a focus on practical solutions that address real-world challenges."
+  },
+  {
+    "objectID": "veranstaltungen.html",
+    "href": "veranstaltungen.html",
+    "title": "Veranstaltungen",
+    "section": "",
+    "text": "Datum\nZeit\nOrt/Raum\nVeranstaltung\nBemerkung\n\n\n\n\n29.01.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n07.05.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.07.2025\n15:00-17:00\nOnline (MS-Teams)\nKI-Cluster Workshop zur Bedarfsermittlung\nintern\n\n\n10.09.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n03.12.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n22.01.2026\n10:30-12:00\nOnline (MS-Teams)\nAhmed Qarqour: Development of a data-driven modelfor predicting the reliability ofheating systems\nVortrag mit Diskussion im THK-AI Doktorandenseminar. Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n29.1.2026\n11:00-12:00\nOnline\nBesprechung Antragstellung\nintern\n\n\n5.2.2026\n11:00-12:00\nSPOTSeven Lab (Raum 1.518)\nAustausch DLR\nintern\n\n\n12.2.2026\n10:30-12:00\nSPOTSeven Lab\nMarcel Klimm: Accelerating Surrogate-Model BasedOptimization\nKolloquium. Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n19.2.2026\n10:00-13:00\nSPOTSeven Lab\nCase-Study Presentations: Physics-Informed Neural Networks\nAnmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n26.2.2026\n10:00-11:30\nSPOTSeven Lab\nVekil Bekmyradov: LLMs in the Context of Large Scale Software Projects\nintern\n\n\n04.03.2026\n9:00-12:00\nOnline (MS-Teams)\nMitgliedertreffen und Bedarfsanalyse\nintern\n\n\n12.3.2026\n10:30-12:00\nOnline (Zoom)\nKooperation: Forschungsschwerpunkt “Risiko, Resilienz und Transformation”\nintern\n\n\n19.3.2026\n10:30-12:00\nSpotSevenLab\nNguyen Ha Ngan: AI and Water Resources Management\nDoktorandenkolloquium: Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n03.06.2026\n14:00-15:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.09.2026\n9:00-10:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.12.2026\n14:00-15:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern"
   },
   {
     "objectID": "GITHUB_PAGES_SETUP.html",
@@ -14,10 +112,10 @@
     "text": "GitHub Pages Configuration\nTo enable GitHub Pages for your Quarto site:\n\nGo to your repository settings on GitHub.\nNavigate to the “Pages” section.\nSet the source to the gh-pages branch (created by the GitHub Action).\nSave the settings.\n\nYour site will be published at: https://.github.io//\nThe GitHub Action will automatically render and publish your site whenever you push changes to the main or master branch."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "THK-AI Research Cluster",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Welcome to THK-AI Research Cluster\n\n\n\nThe THK-AI Research Cluster at the Technische Hochschule Köln is dedicated to advancing artificial intelligence research and applications. Our mission is to foster innovation, collaboration, and knowledge sharing in the field of AI, with a focus on practical solutions that address real-world challenges."
+    "text": "THK-AI"
   }
 ]
