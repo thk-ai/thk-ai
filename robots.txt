@@ -1,1 +1,1 @@
-Sitemap: https://sequential-parameter-optimization.github.io/thk-ai/sitemap.xml
+Sitemap: https://thk-ai.de/sitemap.xml

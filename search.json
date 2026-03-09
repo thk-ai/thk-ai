@@ -51,9 +51,51 @@
   {
     "objectID": "GITHUB_PAGES_SETUP.html",
     "href": "GITHUB_PAGES_SETUP.html",
-    "title": "GitHub Pages Configuration",
+    "title": "GitHub Pages With Custom Domain thk-ai.de",
     "section": "",
-    "text": "GitHub Pages Configuration\nTo enable GitHub Pages for your Quarto site:\n\nGo to your repository settings on GitHub.\nNavigate to the “Pages” section.\nSet the source to the gh-pages branch (created by the GitHub Action).\nSave the settings.\n\nYour site will be published at: https://.github.io//\nThe GitHub Action will automatically render and publish your site whenever you push changes to the main or master branch."
+    "text": "This repository is published with GitHub Pages and should be reachable at:\n\nhttps://thk-ai.de/\n\n\n\nSet the domain to use DNS entries managed in Nameserver-Einstellungen.\n\nKeep nameserver at DomainFactory default (unless you deliberately moved DNS to another provider).\nDo not use URL forwarding for thk-ai.de to GitHub Pages.\nWeb/mail services can remain active for mail records (MX/CNAME mail hostnames).\n\n\n\n\nReplace the current website records that point to 139.6.56.127.\n\n\nCreate/keep these records for thk-ai.de:\n\nA -&gt; 185.199.108.153\nA -&gt; 185.199.109.153\nA -&gt; 185.199.110.153\nA -&gt; 185.199.111.153\nAAAA -&gt; 2606:50c0:8000::153\nAAAA -&gt; 2606:50c0:8001::153\nAAAA -&gt; 2606:50c0:8002::153\nAAAA -&gt; 2606:50c0:8003::153\n\n\n\n\nCreate:\n\nwww CNAME -&gt; thk-ai.github.io\n\nThis lets https://www.thk-ai.de work and redirect to the primary domain configured in GitHub.\n\n\n\n\nRemove thk-ai.de A 139.6.56.127\nRemove *.thk-ai.de A 139.6.56.127 (wildcard A to old host)\nRemove default placeholder AAAA entries for thk-ai.de and *.thk-ai.de if they are not the GitHub IPv6 addresses above.\n\n\n\n\n\nKeep existing mail-related records (MX and CNAME like imap, smtp, webmail, etc.).\n\n\n\n\n\nIn GitHub repository thk-ai/thk-ai:\n\nOpen Settings -&gt; Pages.\nUnder Build and deployment, keep your existing publishing source (typically GitHub Actions for Quarto, or gh-pages branch if used).\nIn Custom domain, enter thk-ai.de and save.\nEnable Enforce HTTPS after DNS is valid and certificate is issued.\n\nGitHub will create/use a CNAME file during deployment for the custom domain.\n\n\n\n_quarto.yml should use:\n\nwebsite.site-url: https://thk-ai.de/\n\nThis is already configured.\n\n\n\nAfter DNS changes (can take minutes to 24h depending on TTL):\n\ndig +short thk-ai.de A returns the four GitHub IPv4 addresses.\ndig +short thk-ai.de AAAA returns the four GitHub IPv6 addresses.\ndig +short www.thk-ai.de CNAME returns thk-ai.github.io. (if configured).\nhttps://thk-ai.de/ opens the GitHub Pages site.\nIn GitHub Pages settings, certificate status is active and Enforce HTTPS stays enabled.\n\n\n\n\nCurrent DNS points web traffic to 139.6.56.127 (old hosting). That must be removed/replaced for GitHub Pages to answer for thk-ai.de."
+  },
+  {
+    "objectID": "GITHUB_PAGES_SETUP.html#domainfactory-domain-einstellungen",
+    "href": "GITHUB_PAGES_SETUP.html#domainfactory-domain-einstellungen",
+    "title": "GitHub Pages With Custom Domain thk-ai.de",
+    "section": "",
+    "text": "Set the domain to use DNS entries managed in Nameserver-Einstellungen.\n\nKeep nameserver at DomainFactory default (unless you deliberately moved DNS to another provider).\nDo not use URL forwarding for thk-ai.de to GitHub Pages.\nWeb/mail services can remain active for mail records (MX/CNAME mail hostnames)."
+  },
+  {
+    "objectID": "GITHUB_PAGES_SETUP.html#domainfactory-nameserver-einstellungen-dns-zone",
+    "href": "GITHUB_PAGES_SETUP.html#domainfactory-nameserver-einstellungen-dns-zone",
+    "title": "GitHub Pages With Custom Domain thk-ai.de",
+    "section": "",
+    "text": "Replace the current website records that point to 139.6.56.127.\n\n\nCreate/keep these records for thk-ai.de:\n\nA -&gt; 185.199.108.153\nA -&gt; 185.199.109.153\nA -&gt; 185.199.110.153\nA -&gt; 185.199.111.153\nAAAA -&gt; 2606:50c0:8000::153\nAAAA -&gt; 2606:50c0:8001::153\nAAAA -&gt; 2606:50c0:8002::153\nAAAA -&gt; 2606:50c0:8003::153\n\n\n\n\nCreate:\n\nwww CNAME -&gt; thk-ai.github.io\n\nThis lets https://www.thk-ai.de work and redirect to the primary domain configured in GitHub.\n\n\n\n\nRemove thk-ai.de A 139.6.56.127\nRemove *.thk-ai.de A 139.6.56.127 (wildcard A to old host)\nRemove default placeholder AAAA entries for thk-ai.de and *.thk-ai.de if they are not the GitHub IPv6 addresses above.\n\n\n\n\n\nKeep existing mail-related records (MX and CNAME like imap, smtp, webmail, etc.)."
+  },
+  {
+    "objectID": "GITHUB_PAGES_SETUP.html#github-repository-settings-pages",
+    "href": "GITHUB_PAGES_SETUP.html#github-repository-settings-pages",
+    "title": "GitHub Pages With Custom Domain thk-ai.de",
+    "section": "",
+    "text": "In GitHub repository thk-ai/thk-ai:\n\nOpen Settings -&gt; Pages.\nUnder Build and deployment, keep your existing publishing source (typically GitHub Actions for Quarto, or gh-pages branch if used).\nIn Custom domain, enter thk-ai.de and save.\nEnable Enforce HTTPS after DNS is valid and certificate is issued.\n\nGitHub will create/use a CNAME file during deployment for the custom domain."
+  },
+  {
+    "objectID": "GITHUB_PAGES_SETUP.html#quarto-configuration-in-this-repo",
+    "href": "GITHUB_PAGES_SETUP.html#quarto-configuration-in-this-repo",
+    "title": "GitHub Pages With Custom Domain thk-ai.de",
+    "section": "",
+    "text": "_quarto.yml should use:\n\nwebsite.site-url: https://thk-ai.de/\n\nThis is already configured."
+  },
+  {
+    "objectID": "GITHUB_PAGES_SETUP.html#verification-checklist",
+    "href": "GITHUB_PAGES_SETUP.html#verification-checklist",
+    "title": "GitHub Pages With Custom Domain thk-ai.de",
+    "section": "",
+    "text": "After DNS changes (can take minutes to 24h depending on TTL):\n\ndig +short thk-ai.de A returns the four GitHub IPv4 addresses.\ndig +short thk-ai.de AAAA returns the four GitHub IPv6 addresses.\ndig +short www.thk-ai.de CNAME returns thk-ai.github.io. (if configured).\nhttps://thk-ai.de/ opens the GitHub Pages site.\nIn GitHub Pages settings, certificate status is active and Enforce HTTPS stays enabled."
+  },
+  {
+    "objectID": "GITHUB_PAGES_SETUP.html#notes-on-current-state",
+    "href": "GITHUB_PAGES_SETUP.html#notes-on-current-state",
+    "title": "GitHub Pages With Custom Domain thk-ai.de",
+    "section": "",
+    "text": "Current DNS points web traffic to 139.6.56.127 (old hosting). That must be removed/replaced for GitHub Pages to answer for thk-ai.de."
   },
   {
     "objectID": "index.html",
