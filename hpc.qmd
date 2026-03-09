@@ -6,7 +6,7 @@ title: "HPC Cluster"
 
 Mit dem Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) hat die Technische Hochschule Köln ihre Kompetenzen im Bereich der anwendungs- und transferorientieren KI-Forschung zur Förderung des wissenschaftlichen Nachwuchses erheblich verbessert. Das Projekt hat außerdem zu neuen Forschungskooperationen und zu einem Transfer der Erkenntnisse in die Gesellschaft beigetragen. Geleitet wurde es von Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert.
 
-![](figures/hpc/456410560_421190631072165_8138010485341361475_n.jpg)
+![HPC Cluster](figures/hpc/456410560_421190631072165_8138010485341361475_n.jpg){fig-alt="THK-AI HPC Cluster" width=50%}
 
 ## Herausforderung
 

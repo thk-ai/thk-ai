@@ -10,9 +10,9 @@ lang: en
 :::{.column width="48%"}
 ![](figures/logos/THK-AI-Absenderkennung-EN.png){.hero-logo}
 
-# AI research with real-world impact
+## The central contact point for AI at TH Koln
 
-The THK-AI Research Cluster at TH Koln connects researchers, students, and industry partners to build practical AI solutions in mobility, sustainability, social impact, and engineering.
+The THK-AI Research Cluster promotes and supports collaborative projects between associations, industry partners, professors, and students.
 
 [Explore Research](forschung.qmd){.btn .btn-primary .hero-btn}
 [Meet the Team](members.qmd){.btn .btn-outline-light .hero-btn}
@@ -24,26 +24,24 @@ The THK-AI Research Cluster at TH Koln connects researchers, students, and indus
 :::
 :::
 
-:::{.stats-strip}
-:::{.stat-item}
-### 19
-Professor*innen
-:::
-:::{.stat-item}
-### 8
-Faculties
-:::
-:::{.stat-item}
-### 2
-Campuses
-:::
-:::{.stat-item}
-### 7,000 MB/s
-Processing throughput
+## Members
+
+:::{.columns .v-center}
+:::{.column width="60%"}
+::: {.callout-note appearance="simple"}
+### Collaboration
+With more than 20 professors from all TH Koln faculties, the THK-AI Research Cluster is one of the largest AI research collaborations at a German university of applied sciences.
 :::
 :::
 
-## Why THK-AI
+:::{.column width="40%"}
+
+![Founding members](local/founding_members_low.png){.team-mosaic fig-alt="Founding members of the THK-AI Cluster"}
+:::
+:::
+
+
+## Why THK-AI?
 
 :::{.feature-grid}
 :::{.feature-card}
@@ -65,22 +63,12 @@ A distributed high-performance setup in Gummersbach and Leverkusen enables resil
 :::
 :::
 
-## THK-KIplus highlights
+## THK-AI Example Project
 
-:::{.columns}
-:::{.column width="60%"}
 ::: {.callout-note appearance="simple"}
 The project **THK-KIplus** (TH Koln - Kunstliche Intelligenz plus) was funded from June 2023 to November 2025 in the federal program **KI-Nachwuchs@FH** by the Federal Ministry for Research, Technology and Space.
-:::
 
-::: {.callout-tip appearance="simple"}
-The initiative was funded with **around 1.3 million EUR** and built one of the strongest AI-oriented research compute infrastructures among German universities of applied sciences.
-:::
-:::
-
-:::{.column width="40%"}
-![](local/founding_members_low.png){.team-mosaic fig-alt="Founding members of THK-AI"}
-:::
+The initiative received funding of **around EUR 1.3 million** and established one of the strongest AI-oriented research infrastructures at German universities of applied sciences.
 :::
 
 ## Focus areas
@@ -112,7 +100,7 @@ Responsible AI for education, social contexts, and industry collaboration.
 ![](local/CAIRNE.d/Outlook-2d2n4pxp.png){fig-alt="CAIRNE logo" width="100%"}
 :::
 :::{.column width="64%"}
-::: {.callout-important appearance="simple"}
+::: {.callout-tip appearance="simple"}
 THK-AI is a **Gold Member** of the **CAIRNE Research Network** (Confederation of Laboratories for Artificial Intelligence Research in Europe).
 :::
 
@@ -123,7 +111,7 @@ CAIRNE is a European non-profit AI community with a human-centred focus. It conn
 :::
 :::
 
-## Join the network
+## Join and connect
 
 If you are looking for collaboration, student projects, or applied AI research partnerships, THK-AI is your central contact point at TH Koln.
 
