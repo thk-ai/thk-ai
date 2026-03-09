@@ -18,21 +18,21 @@ Die [Statuten des THK-AI Forschungsclusters vom 19. September 2025](https://www.
 ![](figures/logos/Outlook-2d2n4pxp.png){fig-alt="CAIRNE Logo" width="100%"}
 :::
 :::{.column width="65%"}
-Das THK-AI Forschungscluster ist **CAIRNE Gold Member**. Die Gold-Mitgliedschaft wurde 2025 vertraglich formalisiert und ist ein wichtiger Baustein fur die internationale Vernetzung des Clusters.
+Das THK-AI Forschungscluster ist **CAIRNE Gold Member**. Die Gold-Mitgliedschaft wurde 2025 vertraglich formalisiert und ist ein wichtiger Baustein für die internationale Vernetzung des Clusters.
 :::
 :::
 
-CAIRNE steht fur **Confederation of Laboratories for Artificial Intelligence Research in Europe** und ist eine internationale, gemeinnutzige Vereinigung (AISBL), die aus der europaischen KI-Community entstanden ist. Ziel ist es, europaische Exzellenz in KI-Forschung und KI-Innovation mit einem klaren Schwerpunkt auf **human-centered, trustworthy und responsible AI** zu starken.
+CAIRNE steht für **Confederation of Laboratories for Artificial Intelligence Research in Europe** und ist eine internationale, gemeinnützige Vereinigung (AISBL), die aus der europäischen KI-Community entstanden ist. Ziel ist es, europäische Exzellenz in KI-Forschung und KI-Innovation mit einem klaren Schwerpunkt auf **human-centered, trustworthy und responsible AI** zu stärken.
 
-Das Netzwerk fordert die Zusammenarbeit zwischen Forschungseinrichtungen, Industrie und Politik in Europa. Dazu gehoren unter anderem:
+Das Netzwerk fordert die Zusammenarbeit zwischen Forschungseinrichtungen, Industrie und Politik in Europa. Dazu gehören unter anderem:
 
-- Sichtbarkeit und Interessenvertretung europaischer KI-Forschung
-- Vernetzung und grenzuberschreitende Kooperationen
-- Community-Building und Beteiligung an europaischen Forschungsinitiativen
+- Sichtbarkeit und Interessenvertretung europäischer KI-Forschung
+- Vernetzung und grenzüberschreitende Kooperationen
+- Community-Building und Beteiligung an europäischen Forschungsinitiativen
 
-Mit der Gold-Mitgliedschaft bringt THK-AI seine Forschungsstarken in die europaische Community ein, darunter interdisziplinare KI-Anwendungen, verantwortungsvolle KI-Entwicklung sowie der Transfer in Praxis und Gesellschaft.
+Mit der Gold-Mitgliedschaft bringt THK-AI seine Forschungsstärken in die europäische Community ein, darunter interdisziplinäre KI-Anwendungen, verantwortungsvolle KI-Entwicklung sowie der Transfer in Praxis und Gesellschaft.
 
-Weiterfuhrende Informationen:
+Weiterführende Informationen:
 
 - [CAIRNE Website](https://cairne.eu)
 - [CAIRNE Vision](https://cairne.eu/vision/)
