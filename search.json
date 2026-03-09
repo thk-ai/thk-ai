@@ -7,18 +7,32 @@
     "text": "Deutsche Version"
   },
   {
+    "objectID": "index-en.html#the-central-contact-point-for-ai-at-th-koln",
+    "href": "index-en.html#the-central-contact-point-for-ai-at-th-koln",
+    "title": "Welcome to THK-AI Research Cluster",
+    "section": "The central contact point for AI at TH Koln",
+    "text": "The central contact point for AI at TH Koln\nThe THK-AI Research Cluster promotes and supports collaborative projects between associations, industry partners, professors, and students.\nExplore Research Meet the Team"
+  },
+  {
+    "objectID": "index-en.html#members",
+    "href": "index-en.html#members",
+    "title": "Welcome to THK-AI Research Cluster",
+    "section": "Members",
+    "text": "Members\n\n\n\n\n\n\n\n\nNoteCollaboration\n\n\n\nWith more than 20 professors from all TH Koln faculties, the THK-AI Research Cluster is one of the largest AI research collaborations at a German university of applied sciences.\n\n\n\n\n\n\nFounding members"
+  },
+  {
     "objectID": "index-en.html#why-thk-ai",
     "href": "index-en.html#why-thk-ai",
     "title": "Welcome to THK-AI Research Cluster",
-    "section": "Why THK-AI",
-    "text": "Why THK-AI\n\n\nApplied AI at scale\nTHK-AI combines modern compute infrastructure and interdisciplinary expertise to accelerate applied AI from prototype to deployment.\n\n\nOpen for collaboration\nThe cluster supports cooperative projects between associations, companies, professors, and students across disciplines.\n\n\nStrong infrastructure\nA distributed high-performance setup in Gummersbach and Leverkusen enables resilient research workflows and 24/7 web access."
+    "section": "Why THK-AI?",
+    "text": "Why THK-AI?\n\n\nApplied AI at scale\nTHK-AI combines modern compute infrastructure and interdisciplinary expertise to accelerate applied AI from prototype to deployment.\n\n\nOpen for collaboration\nThe cluster supports cooperative projects between associations, companies, professors, and students across disciplines.\n\n\nStrong infrastructure\nA distributed high-performance setup in Gummersbach and Leverkusen enables resilient research workflows and 24/7 web access."
   },
   {
-    "objectID": "index-en.html#thk-kiplus-highlights",
-    "href": "index-en.html#thk-kiplus-highlights",
+    "objectID": "index-en.html#thk-ai-example-project",
+    "href": "index-en.html#thk-ai-example-project",
     "title": "Welcome to THK-AI Research Cluster",
-    "section": "THK-KIplus highlights",
-    "text": "THK-KIplus highlights\n\n\n\n\n\n\n\n\nThe project THK-KIplus (TH Koln - Kunstliche Intelligenz plus) was funded from June 2023 to November 2025 in the federal program KI-Nachwuchs@FH by the Federal Ministry for Research, Technology and Space.\n\n\n\n\n\n\n\n\n\nThe initiative was funded with around 1.3 million EUR and built one of the strongest AI-oriented research compute infrastructures among German universities of applied sciences."
+    "section": "THK-AI Example Project",
+    "text": "THK-AI Example Project\n\n\n\n\n\n\nThe project THK-KIplus (TH Koln - Kunstliche Intelligenz plus) was funded from June 2023 to November 2025 in the federal program KI-Nachwuchs@FH by the Federal Ministry for Research, Technology and Space.\nThe initiative received funding of around EUR 1.3 million and established one of the strongest AI-oriented research infrastructures at German universities of applied sciences."
   },
   {
     "objectID": "index-en.html#focus-areas",
@@ -35,25 +49,25 @@
     "text": "CAIRNE Gold Member\n\n\n\n\n\n\n\n\n\n\nTHK-AI is a Gold Member of the CAIRNE Research Network (Confederation of Laboratories for Artificial Intelligence Research in Europe).\n\n\n\nCAIRNE is a European non-profit AI community with a human-centred focus. It connects research institutions, industry, and policy stakeholders to strengthen AI excellence, collaboration, and digital sovereignty across Europe.\nLearn more about CAIRNE Read more about THK-AI"
   },
   {
-    "objectID": "index-en.html#join-the-network",
-    "href": "index-en.html#join-the-network",
+    "objectID": "index-en.html#join-and-connect",
+    "href": "index-en.html#join-and-connect",
     "title": "Welcome to THK-AI Research Cluster",
-    "section": "Join the network",
-    "text": "Join the network\nIf you are looking for collaboration, student projects, or applied AI research partnerships, THK-AI is your central contact point at TH Koln.\nContact and About Teaching Activities"
+    "section": "Join and connect",
+    "text": "Join and connect\nIf you are looking for collaboration, student projects, or applied AI research partnerships, THK-AI is your central contact point at TH Koln.\nContact and About Teaching Activities"
   },
   {
     "objectID": "hpc.html",
     "href": "hpc.html",
     "title": "HPC Cluster",
     "section": "",
-    "text": "Mit dem Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) hat die Technische Hochschule Köln ihre Kompetenzen im Bereich der anwendungs- und transferorientieren KI-Forschung zur Förderung des wissenschaftlichen Nachwuchses erheblich verbessert. Das Projekt hat außerdem zu neuen Forschungskooperationen und zu einem Transfer der Erkenntnisse in die Gesellschaft beigetragen. Geleitet wurde es von Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert."
+    "text": "Mit dem Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) hat die Technische Hochschule Köln ihre Kompetenzen im Bereich der anwendungs- und transferorientieren KI-Forschung zur Förderung des wissenschaftlichen Nachwuchses erheblich verbessert. Das Projekt hat außerdem zu neuen Forschungskooperationen und zu einem Transfer der Erkenntnisse in die Gesellschaft beigetragen. Geleitet wurde es von Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert.\n\n\n\nHPC Cluster"
   },
   {
     "objectID": "hpc.html#zusammenfassung",
     "href": "hpc.html#zusammenfassung",
     "title": "HPC Cluster",
     "section": "",
-    "text": "Mit dem Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) hat die Technische Hochschule Köln ihre Kompetenzen im Bereich der anwendungs- und transferorientieren KI-Forschung zur Förderung des wissenschaftlichen Nachwuchses erheblich verbessert. Das Projekt hat außerdem zu neuen Forschungskooperationen und zu einem Transfer der Erkenntnisse in die Gesellschaft beigetragen. Geleitet wurde es von Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert."
+    "text": "Mit dem Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) hat die Technische Hochschule Köln ihre Kompetenzen im Bereich der anwendungs- und transferorientieren KI-Forschung zur Förderung des wissenschaftlichen Nachwuchses erheblich verbessert. Das Projekt hat außerdem zu neuen Forschungskooperationen und zu einem Transfer der Erkenntnisse in die Gesellschaft beigetragen. Geleitet wurde es von Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert.\n\n\n\nHPC Cluster"
   },
   {
     "objectID": "hpc.html#herausforderung",
@@ -214,14 +228,14 @@
     "href": "index.html#warum-thk-ai",
     "title": "Willkommen beim THK-AI Forschungscluster",
     "section": "Warum THK-AI?",
-    "text": "Warum THK-AI?\n\n\nAngewandte KI mit Skalierung\nTHK-AI verbindet leistungsfähige Recheninfrastruktur mit interdisziplinärer Expertise, um KI von der Idee bis zum einsatzfähigen Prototypen zu bringen.\n\n\nOffen für Kooperation\nDas Cluster unterstützt gemeinsame Projekte zwischen Verbanden, Unternehmen, Professorinnen und Professoren sowie Studierenden aus unterschiedlichen Fachrichtungen.\n\n\nStarke Infrastruktur\nDie verteilte Infrastruktur in Gummersbach und Leverkusen ermöglicht robuste Forschungsprozesse und webbasierten Zugriff rund um die Uhr."
+    "text": "Warum THK-AI?\n\n\nAngewandte KI mit Skalierung\nTHK-AI verbindet leistungsfähige Recheninfrastruktur mit interdisziplinärer Expertise, um KI von der Idee bis zum einsatzfähigen Prototypen zu bringen.\n\n\nOffen für Kooperation\nDas Cluster unterstützt gemeinsame Projekte zwischen Verbänden, Unternehmen, Professorinnen und Professoren sowie Studierenden aus unterschiedlichen Fachrichtungen.\n\n\nStarke Infrastruktur\nDie verteilte Infrastruktur in Gummersbach und Leverkusen ermöglicht robuste Forschungsprozesse und webbasierten Zugriff rund um die Uhr."
   },
   {
     "objectID": "index.html#thk-ai-beispielprojekt",
     "href": "index.html#thk-ai-beispielprojekt",
     "title": "Willkommen beim THK-AI Forschungscluster",
     "section": "THK-AI Beispielprojekt",
-    "text": "THK-AI Beispielprojekt\n\n\n\n\n\n\nDas Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) wurde von Juni 2023 bis November 2025 im Programm KI-Nachwuchs@FH durch das Bundesministerium für Forschung, Technologie und Raumfahrt gefördert. Die Initiative wurde mit rund 1,3 Mio. EUR gefördert und hat eine der leistungsstarksten KI-orientierten Forschungsinfrastrukturen an Hochschulen für angewandte Wissenschaften in Deutschland aufgebaut."
+    "text": "THK-AI Beispielprojekt\n\n\n\n\n\n\nDas Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) wurde von Juni 2023 bis November 2025 im Programm KI-Nachwuchs@FH durch das Bundesministerium für Forschung, Technologie und Raumfahrt gefördert. Die Initiative wurde mit rund 1,3 Mio. EUR gefördert und hat eine der leistungsstärksten KI-orientierten Forschungsinfrastrukturen an Hochschulen für angewandte Wissenschaften in Deutschland aufgebaut."
   },
   {
     "objectID": "index.html#thematische-schwerpunkte",
