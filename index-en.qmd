@@ -19,7 +19,7 @@ The THK-AI Research Cluster promotes and supports collaborative projects between
 :::
 
 :::{.column width="52%"}
-![](local/TH-KIplus_Monika Probst.jpg){.hero-image fig-alt="THK-AI research context"}
+![](figures/hpc/TH-KIplus_Monika%20Probst.jpg){.hero-image fig-alt="THK-AI research context"}
 :::
 :::
 :::
@@ -36,7 +36,7 @@ With more than 20 professors from all TH Koln faculties, the THK-AI Research Clu
 
 :::{.column width="40%"}
 
-![Founding members](local/founding_members_low.png){.team-mosaic fig-alt="Founding members of the THK-AI Cluster"}
+![Founding members](figures/members/founding_members_low.png){.team-mosaic fig-alt="Founding members of the THK-AI Cluster"}
 :::
 :::
 
@@ -97,7 +97,7 @@ Responsible AI for education, social contexts, and industry collaboration.
 
 :::{.columns .v-center}
 :::{.column width="36%"}
-![](local/CAIRNE.d/Outlook-2d2n4pxp.png){fig-alt="CAIRNE logo" width="100%"}
+![](figures/logos/Outlook-2d2n4pxp.png){fig-alt="CAIRNE logo" width="100%"}
 :::
 :::{.column width="64%"}
 ::: {.callout-tip appearance="simple"}

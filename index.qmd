@@ -19,7 +19,7 @@ Das THK-AI Forschungscluster fördert und unterstützt kooperative Projekte zwis
 :::
 
 :::{.column width="52%"}
-![](local/TH-KIplus_Monika Probst.jpg){.hero-image fig-alt="Forschungskontext THK-AI"}
+![](figures/hpc/TH-KIplus_Monika%20Probst.jpg){.hero-image fig-alt="Forschungskontext THK-AI"}
 :::
 :::
 :::
@@ -36,7 +36,7 @@ Mit mehr als 20 Professorinnen und Professoren aus allen Fakultäten der TH Köl
 
 :::{.column width="40%"}
 
-![Gründungsmitglieder](local/founding_members_low.png){.team-mosaic fig-alt="Gründungsmitglieder des THK-AI Clusters"}
+![Gründungsmitglieder](figures/members/founding_members_low.png){.team-mosaic fig-alt="Gründungsmitglieder des THK-AI Clusters"}
 :::
 :::
 
@@ -96,7 +96,7 @@ Verantwortungsvolle KI für Bildung, soziale Kontexte und Kooperation mit der Pr
 
 :::{.columns .v-center}
 :::{.column width="36%"}
-![](local/CAIRNE.d/Outlook-2d2n4pxp.png){fig-alt="CAIRNE Logo" width="100%"}
+![](figures/logos/Outlook-2d2n4pxp.png){fig-alt="CAIRNE Logo" width="100%"}
 :::
 :::{.column width="64%"}
 ::: {.callout-tip appearance="simple"}
