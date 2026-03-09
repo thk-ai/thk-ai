@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/robocup/robocup_2.jpeg){.news-card-image fig-alt="RoboCup Challenge Vorbereitung"}
+[RoboCup 2026: Prof. Dr. Elena Algorri startet mit Team in die Challenge](news/robocup-challenge-elena-algorri-thk-ai.md)
+`2026-03-09`
+
+Prof. Dr. Elena Algorri und ihr Team vom THK-AI Forschungscluster stehen in den finalen Vorbereitungen fuer die diesjaehrige RoboCup Challenge - mit starkem Fokus auf Robotik, maschinelles Sehen und KI in realen Wettbewerbsszenarien.
+
+[Zum Beitrag](news/robocup-challenge-elena-algorri-thk-ai.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/GI_Logo_RG-KOELN.png){.news-card-image fig-alt="GI Veranstaltung"}
 [GI-Veranstaltung: Berufsbild Informatik - Braucht man noch Entwickler?](news/gi-veranstaltung-berufsbild-informatik-braucht-man-noch-entwickler.md)
 `2026-02-23`
