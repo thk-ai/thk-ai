@@ -1,39 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://thk-ai.de/themenseite-sozial.html</loc>
-    <lastmod>2026-03-09T18:58:17.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thk-ai.de/about.html</loc>
-    <lastmod>2026-03-09T18:58:17.931Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thk-ai.de/forschung.html</loc>
-    <lastmod>2026-03-09T18:58:17.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thk-ai.de/themenseite-wasser.html</loc>
-    <lastmod>2026-03-09T18:58:17.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thk-ai.de/veranstaltungen.html</loc>
-    <lastmod>2026-03-09T18:58:17.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thk-ai.de/index.html</loc>
-    <lastmod>2026-03-09T18:58:17.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thk-ai.de/lehre.html</loc>
-    <lastmod>2026-03-09T18:58:17.950Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thk-ai.de/members.html</loc>
-    <lastmod>2026-03-09T18:58:17.950Z</lastmod>
+    <loc>https://thk-ai.de/index-en.html</loc>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
   </url>
   <url>
     <loc>https://thk-ai.de/hpc.html</loc>
-    <lastmod>2026-03-09T18:58:17.950Z</lastmod>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/members.html</loc>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/index-de.html</loc>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/themenseite-wasser.html</loc>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/veranstaltungen.html</loc>
+    <lastmod>2026-03-09T19:43:44.730Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/index.html</loc>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/lehre.html</loc>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/forschung.html</loc>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/about.html</loc>
+    <lastmod>2026-03-09T19:43:44.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thk-ai.de/themenseite-sozial.html</loc>
+    <lastmod>2026-03-09T19:43:44.729Z</lastmod>
   </url>
 </urlset>

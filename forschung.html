@@ -125,6 +125,14 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">DE</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./index-en.html"> 
+<span class="menu-text">EN</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/thk-ai/thk-ai"> <i class="bi bi-github" role="img">
 </i> 
@@ -225,6 +233,57 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle color mode"></button>
+<script>
+(function () {
+  function labels() {
+    var lang = (document.documentElement.getAttribute("lang") || "en").toLowerCase();
+    if (lang.indexOf("de") === 0) {
+      return { dark: "Dunkel", light: "Hell" };
+    }
+    return { dark: "Dark", light: "Light" };
+  }
+
+  function preferredTheme() {
+    var saved = localStorage.getItem("thk-theme");
+    if (saved === "dark" || saved === "light") {
+      return saved;
+    }
+    return "dark";
+  }
+
+  function applyTheme(theme) {
+    document.body.classList.toggle("theme-dark", theme === "dark");
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var text = labels();
+    btn.textContent = theme === "dark" ? text.light : text.dark;
+    btn.setAttribute("data-theme", theme);
+    btn.setAttribute("title", theme === "dark" ? text.light : text.dark);
+    btn.setAttribute("aria-label", theme === "dark" ? text.light : text.dark);
+  }
+
+  function initToggle() {
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var theme = preferredTheme();
+    applyTheme(theme);
+
+    btn.addEventListener("click", function () {
+      var current = btn.getAttribute("data-theme") || "light";
+      var next = current === "dark" ? "light" : "dark";
+      localStorage.setItem("thk-theme", next);
+      applyTheme(next);
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initToggle);
+  } else {
+    initToggle();
+  }
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

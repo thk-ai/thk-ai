@@ -1,122 +1,45 @@
 [
   {
-    "objectID": "themenseite-sozial.html",
-    "href": "themenseite-sozial.html",
-    "title": "Themenseite Sozial-interaktive KI-Agenten",
-    "section": "",
-    "text": "Projekt\nBeteiligte\n\n\n\n\nSkilled - Sozioempathische KI-basierte Dialoge\nTH Köln,DB Systel GmbH (Tochter der Deutsche Bahn AG), Fraport AG, Hamburger Hochbahn AG, Deutsches Meeresmuseum Stralsund, Kreisstadt Bergheim, Deutsches Museum Bonn\n\n\nREDiEE - Roll-out, Empowerment, Design in Engineering Education\nTH Köln\n\n\nReACD - Reaktion auf Cybersicherheitsvorfälle und Datenverlust\nTH Köln\n\n\nHINT - Hybride Interaktive Avatare für Post-COVID-Betroffene\nTH Köln,Universitätsklinikum Köln,Humanizing Technologies"
-  },
-  {
-    "objectID": "themenseite-sozial.html#forschungsprojekt-im-forschungscluster-thk-ai",
-    "href": "themenseite-sozial.html#forschungsprojekt-im-forschungscluster-thk-ai",
-    "title": "Themenseite Sozial-interaktive KI-Agenten",
-    "section": "",
-    "text": "Projekt\nBeteiligte\n\n\n\n\nSkilled - Sozioempathische KI-basierte Dialoge\nTH Köln,DB Systel GmbH (Tochter der Deutsche Bahn AG), Fraport AG, Hamburger Hochbahn AG, Deutsches Meeresmuseum Stralsund, Kreisstadt Bergheim, Deutsches Museum Bonn\n\n\nREDiEE - Roll-out, Empowerment, Design in Engineering Education\nTH Köln\n\n\nReACD - Reaktion auf Cybersicherheitsvorfälle und Datenverlust\nTH Köln\n\n\nHINT - Hybride Interaktive Avatare für Post-COVID-Betroffene\nTH Köln,Universitätsklinikum Köln,Humanizing Technologies"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Über THK-AI",
-    "section": "",
-    "text": "Das THK-AI Forschungscluster wurde Anfang 2023 ins Leben gerufen und am 31.01.2024 vom Präsidium der TH Köln als offizieller Forschungscluster für die Laufzeit von 2024 bis 2028 anerkannt. Unter dem Leitgedanken “Mit KI soziale Innovation gestalten” fungiert das THK-AI Forschungscluster als zentraler Ansprechpartner rund um das Thema Künstliche Intelligenz an der Hochschule. Es fördert und unterstützt kooperative Projekte zwischen Verbänden, Industriepartnern, Professorinnen und Professoren sowie Studierenden."
-  },
-  {
-    "objectID": "about.html#statuten-und-aufnahmeantrag",
-    "href": "about.html#statuten-und-aufnahmeantrag",
-    "title": "Über THK-AI",
-    "section": "Statuten und Aufnahmeantrag",
-    "text": "Statuten und Aufnahmeantrag\nDie Statuten des THK-AI Forschungsclusters vom 19. September 2025 wurden am 6. Oktober 2025 in den Amtlichen Mitteilungen der TH Köln veröffentlicht. Der Aufnahmeantrag kann [hier] heruntergeladen werden (PDF, 52kB). Bitte senden Sie das ausgefüllte Dokument an die Sprecher des Forschungsclusters."
-  },
-  {
-    "objectID": "forschung.html",
-    "href": "forschung.html",
-    "title": "Forschung",
-    "section": "",
-    "text": "Titel\nProjektleitung und Beteiligte\nThema\nFörderlinie\n\n\n\n\nTHK KI plus\nThomas Bartz-Beielstein, Anja Richert\nKI Infrastruktur\nBMBF\n\n\nShapeFuture: Ensuring European ECS Industry Sovereignty by Shaping the Future of Electronic Components and Systems\nThomas Bartz-Beielstein (Teilprojekt TH Köln)\nAutomotive\nEU\n\n\nIMProvT II - Intelligente Messverfahren zur Prozessoptimierung von Trinkwasserbereitstellung II\nChristian Wolf, Peter Kern (Gesamtprojekt),Thomas Bartz-Beielstein (Teilprojekt)\nWasser\nBundesministerium für Wirtschaft und Klimaschutz"
-  },
-  {
-    "objectID": "forschung.html#aktuelle-forschungsprojekte-noch-unvollständig",
-    "href": "forschung.html#aktuelle-forschungsprojekte-noch-unvollständig",
-    "title": "Forschung",
-    "section": "",
-    "text": "Titel\nProjektleitung und Beteiligte\nThema\nFörderlinie\n\n\n\n\nTHK KI plus\nThomas Bartz-Beielstein, Anja Richert\nKI Infrastruktur\nBMBF\n\n\nShapeFuture: Ensuring European ECS Industry Sovereignty by Shaping the Future of Electronic Components and Systems\nThomas Bartz-Beielstein (Teilprojekt TH Köln)\nAutomotive\nEU\n\n\nIMProvT II - Intelligente Messverfahren zur Prozessoptimierung von Trinkwasserbereitstellung II\nChristian Wolf, Peter Kern (Gesamtprojekt),Thomas Bartz-Beielstein (Teilprojekt)\nWasser\nBundesministerium für Wirtschaft und Klimaschutz"
-  },
-  {
-    "objectID": "forschung.html#themen",
-    "href": "forschung.html#themen",
-    "title": "Forschung",
-    "section": "Themen",
-    "text": "Themen\nDie im Forschungscluster THK-AI behandelten Aufgaben lassen sich thematisch gliedern.\n\nAutomotive\n\n\nWasser\nDas Thema “Wasser” beinhaltet Fragestellungen, um die Bereitstellung und Verteilung von Trinkwasser energieeffizienter zu gestalten. Dazu wird die Entwicklung von Datenplattformen, um Informationen für die Betriebsstrategien von Wasserversorgungsnetzen zu berechnen, in den THK-AI Projekten behandelt. Auch wird erforscht, wie durch Künstliche Intelligenz die Strategien optimiert werden, so dass das KI-System lernt, sich selbst zu verbessern. Dabei spielen die Gewinnung und die Nutzung mehrdimensionaler Prozessdaten zur energie- und ressourceneffizienten Optimierung und Prozesssteuerung bei der Trinkwasseraufbereitung eine zentrale Rolle. Weitere Informationen sind auf der THK-AI Themenseite “Wasser” zu finden."
-  },
-  {
-    "objectID": "themenseite-wasser.html",
-    "href": "themenseite-wasser.html",
-    "title": "Themenseite Wasser",
-    "section": "",
-    "text": "Water intake tower at Talla Reservoir\nQuelle: Water intake tower at Talla Reservoir"
-  },
-  {
-    "objectID": "themenseite-wasser.html#forschungsprojekte-im-forschungscluster-thk-ai",
-    "href": "themenseite-wasser.html#forschungsprojekte-im-forschungscluster-thk-ai",
-    "title": "Themenseite Wasser",
-    "section": "Forschungsprojekte im Forschungscluster THK-AI",
-    "text": "Forschungsprojekte im Forschungscluster THK-AI\n\n\n\nProjekt\nBeteiligte\nLiteratur, Datensätze\n\n\n\n\nIMProvt-IIEntwicklung einer digitalen Plattform für die Wasserwirtschaft, um die Bereitstellung und Verteilung von Trinkwasser energieeffizienter zu gestalten. Eine zentrale Datenplattform sammelt Informationen auf deren Basis eine Betriebsstrategie berechnet wird. Durch künstliche Intelligenz wird die Analyse optimiert und das System lernt sich selbst zu verbessern\nTH Köln, Gelsenwasser AG, Endress+Hauser Conducta, fuseki GmbH\nGroß, M., & Hans, L. (2024). Leveraging Potentials of Local and Global Models for Water Demand Forecasting. Engineering Proceedings, 69(1), 129. https://doi.org/10.3390/engproc2024069129Alvisi, S. et al, Battle of water demand forecasting. Journal of Water Resources Planning and Management 151, 10 (2025), https://doi.org/10.1061/JWRMD5.WRENG-6887\n\n\nIMProvTGewinnung und Nutzung mehrdimensionaler Prozessdaten zur energie- und ressourceneffizienten Optimierung und Prozesssteuerung bei der Trinkwasseraufbereitung\nTH Köln, DVGW-Technologiezentrum Wasser Dresden, IWW, Thüringer Fernwasserversorgung, Landeswasserversorgung Stuttgart, Endress+Hauser Conducta, Aggerverband\nRibeiro, Victor H. A. & Reynoso-Meza, Gilberto (2029). Monitoring of Drinking-water Quality by Means of a Multi-objective Ensemble Learning Approach. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (New York, NY, USA, 2019), GECCO ’19, Association for Computing Machinery, pp. 1-2. https://doi.org/10.1145/3319619.3326745\n\n\nKANNSTModellierung und Prognose von Füllstandshöhen in Regenüberlaufbecken auf Basis einzelner Regenmessungen\nTH Köln, Aggerverband\nBartz-Beielstein, et al. Datenanalyse und Prozessoptimierung für Kanalnetze und Kläranlagen mit CI-Methoden. In Proc. 17th Workshop Computational Intelligence (2007), R. Mikut and M. Reischl, Eds., Universitätsverlag, Karlsruhe, pp. 132-138. https://www.gm.th-koeln.de/~bartz/Papers.d/bbkw07a.pdfBartz-Beielstein, T., and Konen, W. Datenanalyse und Prozessoptimierung am Beispiel Kläranlagen. Tech. rep., FH Köln, 2008. https://www.gm.th-koeln.de/~bartz/Papers.d/Bart08h.pdfKonen, W., Zimmer, T., and Bartz-Beielstein, T. Optimierte Modellierung von Füllständen in Regenüberlaufbecken mittels CI-basierter Parameterselektion Optimized Modelling of Fill Levels in Stormwater Tanks Using CI-based Parameter Selection Schemes. at - Automatisierungstechnik 57, 3 (2009), 155-166. https://doi.org/10.1524/auto.2009.0756"
-  },
-  {
-    "objectID": "themenseite-wasser.html#weitere-forschungsprojekte",
-    "href": "themenseite-wasser.html#weitere-forschungsprojekte",
-    "title": "Themenseite Wasser",
-    "section": "Weitere Forschungsprojekte",
-    "text": "Weitere Forschungsprojekte\n\n\n\nProjekt\nBeteiligte\nLiteratur, Datansätze\n\n\n\n\nTwinOpt-ProEntwicklung einer Plattform zur robusten Echtzeit-Trinkwasser-Betriebsoptimierung, basierend auf einem digitalen Zwilling des Trinkwassernetzes, einer Prognose-Tooolbox und Optimierungstools.\n3S Consult GmbH (Koordination),Fraunhofer IOSB,geoSYS,Stadtwerke Bühl,Fernwasser Thüringen\nBernard, T., et al. TwinOptPRO-Digital Platform for Online Pump Scheduling Optimization. Engineering Proceedings, 69(1), 94. https://doi.org/10.3390/engproc2024069094"
-  },
-  {
-    "objectID": "veranstaltungen.html",
-    "href": "veranstaltungen.html",
-    "title": "Veranstaltungen",
-    "section": "",
-    "text": "Datum\nZeit\nOrt/Raum\nVeranstaltung\nBemerkung\n\n\n\n\n29.01.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n07.05.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.07.2025\n15:00-17:00\nOnline (MS-Teams)\nKI-Cluster Workshop zur Bedarfsermittlung\nintern\n\n\n10.09.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n03.12.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n22.01.2026\n10:30-12:00\nOnline (MS-Teams)\nAhmed Qarqour: Development of a data-driven modelfor predicting the reliability ofheating systems\nVortrag mit Diskussion im THK-AI Doktorandenseminar. Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n29.1.2026\n11:00-12:00\nOnline\nBesprechung Antragstellung\nintern\n\n\n5.2.2026\n11:00-12:00\nSPOTSeven Lab (Raum 1.518)\nAustausch DLR\nintern\n\n\n12.2.2026\n10:30-12:00\nSPOTSeven Lab\nMarcel Klimm: Accelerating Surrogate-Model BasedOptimization\nKolloquium. Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n19.2.2026\n10:00-13:00\nSPOTSeven Lab\nCase-Study Presentations: Physics-Informed Neural Networks\nAnmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n26.2.2026\n10:00-11:30\nSPOTSeven Lab\nVekil Bekmyradov: LLMs in the Context of Large Scale Software Projects\nintern\n\n\n04.03.2026\n9:00-12:00\nOnline (MS-Teams)\nMitgliedertreffen und Bedarfsanalyse\nintern\n\n\n12.3.2026\n10:30-12:00\nOnline (Zoom)\nKooperation: Forschungsschwerpunkt “Risiko, Resilienz und Transformation”\nintern\n\n\n19.3.2026\n10:30-12:00\nSpotSevenLab\nNguyen Ha Ngan: AI and Water Resources Management\nDoktorandenkolloquium: Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n03.06.2026\n14:00-15:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.09.2026\n9:00-10:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.12.2026\n14:00-15:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index-en.html",
+    "href": "index-en.html",
     "title": "Welcome to THK-AI Research Cluster",
     "section": "",
-    "text": "The THK-AI Research Cluster at the Technische Hochschule Köln is dedicated to advancing artificial intelligence research and applications. Our mission is to foster innovation, collaboration, and knowledge sharing in the field of AI, with a focus on practical solutions that address real-world challenges."
+    "text": "Deutsche Version"
   },
   {
-    "objectID": "lehre.html",
-    "href": "lehre.html",
-    "title": "Lehre",
-    "section": "",
-    "text": "Thema\nBeschreibung\nLink\n\n\n\n\nLehrveranstaltungen mit Bezug zu KI und Datenwissenschaften an der TH Köln (Übersicht)\nDie TH Köln bietet eine vielfältige Auswahl an Studiengängen an, die Kenntnisse im Bereich KI vermitteln.\nhttps://www.th-koeln.de/forschung/_106481.php\n\n\nDaLI\nDie Data Literacy Initiative (DaLI) entwickelt ein modulares, interdisziplinäres Programm um Datenkompetenz systematisch und hochschulweit in Lehre und Forschung an der TH Köln zu verankern. Zusätzlich werden mit einem DaLI Lab, Kooperationsprojekten und einer Ringvorlesung Schnittstellen zu regionalen Akteuren, Organisationen und in die Zivilgeselllschaft gebildet.\nhttps://www.th-koeln.de/informations-und-kommunikationswissenschaften/dali—data-literacy-initiative_78648.php\n\n\nDaLI Ringvorlesung\nVeranstaltungsreihe. Thematischer Schwerpunkt 2025/26: “Data Literacy: Zukunft durch Daten - KI gestalten, gesellschaftlichen Wandel fördern”\nhttps://www.th-koeln.de/informations-und-kommunikationswissenschaften/dali—data-literacy-initiative_78648.php\n\n\nEinführung in die KI\nSelbstlernkurs für Studierende und Promovierende der TH Köln\nhttps://www.th-koeln.de/hochschule/einfuehrung-in-die-ki_89469.php"
+    "objectID": "index-en.html#why-thk-ai",
+    "href": "index-en.html#why-thk-ai",
+    "title": "Welcome to THK-AI Research Cluster",
+    "section": "Why THK-AI",
+    "text": "Why THK-AI\n\n\nApplied AI at scale\nTHK-AI combines modern compute infrastructure and interdisciplinary expertise to accelerate applied AI from prototype to deployment.\n\n\nOpen for collaboration\nThe cluster supports cooperative projects between associations, companies, professors, and students across disciplines.\n\n\nStrong infrastructure\nA distributed high-performance setup in Gummersbach and Leverkusen enables resilient research workflows and 24/7 web access."
   },
   {
-    "objectID": "members.html",
-    "href": "members.html",
-    "title": "Mitglieder",
-    "section": "",
-    "text": "Bild\nName\n\n\n\n\n\nThomas Bartz-BeielsteinInformatik und IngenieurwissenschaftenInstitut fuer Data Science, Engineering, and Analytics (IDE+A)\n\n\n\nAnja RichertAnlagen, Energie- und MaschinensystemeInstitut fuer Produktentwicklung und Konstruktionstechnik (IPK)"
+    "objectID": "index-en.html#thk-kiplus-highlights",
+    "href": "index-en.html#thk-kiplus-highlights",
+    "title": "Welcome to THK-AI Research Cluster",
+    "section": "THK-KIplus highlights",
+    "text": "THK-KIplus highlights\n\n\n\n\n\n\n\n\nThe project THK-KIplus (TH Koln - Kunstliche Intelligenz plus) was funded from June 2023 to November 2025 in the federal program KI-Nachwuchs@FH by the Federal Ministry for Research, Technology and Space.\n\n\n\n\n\n\n\n\n\nThe initiative was funded with around 1.3 million EUR and built one of the strongest AI-oriented research compute infrastructures among German universities of applied sciences."
   },
   {
-    "objectID": "members.html#sprecher",
-    "href": "members.html#sprecher",
-    "title": "Mitglieder",
-    "section": "",
-    "text": "Bild\nName\n\n\n\n\n\nThomas Bartz-BeielsteinInformatik und IngenieurwissenschaftenInstitut fuer Data Science, Engineering, and Analytics (IDE+A)\n\n\n\nAnja RichertAnlagen, Energie- und MaschinensystemeInstitut fuer Produktentwicklung und Konstruktionstechnik (IPK)"
+    "objectID": "index-en.html#focus-areas",
+    "href": "index-en.html#focus-areas",
+    "title": "Welcome to THK-AI Research Cluster",
+    "section": "Focus areas",
+    "text": "Focus areas\n\n\n\nMobility\nRobust AI methods for autonomous and safety-critical systems.\n\n\n\nSustainability\nData-driven environmental monitoring and ecological decision support.\n\n\n\nSociety and transfer\nResponsible AI for education, social contexts, and industry collaboration."
   },
   {
-    "objectID": "members.html#gründungsmitglieder",
-    "href": "members.html#gründungsmitglieder",
-    "title": "Mitglieder",
-    "section": "Gründungsmitglieder",
-    "text": "Gründungsmitglieder\n\n\n\n\n\n\n\nBild\nName\n\n\n\n\n\nPascal CerfontaineInformations-, Medien- und ElektrotechnikInstitute of Computer and Communication Technology (ICCT)\n\n\n\nArnulph FuhrmannFakultät für Informations-, Medien- und ElektrotechnikInstitut für Medien- und Phototechnik (IMP)\n\n\n\nDaniel GaidaInformatik und IngenieurwissenschaftenInstitut fuer Informatik (INF)\n\n\n\nGernot HeisenbergInformations- und KommunikationswissenschaftenInstitut fuer Informationswissenschaft (IWS)\n\n\n\nMohieddine JelalieAnlagen, Energie- und MaschinensystemeInstitut fuer Produktentwicklung und Konstruktionstechnik (IPK)\n\n\n\nEdwin KamauFahrzeugsysteme und ProduktionInstitut fuer Fahrzeugtechnik (IFK)\n\n\n\nSimone LakeInformatik und IngenieurwissenschaftenInstitut fuer Allgemeinen Maschinenbau (IAM)\n\n\n\nJörg LuderichAnlagen, Energie- und MaschinensystemeInstitut für Produktentwicklung und Konstruktionstechnik (IPK)\n\n\n\nLilia PaschFakultät für Wirtschafts- und RechtswissenschaftenSchmalenbach Institut für Wirtschaftswissenschaften (WI)\n\n\n\nEike PerminInformatik und IngenieurwissenschaftenInstitut fuer Allgemeinen Maschinenbau (IAM)\n\n\n\nBeate RheinInformations-, Medien- und ElektrotechnikInstitute of Computer and Communication Technology (ICCT)\n\n\n\nLars RibbeRaumentwicklung und InfrastruktursystemeInstitute for Natural Resources Technology and Management (ITT)\n\n\n\nJan SalmenInformations-, Medien- und ElektrotechnikInstitut fuer Medien- und Phototechnik (IMP)\n\n\n\nHartmut WestenbergerFakultät für Informatik und IngenieurwissenschaftenCologne Institute for Digital Ecosystems (CIDE)\n\n\n\nIsabel ZornAngewandte SozialwissenschaftenInstitut für Medienforschung und Medienpädagogik (IMM)"
+    "objectID": "index-en.html#cairne-gold-member",
+    "href": "index-en.html#cairne-gold-member",
+    "title": "Welcome to THK-AI Research Cluster",
+    "section": "CAIRNE Gold Member",
+    "text": "CAIRNE Gold Member\n\n\n\n\n\n\n\n\n\n\nTHK-AI is a Gold Member of the CAIRNE Research Network (Confederation of Laboratories for Artificial Intelligence Research in Europe).\n\n\n\nCAIRNE is a European non-profit AI community with a human-centred focus. It connects research institutions, industry, and policy stakeholders to strengthen AI excellence, collaboration, and digital sovereignty across Europe.\nLearn more about CAIRNE Read more about THK-AI"
   },
   {
-    "objectID": "members.html#mitglieder",
-    "href": "members.html#mitglieder",
-    "title": "Mitglieder",
-    "section": "Mitglieder",
-    "text": "Mitglieder\n\n\n\nBild\nName\n\n\n\n\n\nMaria Elena AlgorriInformatik und IngenieurwissenschaftenInstitut fuer Automation & Industrial IT (AIT)\n\n\n\nPeter KernFakultät für Informatik und IngenieurwissenschaftenInstitut für Automation & Industrial IT (AIT)\n\n\n\nRoman BartnikFakultät für Informatik und IngenieurwissenschaftenInstitute for Business Administration and Leadership (IBAL)\n\n\n\nRichard SiegFakultät für Informations- und KommunikationswissenschaftenInstitut für Informationswissenschaft (IWS)\n\n\n\nKarolina SuchowolekInformations-, und KommunikationswissenschaftenInstitut fuer Translation und Mehrsprachige Kommunikation\n\n\n\nNicolas BennerscheidFakultät für Informations-, Medien- und ElektrotechnikInstitut für Automatisierungstechnik (IA)"
+    "objectID": "index-en.html#join-the-network",
+    "href": "index-en.html#join-the-network",
+    "title": "Welcome to THK-AI Research Cluster",
+    "section": "Join the network",
+    "text": "Join the network\nIf you are looking for collaboration, student projects, or applied AI research partnerships, THK-AI is your central contact point at TH Koln.\nContact and About Teaching Activities"
   },
   {
     "objectID": "hpc.html",
@@ -173,5 +96,215 @@
     "title": "HPC Cluster",
     "section": "Infobox",
     "text": "Infobox\n\nFörderlinie: KI-Nachwuchs@FH\nFörderkennzeichen: 13FH007KI2\nZuwendungssumme: 1.263.276,54 Euro\nProjektlaufzeit: Juni 2023 - November 2025\nZuwendungsempfänger: Technische Hochschule Köln\nAnsprechpartner:\nTH Köln: Prof. Dr. Thomas Bartz-Beielstein und Prof. Dr. Anja Richert\nVDI: Sarah Zerres, VDI Technologiezentrum GmbH\nProjektwebsite / weiterführende Infos: https://thk-ai.de"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Mitglieder",
+    "section": "",
+    "text": "Bild\nName\n\n\n\n\n\nThomas Bartz-BeielsteinInformatik und IngenieurwissenschaftenInstitut fuer Data Science, Engineering, and Analytics (IDE+A)\n\n\n\nAnja RichertAnlagen, Energie- und MaschinensystemeInstitut fuer Produktentwicklung und Konstruktionstechnik (IPK)"
+  },
+  {
+    "objectID": "members.html#sprecher",
+    "href": "members.html#sprecher",
+    "title": "Mitglieder",
+    "section": "",
+    "text": "Bild\nName\n\n\n\n\n\nThomas Bartz-BeielsteinInformatik und IngenieurwissenschaftenInstitut fuer Data Science, Engineering, and Analytics (IDE+A)\n\n\n\nAnja RichertAnlagen, Energie- und MaschinensystemeInstitut fuer Produktentwicklung und Konstruktionstechnik (IPK)"
+  },
+  {
+    "objectID": "members.html#gründungsmitglieder",
+    "href": "members.html#gründungsmitglieder",
+    "title": "Mitglieder",
+    "section": "Gründungsmitglieder",
+    "text": "Gründungsmitglieder\n\n\n\n\n\n\n\nBild\nName\n\n\n\n\n\nPascal CerfontaineInformations-, Medien- und ElektrotechnikInstitute of Computer and Communication Technology (ICCT)\n\n\n\nArnulph FuhrmannFakultät für Informations-, Medien- und ElektrotechnikInstitut für Medien- und Phototechnik (IMP)\n\n\n\nDaniel GaidaInformatik und IngenieurwissenschaftenInstitut fuer Informatik (INF)\n\n\n\nGernot HeisenbergInformations- und KommunikationswissenschaftenInstitut fuer Informationswissenschaft (IWS)\n\n\n\nMohieddine JelalieAnlagen, Energie- und MaschinensystemeInstitut fuer Produktentwicklung und Konstruktionstechnik (IPK)\n\n\n\nEdwin KamauFahrzeugsysteme und ProduktionInstitut fuer Fahrzeugtechnik (IFK)\n\n\n\nSimone LakeInformatik und IngenieurwissenschaftenInstitut fuer Allgemeinen Maschinenbau (IAM)\n\n\n\nJörg LuderichAnlagen, Energie- und MaschinensystemeInstitut für Produktentwicklung und Konstruktionstechnik (IPK)\n\n\n\nLilia PaschFakultät für Wirtschafts- und RechtswissenschaftenSchmalenbach Institut für Wirtschaftswissenschaften (WI)\n\n\n\nEike PerminInformatik und IngenieurwissenschaftenInstitut fuer Allgemeinen Maschinenbau (IAM)\n\n\n\nBeate RheinInformations-, Medien- und ElektrotechnikInstitute of Computer and Communication Technology (ICCT)\n\n\n\nLars RibbeRaumentwicklung und InfrastruktursystemeInstitute for Natural Resources Technology and Management (ITT)\n\n\n\nJan SalmenInformations-, Medien- und ElektrotechnikInstitut fuer Medien- und Phototechnik (IMP)\n\n\n\nHartmut WestenbergerFakultät für Informatik und IngenieurwissenschaftenCologne Institute for Digital Ecosystems (CIDE)\n\n\n\nIsabel ZornAngewandte SozialwissenschaftenInstitut für Medienforschung und Medienpädagogik (IMM)"
+  },
+  {
+    "objectID": "members.html#mitglieder",
+    "href": "members.html#mitglieder",
+    "title": "Mitglieder",
+    "section": "Mitglieder",
+    "text": "Mitglieder\n\n\n\nBild\nName\n\n\n\n\n\nMaria Elena AlgorriInformatik und IngenieurwissenschaftenInstitut fuer Automation & Industrial IT (AIT)\n\n\n\nPeter KernFakultät für Informatik und IngenieurwissenschaftenInstitut für Automation & Industrial IT (AIT)\n\n\n\nRoman BartnikFakultät für Informatik und IngenieurwissenschaftenInstitute for Business Administration and Leadership (IBAL)\n\n\n\nRichard SiegFakultät für Informations- und KommunikationswissenschaftenInstitut für Informationswissenschaft (IWS)\n\n\n\nKarolina SuchowolekInformations-, und KommunikationswissenschaftenInstitut fuer Translation und Mehrsprachige Kommunikation\n\n\n\nNicolas BennerscheidFakultät für Informations-, Medien- und ElektrotechnikInstitut für Automatisierungstechnik (IA)"
+  },
+  {
+    "objectID": "index-de.html",
+    "href": "index-de.html",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "",
+    "text": "English version"
+  },
+  {
+    "objectID": "index-de.html#warum-thk-ai",
+    "href": "index-de.html#warum-thk-ai",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "Warum THK-AI",
+    "text": "Warum THK-AI\n\n\nAngewandte KI mit Skalierung\nTHK-AI verbindet leistungsfahige Recheninfrastruktur mit interdisziplinarer Expertise, um KI von der Idee bis zum einsatzfahigen Prototypen zu bringen.\n\n\nOffen fur Kooperation\nDas Cluster unterstutzt gemeinsame Projekte zwischen Verbanden, Unternehmen, Professor*innen und Studierenden aus unterschiedlichen Fachrichtungen.\n\n\nStarke Infrastruktur\nDie verteilte Infrastruktur in Gummersbach und Leverkusen ermoglicht robuste Forschungsprozesse und webbasierten Zugriff rund um die Uhr."
+  },
+  {
+    "objectID": "index-de.html#thk-kiplus-im-uberblick",
+    "href": "index-de.html#thk-kiplus-im-uberblick",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "THK-KIplus im Uberblick",
+    "text": "THK-KIplus im Uberblick\n\n\n\n\n\n\n\n\nDas Projekt THK-KIplus (TH Koln - Kunstliche Intelligenz plus) wurde von Juni 2023 bis November 2025 im Programm KI-Nachwuchs@FH durch das Bundesministerium fur Forschung, Technologie und Raumfahrt gefordert.\n\n\n\n\n\n\n\n\n\nDie Initiative wurde mit rund 1,3 Mio. EUR gefordert und hat eine der leistungsstarksten KI-orientierten Forschungsinfrastrukturen an Hochschulen fur angewandte Wissenschaften in Deutschland aufgebaut."
+  },
+  {
+    "objectID": "index-de.html#thematische-schwerpunkte",
+    "href": "index-de.html#thematische-schwerpunkte",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "Thematische Schwerpunkte",
+    "text": "Thematische Schwerpunkte\n\n\n\nMobilitat\nRobuste KI-Methoden fur autonome und sicherheitskritische Systeme.\n\n\n\nNachhaltigkeit\nDatengetriebene Umweltbeobachtung und fundierte Entscheidungsunterstutzung.\n\n\n\nGesellschaft und Transfer\nVerantwortungsvolle KI fur Bildung, soziale Kontexte und Kooperation mit der Praxis."
+  },
+  {
+    "objectID": "index-de.html#mitmachen-und-vernetzen",
+    "href": "index-de.html#mitmachen-und-vernetzen",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "Mitmachen und vernetzen",
+    "text": "Mitmachen und vernetzen\nWenn Sie Kooperationen, studentische Projekte oder Partnerschaften in der angewandten KI suchen, ist THK-AI Ihr zentraler Ansprechpartner an der TH Koln.\nKontakt und Uber uns Lehre und Angebote"
+  },
+  {
+    "objectID": "themenseite-wasser.html",
+    "href": "themenseite-wasser.html",
+    "title": "Themenseite Wasser",
+    "section": "",
+    "text": "Water intake tower at Talla Reservoir\nQuelle: Water intake tower at Talla Reservoir"
+  },
+  {
+    "objectID": "themenseite-wasser.html#forschungsprojekte-im-forschungscluster-thk-ai",
+    "href": "themenseite-wasser.html#forschungsprojekte-im-forschungscluster-thk-ai",
+    "title": "Themenseite Wasser",
+    "section": "Forschungsprojekte im Forschungscluster THK-AI",
+    "text": "Forschungsprojekte im Forschungscluster THK-AI\n\n\n\nProjekt\nBeteiligte\nLiteratur, Datensätze\n\n\n\n\nIMProvt-IIEntwicklung einer digitalen Plattform für die Wasserwirtschaft, um die Bereitstellung und Verteilung von Trinkwasser energieeffizienter zu gestalten. Eine zentrale Datenplattform sammelt Informationen auf deren Basis eine Betriebsstrategie berechnet wird. Durch künstliche Intelligenz wird die Analyse optimiert und das System lernt sich selbst zu verbessern\nTH Köln, Gelsenwasser AG, Endress+Hauser Conducta, fuseki GmbH\nGroß, M., & Hans, L. (2024). Leveraging Potentials of Local and Global Models for Water Demand Forecasting. Engineering Proceedings, 69(1), 129. https://doi.org/10.3390/engproc2024069129Alvisi, S. et al, Battle of water demand forecasting. Journal of Water Resources Planning and Management 151, 10 (2025), https://doi.org/10.1061/JWRMD5.WRENG-6887\n\n\nIMProvTGewinnung und Nutzung mehrdimensionaler Prozessdaten zur energie- und ressourceneffizienten Optimierung und Prozesssteuerung bei der Trinkwasseraufbereitung\nTH Köln, DVGW-Technologiezentrum Wasser Dresden, IWW, Thüringer Fernwasserversorgung, Landeswasserversorgung Stuttgart, Endress+Hauser Conducta, Aggerverband\nRibeiro, Victor H. A. & Reynoso-Meza, Gilberto (2029). Monitoring of Drinking-water Quality by Means of a Multi-objective Ensemble Learning Approach. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (New York, NY, USA, 2019), GECCO ’19, Association for Computing Machinery, pp. 1-2. https://doi.org/10.1145/3319619.3326745\n\n\nKANNSTModellierung und Prognose von Füllstandshöhen in Regenüberlaufbecken auf Basis einzelner Regenmessungen\nTH Köln, Aggerverband\nBartz-Beielstein, et al. Datenanalyse und Prozessoptimierung für Kanalnetze und Kläranlagen mit CI-Methoden. In Proc. 17th Workshop Computational Intelligence (2007), R. Mikut and M. Reischl, Eds., Universitätsverlag, Karlsruhe, pp. 132-138. https://www.gm.th-koeln.de/~bartz/Papers.d/bbkw07a.pdfBartz-Beielstein, T., and Konen, W. Datenanalyse und Prozessoptimierung am Beispiel Kläranlagen. Tech. rep., FH Köln, 2008. https://www.gm.th-koeln.de/~bartz/Papers.d/Bart08h.pdfKonen, W., Zimmer, T., and Bartz-Beielstein, T. Optimierte Modellierung von Füllständen in Regenüberlaufbecken mittels CI-basierter Parameterselektion Optimized Modelling of Fill Levels in Stormwater Tanks Using CI-based Parameter Selection Schemes. at - Automatisierungstechnik 57, 3 (2009), 155-166. https://doi.org/10.1524/auto.2009.0756"
+  },
+  {
+    "objectID": "themenseite-wasser.html#weitere-forschungsprojekte",
+    "href": "themenseite-wasser.html#weitere-forschungsprojekte",
+    "title": "Themenseite Wasser",
+    "section": "Weitere Forschungsprojekte",
+    "text": "Weitere Forschungsprojekte\n\n\n\nProjekt\nBeteiligte\nLiteratur, Datansätze\n\n\n\n\nTwinOpt-ProEntwicklung einer Plattform zur robusten Echtzeit-Trinkwasser-Betriebsoptimierung, basierend auf einem digitalen Zwilling des Trinkwassernetzes, einer Prognose-Tooolbox und Optimierungstools.\n3S Consult GmbH (Koordination),Fraunhofer IOSB,geoSYS,Stadtwerke Bühl,Fernwasser Thüringen\nBernard, T., et al. TwinOptPRO-Digital Platform for Online Pump Scheduling Optimization. Engineering Proceedings, 69(1), 94. https://doi.org/10.3390/engproc2024069094"
+  },
+  {
+    "objectID": "veranstaltungen.html",
+    "href": "veranstaltungen.html",
+    "title": "Veranstaltungen",
+    "section": "",
+    "text": "Datum\nZeit\nOrt/Raum\nVeranstaltung\nBemerkung\n\n\n\n\n29.01.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n07.05.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.07.2025\n15:00-17:00\nOnline (MS-Teams)\nKI-Cluster Workshop zur Bedarfsermittlung\nintern\n\n\n10.09.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n03.12.2025\n9:00-11:00\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n22.01.2026\n10:30-12:00\nOnline (MS-Teams)\nAhmed Qarqour: Development of a data-driven modelfor predicting the reliability ofheating systems\nVortrag mit Diskussion im THK-AI Doktorandenseminar. Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n29.1.2026\n11:00-12:00\nOnline\nBesprechung Antragstellung\nintern\n\n\n5.2.2026\n11:00-12:00\nSPOTSeven Lab (Raum 1.518)\nAustausch DLR\nintern\n\n\n12.2.2026\n10:30-12:00\nSPOTSeven Lab\nMarcel Klimm: Accelerating Surrogate-Model BasedOptimization\nKolloquium. Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n19.2.2026\n10:00-13:00\nSPOTSeven Lab\nCase-Study Presentations: Physics-Informed Neural Networks\nAnmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n26.2.2026\n10:00-11:30\nSPOTSeven Lab\nVekil Bekmyradov: LLMs in the Context of Large Scale Software Projects\nintern\n\n\n04.03.2026\n9:00-12:00\nOnline (MS-Teams)\nMitgliedertreffen und Bedarfsanalyse\nintern\n\n\n12.3.2026\n10:30-12:00\nOnline (Zoom)\nKooperation: Forschungsschwerpunkt “Risiko, Resilienz und Transformation”\nintern\n\n\n19.3.2026\n10:30-12:00\nSpotSevenLab\nNguyen Ha Ngan: AI and Water Resources Management\nDoktorandenkolloquium: Anmeldung erforderlich bei Prof. Dr. Thomas Bartz-Beielstein\n\n\n03.06.2026\n14:00-15:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.09.2026\n9:00-10:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern\n\n\n10.12.2026\n14:00-15:30\nOnline (MS-Teams)\nMitgliedertreffen\nintern"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "",
+    "text": "English Version"
+  },
+  {
+    "objectID": "index.html#der-zentrale-ansprechpartner-für-ki-an-der-th-köln",
+    "href": "index.html#der-zentrale-ansprechpartner-für-ki-an-der-th-köln",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "Der zentrale Ansprechpartner für KI an der TH Köln",
+    "text": "Der zentrale Ansprechpartner für KI an der TH Köln\nDas THK-AI Forschungscluster fördert und unterstützt kooperative Projekte zwischen Verbänden, Industriepartnern, Professorinnen und Professoren sowie Studierenden.\nForschung entdecken Team kennenlernen"
+  },
+  {
+    "objectID": "index.html#mitglieder",
+    "href": "index.html#mitglieder",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "Mitglieder",
+    "text": "Mitglieder\n\n\n\n\n\n\n\n\nHinweisKooperation\n\n\n\nMit mehr als 20 Professorinnen und Professoren aus allen Fakultäten der TH Köln ist das THK-AI Forschungscluster eine der größten KI-Forschungskooperationen an einer Hochschule für angewandte Wissenschaften in Deutschland.\n\n\n\n\n\n\nGründungsmitglieder"
+  },
+  {
+    "objectID": "index.html#warum-thk-ai",
+    "href": "index.html#warum-thk-ai",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "Warum THK-AI?",
+    "text": "Warum THK-AI?\n\n\nAngewandte KI mit Skalierung\nTHK-AI verbindet leistungsfähige Recheninfrastruktur mit interdisziplinärer Expertise, um KI von der Idee bis zum einsatzfähigen Prototypen zu bringen.\n\n\nOffen für Kooperation\nDas Cluster unterstützt gemeinsame Projekte zwischen Verbanden, Unternehmen, Professorinnen und Professoren sowie Studierenden aus unterschiedlichen Fachrichtungen.\n\n\nStarke Infrastruktur\nDie verteilte Infrastruktur in Gummersbach und Leverkusen ermöglicht robuste Forschungsprozesse und webbasierten Zugriff rund um die Uhr."
+  },
+  {
+    "objectID": "index.html#thk-ai-beispielprojekt",
+    "href": "index.html#thk-ai-beispielprojekt",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "THK-AI Beispielprojekt",
+    "text": "THK-AI Beispielprojekt\n\n\n\n\n\n\nDas Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) wurde von Juni 2023 bis November 2025 im Programm KI-Nachwuchs@FH durch das Bundesministerium für Forschung, Technologie und Raumfahrt gefördert. Die Initiative wurde mit rund 1,3 Mio. EUR gefördert und hat eine der leistungsstarksten KI-orientierten Forschungsinfrastrukturen an Hochschulen für angewandte Wissenschaften in Deutschland aufgebaut."
+  },
+  {
+    "objectID": "index.html#thematische-schwerpunkte",
+    "href": "index.html#thematische-schwerpunkte",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "Thematische Schwerpunkte",
+    "text": "Thematische Schwerpunkte\n\n\n\nMobilität\nRobuste KI-Methoden für autonome und sicherheitskritische Systeme.\n\n\n\nNachhaltigkeit\nDatengetriebene Umweltbeobachtung und fundierte Entscheidungsunterstützung.\n\n\n\nGesellschaft und Transfer\nVerantwortungsvolle KI für Bildung, soziale Kontexte und Kooperation mit der Praxis."
+  },
+  {
+    "objectID": "index.html#cairne-gold-member",
+    "href": "index.html#cairne-gold-member",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "CAIRNE Gold Member",
+    "text": "CAIRNE Gold Member\n\n\n\n\n\n\n\n\n\n\nDas THK-AI Forschungscluster ist Gold Member im CAIRNE Research Network (Confederation of Laboratories for Artificial Intelligence Research in Europe).\n\n\n\nCAIRNE ist eine europäische, gemeinnützige AI-Gemeinschaft mit human-centered Fokus. Das Netzwerk vernetzt Forschungseinrichtungen, Industrie und Politik, um europäische KI-Exzellenz, Zusammenarbeit und digitale Souveränität zu stärken.\nMehr zu CAIRNE Mehr über THK-AI"
+  },
+  {
+    "objectID": "index.html#mitmachen-und-vernetzen",
+    "href": "index.html#mitmachen-und-vernetzen",
+    "title": "Willkommen beim THK-AI Forschungscluster",
+    "section": "Mitmachen und vernetzen",
+    "text": "Mitmachen und vernetzen\nWenn Sie Kooperationen, studentische Projekte oder Partnerschaften in der angewandten KI suchen, ist THK-AI Ihr zentraler Ansprechpartner an der TH Köln.\nKontakt und Über uns Lehre und Angebote"
+  },
+  {
+    "objectID": "lehre.html",
+    "href": "lehre.html",
+    "title": "Lehre",
+    "section": "",
+    "text": "Thema\nBeschreibung\nLink\n\n\n\n\nLehrveranstaltungen mit Bezug zu KI und Datenwissenschaften an der TH Köln (Übersicht)\nDie TH Köln bietet eine vielfältige Auswahl an Studiengängen an, die Kenntnisse im Bereich KI vermitteln.\nhttps://www.th-koeln.de/forschung/_106481.php\n\n\nDaLI\nDie Data Literacy Initiative (DaLI) entwickelt ein modulares, interdisziplinäres Programm um Datenkompetenz systematisch und hochschulweit in Lehre und Forschung an der TH Köln zu verankern. Zusätzlich werden mit einem DaLI Lab, Kooperationsprojekten und einer Ringvorlesung Schnittstellen zu regionalen Akteuren, Organisationen und in die Zivilgeselllschaft gebildet.\nhttps://www.th-koeln.de/informations-und-kommunikationswissenschaften/dali—data-literacy-initiative_78648.php\n\n\nDaLI Ringvorlesung\nVeranstaltungsreihe. Thematischer Schwerpunkt 2025/26: “Data Literacy: Zukunft durch Daten - KI gestalten, gesellschaftlichen Wandel fördern”\nhttps://www.th-koeln.de/informations-und-kommunikationswissenschaften/dali—data-literacy-initiative_78648.php\n\n\nEinführung in die KI\nSelbstlernkurs für Studierende und Promovierende der TH Köln\nhttps://www.th-koeln.de/hochschule/einfuehrung-in-die-ki_89469.php"
+  },
+  {
+    "objectID": "forschung.html",
+    "href": "forschung.html",
+    "title": "Forschung",
+    "section": "",
+    "text": "Titel\nProjektleitung und Beteiligte\nThema\nFörderlinie\n\n\n\n\nTHK KI plus\nThomas Bartz-Beielstein, Anja Richert\nKI Infrastruktur\nBMBF\n\n\nShapeFuture: Ensuring European ECS Industry Sovereignty by Shaping the Future of Electronic Components and Systems\nThomas Bartz-Beielstein (Teilprojekt TH Köln)\nAutomotive\nEU\n\n\nIMProvT II - Intelligente Messverfahren zur Prozessoptimierung von Trinkwasserbereitstellung II\nChristian Wolf, Peter Kern (Gesamtprojekt),Thomas Bartz-Beielstein (Teilprojekt)\nWasser\nBundesministerium für Wirtschaft und Klimaschutz"
+  },
+  {
+    "objectID": "forschung.html#aktuelle-forschungsprojekte-noch-unvollständig",
+    "href": "forschung.html#aktuelle-forschungsprojekte-noch-unvollständig",
+    "title": "Forschung",
+    "section": "",
+    "text": "Titel\nProjektleitung und Beteiligte\nThema\nFörderlinie\n\n\n\n\nTHK KI plus\nThomas Bartz-Beielstein, Anja Richert\nKI Infrastruktur\nBMBF\n\n\nShapeFuture: Ensuring European ECS Industry Sovereignty by Shaping the Future of Electronic Components and Systems\nThomas Bartz-Beielstein (Teilprojekt TH Köln)\nAutomotive\nEU\n\n\nIMProvT II - Intelligente Messverfahren zur Prozessoptimierung von Trinkwasserbereitstellung II\nChristian Wolf, Peter Kern (Gesamtprojekt),Thomas Bartz-Beielstein (Teilprojekt)\nWasser\nBundesministerium für Wirtschaft und Klimaschutz"
+  },
+  {
+    "objectID": "forschung.html#themen",
+    "href": "forschung.html#themen",
+    "title": "Forschung",
+    "section": "Themen",
+    "text": "Themen\nDie im Forschungscluster THK-AI behandelten Aufgaben lassen sich thematisch gliedern.\n\nAutomotive\n\n\nWasser\nDas Thema “Wasser” beinhaltet Fragestellungen, um die Bereitstellung und Verteilung von Trinkwasser energieeffizienter zu gestalten. Dazu wird die Entwicklung von Datenplattformen, um Informationen für die Betriebsstrategien von Wasserversorgungsnetzen zu berechnen, in den THK-AI Projekten behandelt. Auch wird erforscht, wie durch Künstliche Intelligenz die Strategien optimiert werden, so dass das KI-System lernt, sich selbst zu verbessern. Dabei spielen die Gewinnung und die Nutzung mehrdimensionaler Prozessdaten zur energie- und ressourceneffizienten Optimierung und Prozesssteuerung bei der Trinkwasseraufbereitung eine zentrale Rolle. Weitere Informationen sind auf der THK-AI Themenseite “Wasser” zu finden."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Über THK-AI",
+    "section": "",
+    "text": "Das THK-AI Forschungscluster wurde Anfang 2023 ins Leben gerufen und am 31.01.2024 vom Präsidium der TH Köln als offizieller Forschungscluster für die Laufzeit von 2024 bis 2028 anerkannt. Unter dem Leitgedanken “Mit KI soziale Innovation gestalten” fungiert das THK-AI Forschungscluster als zentraler Ansprechpartner rund um das Thema Künstliche Intelligenz an der Hochschule. Es fördert und unterstützt kooperative Projekte zwischen Verbänden, Industriepartnern, Professorinnen und Professoren sowie Studierenden."
+  },
+  {
+    "objectID": "about.html#statuten-und-aufnahmeantrag",
+    "href": "about.html#statuten-und-aufnahmeantrag",
+    "title": "Über THK-AI",
+    "section": "Statuten und Aufnahmeantrag",
+    "text": "Statuten und Aufnahmeantrag\nDie Statuten des THK-AI Forschungsclusters vom 19. September 2025 wurden am 6. Oktober 2025 in den Amtlichen Mitteilungen der TH Köln veröffentlicht. Der Aufnahmeantrag kann [hier] heruntergeladen werden (PDF, 52kB). Bitte senden Sie das ausgefüllte Dokument an die Sprecher des Forschungsclusters."
+  },
+  {
+    "objectID": "about.html#cairne",
+    "href": "about.html#cairne",
+    "title": "Über THK-AI",
+    "section": "CAIRNE",
+    "text": "CAIRNE\n\n\n\n\nDas THK-AI Forschungscluster ist CAIRNE Gold Member. Die Gold-Mitgliedschaft wurde 2025 vertraglich formalisiert und ist ein wichtiger Baustein fur die internationale Vernetzung des Clusters.\n\n\nCAIRNE steht fur Confederation of Laboratories for Artificial Intelligence Research in Europe und ist eine internationale, gemeinnutzige Vereinigung (AISBL), die aus der europaischen KI-Community entstanden ist. Ziel ist es, europaische Exzellenz in KI-Forschung und KI-Innovation mit einem klaren Schwerpunkt auf human-centered, trustworthy und responsible AI zu starken.\nDas Netzwerk fordert die Zusammenarbeit zwischen Forschungseinrichtungen, Industrie und Politik in Europa. Dazu gehoren unter anderem:\n\nSichtbarkeit und Interessenvertretung europaischer KI-Forschung\nVernetzung und grenzuberschreitende Kooperationen\nCommunity-Building und Beteiligung an europaischen Forschungsinitiativen\n\nMit der Gold-Mitgliedschaft bringt THK-AI seine Forschungsstarken in die europaische Community ein, darunter interdisziplinare KI-Anwendungen, verantwortungsvolle KI-Entwicklung sowie der Transfer in Praxis und Gesellschaft.\nWeiterfuhrende Informationen:\n\nCAIRNE Website\nCAIRNE Vision\nCAIRNE Research Network"
+  },
+  {
+    "objectID": "themenseite-sozial.html",
+    "href": "themenseite-sozial.html",
+    "title": "Themenseite Sozial-interaktive KI-Agenten",
+    "section": "",
+    "text": "Projekt\nBeteiligte\n\n\n\n\nSkilled - Sozioempathische KI-basierte Dialoge\nTH Köln,DB Systel GmbH (Tochter der Deutsche Bahn AG), Fraport AG, Hamburger Hochbahn AG, Deutsches Meeresmuseum Stralsund, Kreisstadt Bergheim, Deutsches Museum Bonn\n\n\nREDiEE - Roll-out, Empowerment, Design in Engineering Education\nTH Köln\n\n\nReACD - Reaktion auf Cybersicherheitsvorfälle und Datenverlust\nTH Köln\n\n\nHINT - Hybride Interaktive Avatare für Post-COVID-Betroffene\nTH Köln,Universitätsklinikum Köln,Humanizing Technologies"
+  },
+  {
+    "objectID": "themenseite-sozial.html#forschungsprojekt-im-forschungscluster-thk-ai",
+    "href": "themenseite-sozial.html#forschungsprojekt-im-forschungscluster-thk-ai",
+    "title": "Themenseite Sozial-interaktive KI-Agenten",
+    "section": "",
+    "text": "Projekt\nBeteiligte\n\n\n\n\nSkilled - Sozioempathische KI-basierte Dialoge\nTH Köln,DB Systel GmbH (Tochter der Deutsche Bahn AG), Fraport AG, Hamburger Hochbahn AG, Deutsches Meeresmuseum Stralsund, Kreisstadt Bergheim, Deutsches Museum Bonn\n\n\nREDiEE - Roll-out, Empowerment, Design in Engineering Education\nTH Köln\n\n\nReACD - Reaktion auf Cybersicherheitsvorfälle und Datenverlust\nTH Köln\n\n\nHINT - Hybride Interaktive Avatare für Post-COVID-Betroffene\nTH Köln,Universitätsklinikum Köln,Humanizing Technologies"
   }
 ]

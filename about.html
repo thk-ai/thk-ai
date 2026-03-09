@@ -125,6 +125,14 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">DE</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./index-en.html"> 
+<span class="menu-text">EN</span></a>
+  </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/thk-ai/thk-ai"> <i class="bi bi-github" role="img">
 </i> 
@@ -147,6 +155,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#statuten-und-aufnahmeantrag" id="toc-statuten-und-aufnahmeantrag" class="nav-link active" data-scroll-target="#statuten-und-aufnahmeantrag">Statuten und Aufnahmeantrag</a></li>
+  <li><a href="#cairne" id="toc-cairne" class="nav-link" data-scroll-target="#cairne">CAIRNE</a></li>
   </ul>
 </nav>
     </div>
@@ -177,11 +186,86 @@ ul.task-list li input[type="checkbox"] {
 <section id="statuten-und-aufnahmeantrag" class="level2">
 <h2 class="anchored" data-anchor-id="statuten-und-aufnahmeantrag">Statuten und Aufnahmeantrag</h2>
 <p>Die <a href="https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/2025/endfassung_82_2025.pdf">Statuten des THK-AI Forschungsclusters vom 19. September 2025</a> wurden am 6. Oktober 2025 in den Amtlichen Mitteilungen der TH Köln veröffentlicht. Der Aufnahmeantrag kann [<a href="https://www.gm.fh-koeln.de/~bartz/thk-ai/Aufnahmeantrag.pdf">hier</a>] heruntergeladen werden (PDF, 52kB). Bitte senden Sie das ausgefüllte Dokument an die Sprecher des Forschungsclusters.</p>
+</section>
+<section id="cairne" class="level2">
+<h2 class="anchored" data-anchor-id="cairne">CAIRNE</h2>
+<div class="columns v-center">
+<div class="column" style="width:35%;">
+<p><img src="local/CAIRNE.d/Outlook-2d2n4pxp.png" class="img-fluid" style="width:100.0%" alt="CAIRNE Logo"></p>
+</div><div class="column" style="width:65%;">
+<p>Das THK-AI Forschungscluster ist <strong>CAIRNE Gold Member</strong>. Die Gold-Mitgliedschaft wurde 2025 vertraglich formalisiert und ist ein wichtiger Baustein fur die internationale Vernetzung des Clusters.</p>
+</div>
+</div>
+<p>CAIRNE steht fur <strong>Confederation of Laboratories for Artificial Intelligence Research in Europe</strong> und ist eine internationale, gemeinnutzige Vereinigung (AISBL), die aus der europaischen KI-Community entstanden ist. Ziel ist es, europaische Exzellenz in KI-Forschung und KI-Innovation mit einem klaren Schwerpunkt auf <strong>human-centered, trustworthy und responsible AI</strong> zu starken.</p>
+<p>Das Netzwerk fordert die Zusammenarbeit zwischen Forschungseinrichtungen, Industrie und Politik in Europa. Dazu gehoren unter anderem:</p>
+<ul>
+<li>Sichtbarkeit und Interessenvertretung europaischer KI-Forschung</li>
+<li>Vernetzung und grenzuberschreitende Kooperationen</li>
+<li>Community-Building und Beteiligung an europaischen Forschungsinitiativen</li>
+</ul>
+<p>Mit der Gold-Mitgliedschaft bringt THK-AI seine Forschungsstarken in die europaische Community ein, darunter interdisziplinare KI-Anwendungen, verantwortungsvolle KI-Entwicklung sowie der Transfer in Praxis und Gesellschaft.</p>
+<p>Weiterfuhrende Informationen:</p>
+<ul>
+<li><a href="https://cairne.eu">CAIRNE Website</a></li>
+<li><a href="https://cairne.eu/vision/">CAIRNE Vision</a></li>
+<li><a href="https://cairne.eu/research-network/">CAIRNE Research Network</a></li>
+</ul>
 
 
 </section>
 
 </main> <!-- /main -->
+<button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle color mode"></button>
+<script>
+(function () {
+  function labels() {
+    var lang = (document.documentElement.getAttribute("lang") || "en").toLowerCase();
+    if (lang.indexOf("de") === 0) {
+      return { dark: "Dunkel", light: "Hell" };
+    }
+    return { dark: "Dark", light: "Light" };
+  }
+
+  function preferredTheme() {
+    var saved = localStorage.getItem("thk-theme");
+    if (saved === "dark" || saved === "light") {
+      return saved;
+    }
+    return "dark";
+  }
+
+  function applyTheme(theme) {
+    document.body.classList.toggle("theme-dark", theme === "dark");
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var text = labels();
+    btn.textContent = theme === "dark" ? text.light : text.dark;
+    btn.setAttribute("data-theme", theme);
+    btn.setAttribute("title", theme === "dark" ? text.light : text.dark);
+    btn.setAttribute("aria-label", theme === "dark" ? text.light : text.dark);
+  }
+
+  function initToggle() {
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var theme = preferredTheme();
+    applyTheme(theme);
+
+    btn.addEventListener("click", function () {
+      var current = btn.getAttribute("data-theme") || "light";
+      var next = current === "dark" ? "light" : "dark";
+      localStorage.setItem("thk-theme", next);
+      applyTheme(next);
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initToggle);
+  } else {
+    initToggle();
+  }
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
