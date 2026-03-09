@@ -9,6 +9,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - news.qmd
       - about.qmd
       - members.qmd
       - hpc.qmd
