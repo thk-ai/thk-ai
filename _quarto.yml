@@ -7,8 +7,6 @@ website:
   site-url: "https://thk-ai.de/"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - news.qmd
       - about.qmd
       - members.qmd
