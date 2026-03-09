@@ -53,7 +53,7 @@ THK-AI verbindet leistungsfähige Recheninfrastruktur mit interdisziplinärer Ex
 :::{.feature-card}
 ### Offen für Kooperation
 
-Das Cluster unterstützt gemeinsame Projekte zwischen Verbanden, Unternehmen, Professorinnen und Professoren sowie Studierenden aus unterschiedlichen Fachrichtungen.
+Das Cluster unterstützt gemeinsame Projekte zwischen Verbänden, Unternehmen, Professorinnen und Professoren sowie Studierenden aus unterschiedlichen Fachrichtungen.
 :::
 
 :::{.feature-card}
@@ -67,7 +67,7 @@ Die verteilte Infrastruktur in Gummersbach und Leverkusen ermöglicht robuste Fo
 
 ::: {.callout-note appearance="simple"}
 Das Projekt THK-KIplus (TH Köln - Künstliche Intelligenz plus) wurde von Juni 2023 bis November 2025 im Programm KI-Nachwuchs@FH durch das Bundesministerium für Forschung, Technologie und Raumfahrt gefördert.
-Die Initiative wurde mit *rund 1,3 Mio. EUR* gefördert und hat eine der leistungsstarksten KI-orientierten Forschungsinfrastrukturen an Hochschulen für angewandte Wissenschaften in Deutschland aufgebaut.
+Die Initiative wurde mit *rund 1,3 Mio. EUR* gefördert und hat eine der leistungsstärksten KI-orientierten Forschungsinfrastrukturen an Hochschulen für angewandte Wissenschaften in Deutschland aufgebaut.
 :::
 
 ## Thematische Schwerpunkte
