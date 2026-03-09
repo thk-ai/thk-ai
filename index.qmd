@@ -14,7 +14,8 @@ lang: de
 
 Das THK-AI Forschungscluster fördert und unterstützt kooperative Projekte zwischen Verbänden, Industriepartnern, Professorinnen und Professoren sowie Studierenden.
 
-[Forschung entdecken](forschung.qmd){.btn .btn-primary .hero-btn}
+[News](news.qmd){.btn .btn-primary .hero-btn}
+[Forschung entdecken](forschung.qmd){.btn .btn-outline-light .hero-btn}
 [Team kennenlernen](members.qmd){.btn .btn-outline-light .hero-btn}
 :::
 

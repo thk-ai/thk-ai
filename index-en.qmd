@@ -14,7 +14,8 @@ lang: en
 
 The THK-AI Research Cluster promotes and supports collaborative projects between associations, industry partners, professors, and students.
 
-[Explore Research](forschung.qmd){.btn .btn-primary .hero-btn}
+[News](news.qmd){.btn .btn-primary .hero-btn}
+[Explore Research](forschung.qmd){.btn .btn-outline-light .hero-btn}
 [Meet the Team](members.qmd){.btn .btn-outline-light .hero-btn}
 :::
 
