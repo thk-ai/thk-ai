@@ -11,11 +11,11 @@ Das THK-AI Forschungscluster wurde Anfang 2023 ins Leben gerufen und am 31.01.20
 Die [Statuten des THK-AI Forschungsclusters vom 19. September 2025](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/2025/endfassung_82_2025.pdf) wurden am 6. Oktober 2025 in den Amtlichen Mitteilungen der TH Köln veröffentlicht. Der Aufnahmeantrag kann [[hier](https://www.gm.fh-koeln.de/~bartz/thk-ai/Aufnahmeantrag.pdf)] heruntergeladen werden (PDF, 52kB). Bitte senden Sie das ausgefüllte Dokument an die Sprecher des Forschungsclusters.
 
 
-## CAIRNE
+# CAIRNE
 
 :::{.columns .v-center}
 :::{.column width="35%"}
-![](local/CAIRNE.d/Outlook-2d2n4pxp.png){fig-alt="CAIRNE Logo" width="100%"}
+![](figures/logos/Outlook-2d2n4pxp.png){fig-alt="CAIRNE Logo" width="100%"}
 :::
 :::{.column width="65%"}
 Das THK-AI Forschungscluster ist **CAIRNE Gold Member**. Die Gold-Mitgliedschaft wurde 2025 vertraglich formalisiert und ist ein wichtiger Baustein fur die internationale Vernetzung des Clusters.
