@@ -9,3 +9,31 @@ Das THK-AI Forschungscluster wurde Anfang 2023 ins Leben gerufen und am 31.01.20
 ## Statuten und Aufnahmeantrag
 
 Die [Statuten des THK-AI Forschungsclusters vom 19. September 2025](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/2025/endfassung_82_2025.pdf) wurden am 6. Oktober 2025 in den Amtlichen Mitteilungen der TH Köln veröffentlicht. Der Aufnahmeantrag kann [[hier](https://www.gm.fh-koeln.de/~bartz/thk-ai/Aufnahmeantrag.pdf)] heruntergeladen werden (PDF, 52kB). Bitte senden Sie das ausgefüllte Dokument an die Sprecher des Forschungsclusters.
+
+
+## CAIRNE
+
+:::{.columns .v-center}
+:::{.column width="35%"}
+![](local/CAIRNE.d/Outlook-2d2n4pxp.png){fig-alt="CAIRNE Logo" width="100%"}
+:::
+:::{.column width="65%"}
+Das THK-AI Forschungscluster ist **CAIRNE Gold Member**. Die Gold-Mitgliedschaft wurde 2025 vertraglich formalisiert und ist ein wichtiger Baustein fur die internationale Vernetzung des Clusters.
+:::
+:::
+
+CAIRNE steht fur **Confederation of Laboratories for Artificial Intelligence Research in Europe** und ist eine internationale, gemeinnutzige Vereinigung (AISBL), die aus der europaischen KI-Community entstanden ist. Ziel ist es, europaische Exzellenz in KI-Forschung und KI-Innovation mit einem klaren Schwerpunkt auf **human-centered, trustworthy und responsible AI** zu starken.
+
+Das Netzwerk fordert die Zusammenarbeit zwischen Forschungseinrichtungen, Industrie und Politik in Europa. Dazu gehoren unter anderem:
+
+- Sichtbarkeit und Interessenvertretung europaischer KI-Forschung
+- Vernetzung und grenzuberschreitende Kooperationen
+- Community-Building und Beteiligung an europaischen Forschungsinitiativen
+
+Mit der Gold-Mitgliedschaft bringt THK-AI seine Forschungsstarken in die europaische Community ein, darunter interdisziplinare KI-Anwendungen, verantwortungsvolle KI-Entwicklung sowie der Transfer in Praxis und Gesellschaft.
+
+Weiterfuhrende Informationen:
+
+- [CAIRNE Website](https://cairne.eu)
+- [CAIRNE Vision](https://cairne.eu/vision/)
+- [CAIRNE Research Network](https://cairne.eu/research-network/)

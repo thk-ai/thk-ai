@@ -1,0 +1,51 @@
+<button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle color mode"></button>
+<script>
+(function () {
+  function labels() {
+    var lang = (document.documentElement.getAttribute("lang") || "en").toLowerCase();
+    if (lang.indexOf("de") === 0) {
+      return { dark: "Dunkel", light: "Hell" };
+    }
+    return { dark: "Dark", light: "Light" };
+  }
+
+  function preferredTheme() {
+    var saved = localStorage.getItem("thk-theme");
+    if (saved === "dark" || saved === "light") {
+      return saved;
+    }
+    return "dark";
+  }
+
+  function applyTheme(theme) {
+    document.body.classList.toggle("theme-dark", theme === "dark");
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var text = labels();
+    btn.textContent = theme === "dark" ? text.light : text.dark;
+    btn.setAttribute("data-theme", theme);
+    btn.setAttribute("title", theme === "dark" ? text.light : text.dark);
+    btn.setAttribute("aria-label", theme === "dark" ? text.light : text.dark);
+  }
+
+  function initToggle() {
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var theme = preferredTheme();
+    applyTheme(theme);
+
+    btn.addEventListener("click", function () {
+      var current = btn.getAttribute("data-theme") || "light";
+      var next = current === "dark" ? "light" : "dark";
+      localStorage.setItem("thk-theme", next);
+      applyTheme(next);
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initToggle);
+  } else {
+    initToggle();
+  }
+})();
+</script>
