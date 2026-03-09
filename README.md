@@ -1,3 +1,3 @@
-# THK-AI Reserach Cluster
+# THK-AI Research Cluster
 
-Forschungscluster: https://thk-ai.github.io/thk-ai/
+Forschungscluster: https://thk-ai.de/
