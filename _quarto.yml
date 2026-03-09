@@ -4,7 +4,7 @@ project:
 website:
   title: "THK-AI Research Cluster"
   description: "Forschungscluster THK-AI: Künstliche Intelligenz in der Technischen Hochschule Köln"
-  site-url: "https://sequential-parameter-optimization.github.io/thk-ai/"
+  site-url: "https://thk-ai.de/"
   navbar:
     left:
       - href: index.qmd
@@ -17,7 +17,7 @@ website:
       - veranstaltungen.qmd
     right:
       - icon: github
-        href: https://github.com/sequential-parameter-optimization/thk-ai
+        href: https://github.com/thk-ai/thk-ai
   open-graph:
     title: "THK-AI Research Cluster"
     description: "Forschungscluster THK-AI: Künstliche Intelligenz in der Technischen Hochschule Köln"
