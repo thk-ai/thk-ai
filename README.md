@@ -1,3 +1,3 @@
 # THK-AI Reserach Cluster
 
-Forschungscluster: https://sequential-parameter-optimization.github.io/thk-ai/
+Forschungscluster: https://thk-ai.github.io/thk-ai/
