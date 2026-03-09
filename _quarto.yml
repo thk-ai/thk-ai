@@ -16,6 +16,10 @@ website:
       - forschung.qmd
       - veranstaltungen.qmd
     right:
+      - text: DE
+        href: index.qmd
+      - text: EN
+        href: index-en.qmd
       - icon: github
         href: https://github.com/thk-ai/thk-ai
   open-graph:
@@ -27,6 +31,7 @@ format:
     theme:
       - litera
     css: styles.css
+    include-after-body: theme-toggle.html
     toc: true
     number-sections: false
     smooth-scroll: true
