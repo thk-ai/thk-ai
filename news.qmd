@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/toyota/toyota.jpeg){.news-card-image fig-alt="AI x Motorsport mit TOYOTA RACING"}
+[Master's Case Study: AI R&D meets Motorsport mit TOYOTA RACING](news/master-case-study-ai-rd-meets-motorsport-toyota-racing.md)
+`2026-03-10`
+
+Mohamed Desouky, Student im THK-AI Umfeld, berichtet ueber seine Master-Fallstudie: Unter Betreuung von Prof. Dr. Thomas Bartz-Beielstein und Noah C. Puetz wurde ein KI-Ansatz zur Echtzeit-Driftvorhersage auf Basis von Fahrzeug-Sensordaten entwickelt.
+
+[Zum Beitrag](news/master-case-study-ai-rd-meets-motorsport-toyota-racing.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/robocup/robocup_2.jpeg){.news-card-image fig-alt="RoboCup Challenge Vorbereitung"}
 [RoboCup 2026: Prof. Dr. Elena Algorri startet mit Team in die Challenge](news/robocup-challenge-elena-algorri-thk-ai.md)
 `2026-03-09`
