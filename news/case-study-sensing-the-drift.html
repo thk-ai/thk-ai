@@ -8,7 +8,7 @@
 
 <meta name="dcterms.date" content="2026-03-10">
 
-<title>Master’s Case Study: AI R&amp;D meets Motorsport mit TOYOTA RACING – THK-AI Research Cluster</title>
+<title>Master’s Case Study: AI R&amp;D trifft auf Motorsport mit TOYOTA RACING – THK-AI Research Cluster</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -156,7 +156,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#die-aufgabe-driftwinkel-in-echtzeit-vorhersagen" id="toc-die-aufgabe-driftwinkel-in-echtzeit-vorhersagen" class="nav-link active" data-scroll-target="#die-aufgabe-driftwinkel-in-echtzeit-vorhersagen">Die Aufgabe: Driftwinkel in Echtzeit vorhersagen</a></li>
-  <li><a href="#warum-das-fuer-automation-und-itai-studierende-spannend-ist" id="toc-warum-das-fuer-automation-und-itai-studierende-spannend-ist" class="nav-link" data-scroll-target="#warum-das-fuer-automation-und-itai-studierende-spannend-ist">Warum das fuer Automation und IT/AI-Studierende spannend ist</a></li>
+  <li><a href="#warum-das-für-automation--und-ai-studierende-spannend-ist" id="toc-warum-das-für-automation--und-ai-studierende-spannend-ist" class="nav-link" data-scroll-target="#warum-das-für-automation--und-ai-studierende-spannend-ist">Warum das für Automation- und AI-Studierende spannend ist</a></li>
+  <li><a href="#vom-hörsaal-in-die-racing-facility" id="toc-vom-hörsaal-in-die-racing-facility" class="nav-link" data-scroll-target="#vom-hörsaal-in-die-racing-facility">Vom Hörsaal in die Racing Facility</a></li>
   <li><a href="#thk-ai-perspektive" id="toc-thk-ai-perspektive" class="nav-link" data-scroll-target="#thk-ai-perspektive">THK-AI Perspektive</a></li>
   </ul>
 </nav>
@@ -166,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Master’s Case Study: AI R&amp;D meets Motorsport mit TOYOTA RACING</h1>
+<h1 class="title">Master’s Case Study: AI R&amp;D trifft auf Motorsport mit TOYOTA RACING</h1>
 </div>
 
 
@@ -189,15 +190,21 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Im THK-AI Forschungscluster zeigt sich erneut, wie praxisnah KI-Forschung an der TH Kön sein kann: Mohamed Desouky, Student aus dem Master-Studiengang Automation and IT, berichtet in einem LinkedIn-Post ueber seine Masterarbeit an der Schnittstelle von Automotive AI und Motorsport.</p>
-<p>Unter der Betreuung von Prof.&nbsp;Dr.&nbsp;Thomas Bartz-Beielstein und dessen Doktorand Noah C. Pütz arbeitete er an einer Herausforderung aus der realen Fahrzeugentwicklung in Kooperation mit TOYOTA RACING.</p>
-<p><img src="../figures/news/toyota/toyota.jpeg" class="img-fluid"></p>
+<p>Im THK-AI Forschungscluster zeigt sich erneut, wie praxisnah KI-Forschung an der TH Köln sein kann: Unter der Betreuung von <strong>Prof.&nbsp;Dr.&nbsp;Thomas Bartz-Beielstein</strong> und seinem Doktoranden <strong>Noah C. Pütz</strong> arbeiteten Studierende des <strong>Master-Studiengangs Automation &amp; IT</strong> und des <strong>Master-Studiengangs Digital Sciences</strong> in Kooperation mit <strong>TOYOTA RACING</strong> an einer realen Herausforderung: Wie trainiert man KI-Modelle sodass sie besser in den wichtigsten Szenarien funktionieren ohne Qualität in den Häufigsten Szenarien einzubüßen?</p>
+<p>Das besondere an dieser Case Study: Sie lief einerseits auf reallen Daten und als wöchentliche, privat gehostete Kaggle-Challenge. Studierende-Teams traten auf einem Live-Leaderboard gegeneinander an, reichten jede Woche Vorhersagen für einen verdeckten Testsplit ein und sahen sofort, wie sich ihr Ansatz im Vergleich schlug. Begleitend gab es wöchentliche Meetings mit kurzen technischen Mini-Lectures und Fortschrittsberichten aller Teams.</p>
+<p><img src="../figures/news/toyota/Gruppenbild.jpg" class="img-fluid"></p>
 <section id="die-aufgabe-driftwinkel-in-echtzeit-vorhersagen" class="level2">
 <h2 class="anchored" data-anchor-id="die-aufgabe-driftwinkel-in-echtzeit-vorhersagen">Die Aufgabe: Driftwinkel in Echtzeit vorhersagen</h2>
-<p>Kern der Fallstudie war ein virtueller Sensor: Das Team sollte vorhersagen, wie stark ein Fahrzeug driftet - und zwar in Echtzeit, ausschliesslich auf Basis von Onboard-Sensordaten. Ohne zusaetzliche teure Hardware. Ohne optische Spezialsensoren. Ohne separate IMU. Stattdessen ersetzt ein ML-Modell physische Sensorik dort, wo sie teuer, komplex oder schwer integrierbar ist. Gerade in kritischen Fahrsituationen wird das anspruchsvoll: Modelle muessen besonders in seltenen, dynamischen Grenzfaellen stabil und praezise bleiben.</p>
+<p>Kern der Case Study war ein virtueller Sensor: Die Teams sollten den Vehicle Sideslip Angle (VSA) vorhersagen (also wie stark ein Fahrzeug driftet) und zwar in Echtzeit, ausschließlich auf Basis von Onboard-Sensordaten. Das ML-Modell ersetzt demnach physische Sensorik dort, wo sie teuer, komplex oder schwer integrierbar ist.</p>
+<p><img src="../figures/news/toyota//Virtual_Sensing.png" class="img-fluid"></p>
+Advanced Driver-Assistance Systems wie die Elektronische Stabilitätskontrolle (ESC) nutzen den VSA zum Beispiel, um zu entscheiden, wann und an welchem Rad Bremskraft angelegt wird. Präzise Schätzungen sind daher sicherheitskritisch. Optische oder inertiale Sensoren, die den Driftwinkel direkt messen, kosten allerdings ein Vielfaches des Standard-Sensorpakets für Serienfahrzeuge schlicht nicht tragbar.
+<center>
+<img src="../figures/news/toyota//VSA.png" width="300">
+</center>
+<p>Gerade in kritischen Fahrsituationen wird das besonders anspruchsvoll: Reale Fahrdaten werden von alltäglichen, ereignislosen Szenarien dominiert. Die seltenen, sicherheitskritischen Driftsituationen, die am meisten zählen, tauchen nur vereinzelt auf. Ohne Gegenmaßnahmen verzerrt diese Daten-Imbalance das Modell: es versagt genau dann, wenn das Fahrzeug die meiste Hilfe braucht. Diese ungleiche Verteilung auszugleichen ist keine Option, sondern eine Voraussetzung für vertrauenswürdige KI in jeder cyber-physischen Anwendung.</p>
 </section>
-<section id="warum-das-fuer-automation-und-itai-studierende-spannend-ist" class="level2">
-<h2 class="anchored" data-anchor-id="warum-das-fuer-automation-und-itai-studierende-spannend-ist">Warum das fuer Automation und IT/AI-Studierende spannend ist</h2>
+<section id="warum-das-für-automation--und-ai-studierende-spannend-ist" class="level2">
+<h2 class="anchored" data-anchor-id="warum-das-für-automation--und-ai-studierende-spannend-ist">Warum das für Automation- und AI-Studierende spannend ist</h2>
 <p>Diese Art von Problem zeigt, worauf es in modernen cyber-physischen Systemen ankommt:</p>
 <ul>
 <li>Entscheidungen in Millisekunden</li>
@@ -205,18 +212,16 @@ ul.task-list li input[type="checkbox"] {
 <li>Data-Driven Modelling statt reinem Paper-Benchmarking</li>
 <li>Safety-Kriterien und technische Nachvollziehbarkeit</li>
 </ul>
-<p>Die zentrale Lernkurve aus der Arbeit: Methoden, die in allgemeinen AI-Benchmarks stark sind, lassen sich nicht automatisch auf den Automotive-Kontext uebertragen. Fahrzeugdynamik hat eigene Gesetzmaessigkeiten, eigene Fehlerbilder und harte Echtzeit-Constraints.</p>
-<p><img src="../figures/news/toyota/toyota_2.jpeg" class="img-fluid"></p>
-<p>Wer sich fuer Automation, Embedded AI, ADAS oder industrielle KI interessiert, findet im THK-AI Research Cluster ein exzellentes Lernfeld: von virtueller Sensorik und Deep Learning bis zu valider Systemintegration unter realen Bedingungen.</p>
+<p>Die zentrale Erkenntnis aus der Arbeit: Methoden, die in allgemeinen AI-Benchmarks stark abschneiden, lassen sich nicht automatisch auf den reale Datensets übertragen. In dem Case Study Beispiel hat die Fahrzeugdynamik eigene Gesetzmäßigkeiten, eigene Fehlerbilder und harte Echtzeit-Constraints.</p>
+</section>
+<section id="vom-hörsaal-in-die-racing-facility" class="level2">
+<h2 class="anchored" data-anchor-id="vom-hörsaal-in-die-racing-facility">Vom Hörsaal in die Racing Facility</h2>
+<p>Alle Teams testeten State-of-the-Art-Verfahren und entwickelten im Lauf der Fallstudie eigene, neuartige Ansätze. Als besonderes Highlight hatten die Studierenden die Gelegenheit, die TOYOTA RACING Facility zu besuchen, ihre Ergebnisse vor Industrieexperten zu präsentieren und anschließend einen Blick hinter die Kulissen bei einer Führung durch die Anlage zu werfen.</p>
 </section>
 <section id="thk-ai-perspektive" class="level2">
 <h2 class="anchored" data-anchor-id="thk-ai-perspektive">THK-AI Perspektive</h2>
-<p>Der Case verdeutlicht, wie Studierende der TH Köln in anspruchsvolle Projekte mit unmittelbarer Relevanz fuer Industrie und Mobilitaet einsteigen koennen. Solche Arbeiten stehen fuer den THK-AI Anspruch: technisch tief, wissenschaftlich fundiert, und mit direktem Real-World-Impact.</p>
-<p><img src="../figures/news/toyota/toyota_3.jpeg" class="img-fluid"></p>
-<p>Weiterführender Link:</p>
-<ul>
-<li>LinkedIn-Post von Mohamed Desouky: <a href="https://www.linkedin.com/posts/mohamed-desouky-558b90217_automotiveai-motorsport-toyotaracing-activity-7437144797523644417-T7E3" class="uri">https://www.linkedin.com/posts/mohamed-desouky-558b90217_automotiveai-motorsport-toyotaracing-activity-7437144797523644417-T7E3</a></li>
-</ul>
+<p>Dieser Case verdeutlicht, wie Studierende der TH Köln in anspruchsvolle Projekte mit unmittelbarer Relevanz für Industrie und Mobilität einsteigen können. Wer sich für Automation, Embedded AI, ADAS oder industrielle KI interessiert, findet im THK-AI Research Cluster ein exzellentes Lernfeld: von virtueller Sensorik und Deep Learning bis zu valider Systemintegration unter realen Bedingungen.</p>
+<p>Solche Arbeiten stehen für den THK-AI Anspruch: technisch tief, wissenschaftlich fundiert, und mit direktem Real-World-Impact.</p>
 
 
 </section>
