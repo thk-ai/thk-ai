@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/fsp_risiko/slide-01.png){.news-card-image fig-alt="FSP Risiko, Resilienz und Transformation Kick-Off"}
+[Kick-Off: Forschungsschwerpunkt Risiko, Resilienz und Transformation](news/fsp-risiko-resilienz-transformation-kick-off-2026.md)
+`2026-03-12`
+
+Neuer interdisziplinärer Forschungsschwerpunkt der TH Köln: mit über 35 Professorinnen und Professoren aus 11 Fakultäten bündelt der FSP Risiko, Resilienz und Transformation Kompetenzen von Katastrophenschutz bis digitaler Infrastrukturresilienz.
+
+[Zum Beitrag](news/fsp-risiko-resilienz-transformation-kick-off-2026.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/toyota/toyota.jpeg){.news-card-image fig-alt="AI x Motorsport mit TOYOTA RACING"}
 [Master's Case Study: AI R&D meets Motorsport mit TOYOTA RACING](news/master-case-study-ai-rd-meets-motorsport-toyota-racing.md)
 `2026-03-10`
