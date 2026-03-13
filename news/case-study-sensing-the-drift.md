@@ -3,9 +3,9 @@ title: "Master's Case Study: AI R&D trifft auf Motorsport mit TOYOTA RACING"
 date: 2026-03-10
 ---
 
-Im THK-AI Forschungscluster zeigt sich erneut, wie praxisnah KI-Forschung an der TH Köln sein kann: Unter der Betreuung von **Prof. Dr. Thomas Bartz-Beielstein** und seinem Doktoranden **Noah C. Pütz** arbeiteten Studierende des **Master-Studiengangs Automation & IT** und des **Master-Studiengangs Digital Sciences** in Kooperation mit **TOYOTA RACING** an einer realen Herausforderung: Wie trainiert man KI-Modelle sodass sie besser in den wichtigsten Szenarien funktionieren ohne Qualität in den häufigsten Szenarien einzubüßen?
+Im THK-AI Forschungscluster zeigt sich erneut, wie praxisnah KI-Forschung an der TH Köln sein kann: Unter der Betreuung von **Prof. Dr. Thomas Bartz-Beielstein** und seinem Doktoranden **Noah C. Pütz** arbeiteten Studierende des **Master-Studiengangs Automation & IT** und des **Master-Studiengangs Digital Sciences** in Kooperation mit **TOYOTA RACING** an einer realen Herausforderung: Wie trainiert man KI-Modelle, so dass sie besser in den wichtigsten Szenarien funktionieren ohne Qualität in den häufigsten Szenarien einzubüßen?
 
-Das besondere an dieser Case Study: Sie lief einerseits auf reallen Daten und als wöchentliche, privat gehostete Kaggle-Challenge. Studierende-Teams traten auf einem Live-Leaderboard gegeneinander an, reichten jede Woche Vorhersagen für einen verdeckten Testsplit ein und sahen sofort, wie sich ihr Ansatz im Vergleich schlug. Begleitend gab es wöchentliche Meetings mit kurzen technischen Mini-Lectures und Fortschrittsberichten aller Teams.
+Das Besondere an dieser Case Study: Sie lief einerseits auf realen Daten und als wöchentliche, privat gehostete Kaggle-Challenge. Studierende-Teams traten auf einem Live-Leaderboard gegeneinander an, reichten jede Woche Vorhersagen für einen verdeckten Testsplit ein und sahen sofort, wie sich ihr Ansatz im Vergleich schlug. Begleitend gab es wöchentliche Meetings mit kurzen technischen Mini-Lectures und Fortschrittsberichten aller Teams.
 
 ![](../figures/news/toyota/Gruppenbild.jpg)
 
