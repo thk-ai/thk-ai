@@ -20,13 +20,12 @@ Neuer interdisziplinärer Forschungsschwerpunkt der TH Köln: mit über 35 Profe
 :::
 
 :::{.news-card}
-![](figures/news/toyota/toyota.jpeg){.news-card-image fig-alt="AI x Motorsport mit TOYOTA RACING"}
-[Master's Case Study: AI R&D meets Motorsport mit TOYOTA RACING](news/master-case-study-ai-rd-meets-motorsport-toyota-racing.md)
+![](figures/news/toyota/Gruppenbild.jpg){.news-card-image fig-alt="AI x Motorsport mit TOYOTA RACING"}
+[Master's Case Study: AI R&D trifft auf Motorsport mit TOYOTA RACING](news/case-study-sensing-the-drift.md)
 `2026-03-10`
 
-Mohamed Desouky, Student im THK-AI Umfeld, berichtet ueber seine Master-Fallstudie: Unter Betreuung von Prof. Dr. Thomas Bartz-Beielstein und Noah C. Puetz wurde ein KI-Ansatz zur Echtzeit-Driftvorhersage auf Basis von Fahrzeug-Sensordaten entwickelt.
-
-[Zum Beitrag](news/master-case-study-ai-rd-meets-motorsport-toyota-racing.md){.btn .btn-outline-primary}
+Im THK-AI Forschungscluster zeigt sich erneut, wie praxisnah KI-Forschung sein kann: Unter der Betreuung von **Prof. Dr. Thomas Bartz-Beielstein** und seinem Doktoranden **Noah C. Pütz** arbeiteten Studierende der Master-Studiengänge Automation & IT und Digital Sciences in Kooperation mit **TOYOTA RACING** an einer realen Herausforderun.
+[Zum Beitrag](news/case-study-sensing-the-drift.md){.btn .btn-outline-primary}
 :::
 
 :::{.news-card}
