@@ -4,7 +4,7 @@ date: 2026-03-12
 ---
 
 Am 12. März 2026 fand der offizielle Kick-Off des neuen **Forschungsschwerpunkts (FSP) Risiko, Resilienz und Transformation** an der TH Köln statt – ein interdisziplinärer Zusammenschluss, der Forschende aus elf Fakultäten und über 35 Professorinnen und Professoren vereint.
-Prof. Dr. Thomas Bartz-Beielstein war als Sprecher des THK-AI Forschungsclusters an dem Kick-Offs beteiligt.
+Prof. Dr. Thomas Bartz-Beielstein war als Sprecher des THK-AI Forschungsclusters an dem Kick-Off beteiligt.
 
 ![Kick-Off des Forschungsschwerpunkts Risiko, Resilienz und Transformation, TH Köln, 12.3.2026](../figures/news/fsp_risiko/slide-01.png){fig-alt="Titelfolie des FSP Risiko – Erdkugel vor schwarzem Hintergrund"}
 
