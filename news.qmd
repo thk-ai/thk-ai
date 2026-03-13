@@ -24,7 +24,7 @@ Neuer interdisziplinärer Forschungsschwerpunkt der TH Köln: mit über 35 Profe
 [Master's Case Study: AI R&D trifft auf Motorsport mit TOYOTA RACING](news/case-study-sensing-the-drift.md)
 `2026-03-10`
 
-Im THK-AI Forschungscluster zeigt sich erneut, wie praxisnah KI-Forschung sein kann: Unter der Betreuung von **Prof. Dr. Thomas Bartz-Beielstein** und seinem Doktoranden **Noah C. Pütz** arbeiteten Studierende der Master-Studiengänge Automation & IT und Digital Sciences in Kooperation mit **TOYOTA RACING** an einer realen Herausforderun.
+Im THK-AI Forschungscluster zeigt sich erneut, wie praxisnah KI-Forschung sein kann: Unter der Betreuung von **Prof. Dr. Thomas Bartz-Beielstein** und seinem Doktoranden **Noah C. Pütz** arbeiteten Studierende der Master-Studiengänge Automation & IT und Digital Sciences in Kooperation mit **TOYOTA RACING** an einer realen Herausforderung.
 [Zum Beitrag](news/case-study-sensing-the-drift.md){.btn .btn-outline-primary}
 :::
 
