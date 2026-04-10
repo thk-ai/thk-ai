@@ -22,8 +22,8 @@ website:
       - icon: github
         href: https://github.com/thk-ai/thk-ai
   page-footer:
-    left: "&copy; Technische Hochschule K&ouml;ln"
-    right:
+    left:
+      - text: "&copy; Technische Hochschule K&ouml;ln"
       - text: "Impressum"
         href: impressum.qmd
       - text: "Datenschutz"
