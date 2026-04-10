@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](news/ai-resilience/three_pillars.png){.news-card-image fig-alt="Three Pillars of AI Resilience"}
+[Why We Need an AI-Resilient Society -- Updated Report on arXiv](news/why-we-need-an-ai-resilient-society.md)
+`2026-04-10`
+
+Eine aktualisierte Version des 2019 erschienenen Reports "Why we need an AI-resilient society" ist auf arXiv veroeffentlicht worden. Der Report profiliert KI anhand von neun dokumentierten Eigenschaften und schlaegt ein Drei-Saeulen-Framework fuer KI-Resilienz vor: Kognitive Souveraenitaet, Messbare Kontrolle und Partielle Autonomie.
+
+[Zum Beitrag](news/why-we-need-an-ai-resilient-society.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/fsp_risiko/slide-01.png){.news-card-image fig-alt="FSP Risiko, Resilienz und Transformation Kick-Off"}
 [Kick-Off: Forschungsschwerpunkt Risiko, Resilienz und Transformation](news/fsp-risiko-resilienz-transformation-kick-off-2026.md)
 `2026-03-12`
