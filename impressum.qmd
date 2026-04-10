@@ -1,0 +1,51 @@
+---
+title: "Impressum"
+lang: de
+toc: false
+---
+
+## Angaben gemaess &sect; 5 TMG / &sect; 18 MStV
+
+Technische Hochschule Koeln\
+Claudiusstr. 1\
+50678 Koeln
+
+**Vertreten durch:**\
+Die Praesidentin Prof. Dr. Sylvia Heuchemer
+
+**Kontakt:**\
+Telefon: +49 221-8275-0\
+Fax: +49 221-8275-3131\
+E-Mail: poststelle@th-koeln.de
+
+**Umsatzsteuer-Identifikationsnummer gemaess &sect; 27a UStG:**\
+DE 122653679
+
+**Zustaendige Aufsichtsbehoerde:**\
+Ministerium fuer Kultur und Wissenschaft des Landes Nordrhein-Westfalen\
+Voelklinger Str. 49, 40221 Duesseldorf\
+[https://www.mkw.nrw/](https://www.mkw.nrw/)
+
+## Verantwortlich fuer den Inhalt (&sect; 18 Abs. 2 MStV)
+
+Prof. Dr. Thomas Bartz-Beielstein\
+Informatik und Ingenieurwissenschaften\
+Institut fuer Data Science, Engineering, and Analytics (IDE+A)
+
+Prof. Dr. Anja Richert\
+Anlagen, Energie- und Maschinensysteme\
+Institut fuer Produktentwicklung und Konstruktionstechnik (IPK)
+
+Technische Hochschule Koeln\
+Claudiusstr. 1\
+50678 Koeln
+
+## Vollstaendiges Impressum der TH Koeln
+
+Das vollstaendige Impressum der Technischen Hochschule Koeln finden Sie unter:\
+[https://www.th-koeln.de/hochschule/impressum_8159.php](https://www.th-koeln.de/hochschule/impressum_8159.php)
+
+## Haftungshinweis
+
+Es gelten die Haftungshinweise der Technischen Hochschule Koeln:\
+[https://www.th-koeln.de/hochschule/haftungshinweis_8277.php](https://www.th-koeln.de/hochschule/haftungshinweis_8277.php)

@@ -1,0 +1,76 @@
+---
+title: "Datenschutzhinweis"
+lang: de
+toc: true
+---
+
+## Verantwortlicher
+
+Technische Hochschule Koeln\
+Claudiusstr. 1\
+50678 Koeln\
+E-Mail: poststelle@th-koeln.de\
+Telefon: +49 221-8275-0
+
+## Datenschutzbeauftragte
+
+Bernadette Schmitz / Elisabeth Mansel\
+Gustav-Heinemann-Ufer 54\
+50968 Koeln\
+E-Mail: datenschutzbeauftragter@th-koeln.de
+
+## Hosting und Bereitstellung
+
+Diese Website wird ueber **GitHub Pages** bereitgestellt, einen Dienst der GitHub B.V. (Vijzelstraat 68-72, 1017 HL Amsterdam, Niederlande) bzw. GitHub, Inc. (88 Colin P Kelly Jr St, San Francisco, CA 94107, USA).
+
+Beim Aufruf dieser Website werden durch GitHub automatisch folgende Daten in Server-Logdateien verarbeitet:
+
+- IP-Adresse des anfragenden Geraets
+- Datum und Uhrzeit des Zugriffs
+- Angefragte URL
+- Referrer-URL
+- Verwendeter Browser und Betriebssystem
+
+Diese Daten sind technisch erforderlich, um die Website auszuliefern und die Sicherheit zu gewaehrleisten. Eine Zusammenfuehrung dieser Daten mit anderen Datenquellen wird von uns nicht vorgenommen.
+
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Bereitstellung und Sicherheit der Website).
+
+**Datenuebermittlung in Drittstaaten:** GitHub, Inc. hat ihren Sitz in den USA. GitHub ist unter dem EU-US Data Privacy Framework zertifiziert und hat sich den EU-Standardvertragsklauseln unterworfen. Weitere Informationen zum Datenschutz bei GitHub finden Sie unter:\
+[GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+
+## Lokale Speicherung (Web Storage)
+
+Diese Website nutzt die **localStorage**-Funktion Ihres Browsers, um Ihre Praeferenz fuer den Hell-/Dunkelmodus zu speichern (Schluessel: `thk-theme`). Es handelt sich dabei nicht um Cookies. Die Daten werden ausschliesslich lokal in Ihrem Browser gespeichert und nicht an Server uebertragen. Sie koennen diese Daten jederzeit ueber die Einstellungen Ihres Browsers loeschen.
+
+**Rechtsgrundlage:** &sect; 25 Abs. 2 Nr. 2 TDDDG (technisch erforderlich fuer eine vom Nutzer ausdruecklich gewuenschte Funktion).
+
+## Keine Cookies, kein Tracking, keine Analyse
+
+Diese Website verwendet **keine Cookies**, **keine Analyse- oder Tracking-Werkzeuge** und **keine Social-Media-Plugins**. Es werden keine Schriftarten von externen Servern geladen. Es findet kein Profiling und keine automatisierte Entscheidungsfindung statt.
+
+## Ihre Rechte
+
+Sie haben gegenueber dem Verantwortlichen folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
+
+- **Auskunftsrecht** (Art. 15 DSGVO)
+- **Recht auf Berichtigung** (Art. 16 DSGVO)
+- **Recht auf Loeschung** (Art. 17 DSGVO)
+- **Recht auf Einschraenkung der Verarbeitung** (Art. 18 DSGVO)
+- **Recht auf Datenportabilitaet** (Art. 20 DSGVO)
+- **Widerspruchsrecht** (Art. 21 DSGVO)
+
+Zur Ausuebung Ihrer Rechte wenden Sie sich bitte an die oben genannten Datenschutzbeauftragten.
+
+## Beschwerderecht bei einer Aufsichtsbehoerde
+
+Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehoerde ueber die Verarbeitung Ihrer personenbezogenen Daten zu beschweren. Zustaendige Aufsichtsbehoerde:
+
+Landesbeauftragte fuer Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW)\
+Kavalleriestr. 2-4\
+40213 Duesseldorf\
+[https://www.ldi.nrw.de](https://www.ldi.nrw.de)
+
+## Allgemeine Datenschutzerklaerung der TH Koeln
+
+Die allgemeine Datenschutzerklaerung der Technischen Hochschule Koeln finden Sie unter:\
+[https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php](https://www.th-koeln.de/hochschule/datenschutzhinweis_8279.php)

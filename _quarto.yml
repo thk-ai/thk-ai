@@ -21,6 +21,13 @@ website:
         href: index-en.qmd
       - icon: github
         href: https://github.com/thk-ai/thk-ai
+  page-footer:
+    left: "&copy; Technische Hochschule K&ouml;ln"
+    right:
+      - text: "Impressum"
+        href: impressum.qmd
+      - text: "Datenschutz"
+        href: datenschutz.qmd
   open-graph:
     title: "THK-AI Research Cluster"
     description: "Forschungscluster THK-AI: Künstliche Intelligenz in der Technischen Hochschule Köln"
