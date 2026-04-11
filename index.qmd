@@ -20,7 +20,7 @@ lang: de
 
 ### Vortrag „Are We Ready?" jetzt online
 
-`2026-04-11` -- Die Aufzeichnung des DaLI-Vortrags von Prof. Dr. Thomas Bartz-Beielstein ist nun [auf Vimeo](https://vimeo.com/1161035076) verfügbar.
+`11. April 2026` -- Die Aufzeichnung des DaLI-Vortrags von Prof. Dr. Thomas Bartz-Beielstein ist nun [auf Vimeo](https://vimeo.com/1161035076) verfügbar.
 
 [Zum Beitrag](news/dali-are-we-ready-vortrag-online.md){.btn .btn-outline-primary}
 :::
@@ -30,7 +30,7 @@ lang: de
 
 ### Willkommen Prof. Dr. Ingo Stadler
 
-`2026-04-11` -- Das THK-AI Forschungscluster begrüßt Prof. Dr. Ingo Stadler (IET / CIRE) als neues Mitglied und wächst damit auf 24 Mitglieder.
+`11. April 2026` -- Das THK-AI Forschungscluster begrüßt Prof. Dr. Ingo Stadler (IET / CIRE) als neues Mitglied und wächst damit auf 24 Mitglieder.
 
 [Zum Beitrag](news/welcome-prof-ingo-stadler.md){.btn .btn-outline-primary}
 :::

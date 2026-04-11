@@ -1,6 +1,6 @@
 # Why We Need an AI-Resilient Society -- Updated Report on arXiv
 
-`2026-04-10`
+`10. April 2026`
 
 ![Three Pillars of AI Resilience](../news/ai-resilience/three_pillars.png)
 
