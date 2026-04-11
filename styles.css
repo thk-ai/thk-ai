@@ -547,6 +547,15 @@ blockquote {
   border-color: var(--primary);
 }
 
+.feature-card-image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  background: #0f172a;
+}
+
 /* Speaker Grid Styling */
 .speaker-grid {
   display: grid;
