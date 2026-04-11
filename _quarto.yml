@@ -5,6 +5,7 @@ website:
   title: "THK-AI Research Cluster"
   description: "Forschungscluster THK-AI: Künstliche Intelligenz in der Technischen Hochschule Köln"
   site-url: "https://thk-ai.de/"
+  favicon: figures/favicon/favicon-32x32.png
   navbar:
     left:
       - news.qmd
