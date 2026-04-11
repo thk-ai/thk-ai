@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/members/stadler.png){.news-card-image fig-alt="Prof. Dr. Ingo Stadler"}
+[Willkommen Prof. Dr. Ingo Stadler im THK-AI Forschungscluster](news/welcome-prof-ingo-stadler.md)
+`2026-04-11`
+
+Das THK-AI Forschungscluster begrüßt **Prof. Dr. Ingo Stadler** (Institut für Elektrische Energietechnik / Cologne Institute for Renewable Energy) als neues Mitglied. Mit seinem Beitritt wächst das Cluster auf **24 Mitglieder**. Seine Expertise zu erneuerbaren Energien, Energiespeichern und Smart Grids ergänzt das Cluster ideal im Bereich KI-gestützter Energiesysteme.
+
+[Zum Beitrag](news/welcome-prof-ingo-stadler.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](news/ai-resilience/three_pillars.png){.news-card-image fig-alt="Three Pillars of AI Resilience"}
 [Why We Need an AI-Resilient Society -- Updated Report on arXiv](news/why-we-need-an-ai-resilient-society.md)
 `2026-04-10`
