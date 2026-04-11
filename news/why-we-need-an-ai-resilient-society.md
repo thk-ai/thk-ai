@@ -8,30 +8,30 @@ Eine aktualisierte und erweiterte Version des 2019 erschienenen Reports „Why w
 
 ## Hintergrund
 
-Drei Generationen von Software haben die Rolle kuenstlicher Intelligenz in der Gesellschaft grundlegend veraendert. In der ersten schrieben Programmierer explizite Logik, in der zweiten lernten neuronale Netze Programme aus Daten, in der dritten machen grosse Sprachmodelle natuerliche Sprache selbst zur Programmierschnittstelle. Diese Umbrueche haben Konsequenzen, die weit ueber die Informatik hinausreichen und beeinflussen, wie Gesellschaften Wissen generieren, Entscheidungen treffen und sich selbst regieren.
+Drei Generationen von Software haben die Rolle künstlicher Intelligenz in der Gesellschaft grundlegend verändert. In der ersten schrieben Programmierer explizite Logik, in der zweiten lernten neuronale Netze Programme aus Daten, in der dritten machen große Sprachmodelle natürliche Sprache selbst zur Programmierschnittstelle. Diese Umbrüche haben Konsequenzen, die weit über die Informatik hinausreichen und beeinflussen, wie Gesellschaften Wissen generieren und Entscheidungen treffen.
 
 ## KI-Profil: Neun dokumentierte Eigenschaften
 
-Der Report wendet eine forensisch-psychologische Profiling-Methodik an und charakterisiert KI anhand von neun dokumentierten Merkmalen:
+Der Report wendet spielerisch eine forensisch-psychologische Profiling-Methodik an und charakterisiert KI anhand von neun dokumentierten Merkmalen:
 
 - Halluzinationen
-- Bias und Toxizitaet
+- Bias und Toxizität
 - Sycophancy und Echokammern
-- Fabrikation und Leichtglaeubigkeit
+- Fabrikation und Leichtgläubigkeit
 - Wissen ohne Verstehen
-- Diskontinuitaet und Unfaehigkeit, aus Erfahrung zu lernen
+- Diskontinuität und Unfähigkeit, aus Erfahrung zu lernen
 - Jagged Intelligence und Skalierungsgrenzen
-- Shortcuts und fragmentierte Repraesentationen
+- Shortcuts und fragmentierte Repräsentationen
 - Kognitive Atrophie
 
-Das resultierende Profil zeigt eine "Entitaet", die fluessig konfabuliert, die Vorurteile ihrer Nutzer spiegelt, enzyklopaedisches Wissen ohne kausales Verstaendnis besitzt und die Kompetenz derer untergräbt, die von ihr abhaengig werden. Die Implikationen erstrecken sich auf institutionelle Erosion in Recht, Wissenschaft, Journalismus und demokratischer Governance.
+Das resultierende Profil zeigt eine „Entität", die flüssig konfabuliert, die Vorurteile ihrer Nutzer spiegelt, enzyklopädisches Wissen ohne kausales Verständnis besitzt und die Kompetenz derer untergräbt, die von ihr abhängig werden. Die Implikationen erstrecken sich auf institutionelle Erosion in den Bereichen Recht, Wissenschaft, Journalismus und Demokratie.
 
-## Drei-Saeulen-Framework fuer KI-Resilienz
+## Drei-Säulen-Framework für KI-Resilienz
 
-Zur Bewaeltigung dieser Herausforderungen schlaegt der Report ein Drei-Saeulen-Framework vor:
+Zur Bewältigung dieser Herausforderungen schlägt der Report ein Drei-Säulen-Framework vor:
 
-1. **Kognitive Souveraenitaet** -- Erhalt der Faehigkeit zu unabhaengigem Urteilsvermoegen
-2. **Messbare Kontrolle** -- Uebersetzung ethischer Verpflichtungen in durchsetzbare Standards und rote Linien
-3. **Partielle Autonomie** -- Wahrung menschlicher Handlungsfaehigkeit an kritischen Entscheidungspunkten
+1. Kognitive Souveränität – Erhalt der Fähigkeit zu unabhängigem Urteilsvermögen
+2. Messbare Kontrolle – Übersetzung ethischer Verpflichtungen in durchsetzbare Standards und rote Linien
+3. Partielle Autonomie – Wahrung menschlicher Handlungsfähigkeit an kritischen Entscheidungspunkten
 
 Dieser Report ist eine aktualisierte und erweiterte Version von [arXiv:1912.08786v1](https://arxiv.org/abs/1912.08786v1). Die aktuelle Version ist verfügbar unter [arXiv:1912.08786v2](https://arxiv.org/abs/1912.08786v2).
