@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](news/dali_bartz.d/dali_vimeo_bartz.jpg){.news-card-image fig-alt="DaLI-Ringvorlesung: Are We Ready? The Urgent Need for an AI-Resilient Society"}
+[Vortrag „Are We Ready? The Urgent Need for an AI-Resilient Society" jetzt online](news/dali-are-we-ready-vortrag-online.md)
+`2026-04-11`
+
+Der Vortrag von Prof. Dr. Thomas Bartz-Beielstein aus der DaLI-Ringvorlesung „Zukunft durch Daten – KI gestalten, gesellschaftlichen Wandel fördern" ist nun als [Aufzeichnung auf Vimeo](https://vimeo.com/1161035076) verfügbar. Der Vortrag diskutiert die systemische Erosion menschlicher Kompetenz durch unzuverlässige KI-Systeme und skizziert ein Drei-Säulen-Framework für KI-Resilienz, dessen wissenschaftliche Grundlage auch als [Report auf arXiv](https://arxiv.org/abs/1912.08786v2) vorliegt.
+
+[Zum Beitrag](news/dali-are-we-ready-vortrag-online.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/members/stadler.png){.news-card-image fig-alt="Prof. Dr. Ingo Stadler"}
 [Willkommen Prof. Dr. Ingo Stadler im THK-AI Forschungscluster](news/welcome-prof-ingo-stadler.md)
 `2026-04-11`
@@ -24,7 +34,7 @@ Das THK-AI Forschungscluster begrüßt [Prof. Dr. Ingo Stadler](https://www.th-k
 [Why We Need an AI-Resilient Society -- Updated Report on arXiv](news/why-we-need-an-ai-resilient-society.md)
 `2026-04-10`
 
-Eine aktualisierte Version des 2019 erschienenen Reports "Why we need an AI-resilient society" ist auf arXiv veroeffentlicht worden. Der Report erstellt ein "forensisches Profil" für KI anhand von neun dokumentierten Eigenschaften und schlaegt ein Drei-Saeulen-Framework fuer KI-Resilienz vor: Kognitive Souveraenitaet, Messbare Kontrolle und Partielle Autonomie.
+Eine aktualisierte Version des 2019 erschienenen Reports „Why we need an AI-resilient society" ist [auf arXiv veröffentlicht worden](https://arxiv.org/abs/1912.08786v2). Der Report erstellt ein „forensisches Profil" für KI anhand von neun dokumentierten Eigenschaften und schlägt ein Drei-Säulen-Framework für KI-Resilienz vor: Kognitive Souveränität, Messbare Kontrolle und Partielle Autonomie.
 
 [Zum Beitrag](news/why-we-need-an-ai-resilient-society.md){.btn .btn-outline-primary}
 :::

@@ -16,23 +16,23 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](news/dali_bartz.d/dali_vimeo_bartz.jpg){.feature-card-image fig-alt="DaLI lecture: Are We Ready? The Urgent Need for an AI-Resilient Society"}
+
+### Talk "Are We Ready?" now online
+
+`2026-04-11` -- The recording of the DaLI lecture by Prof. Dr. Thomas Bartz-Beielstein is now available [on Vimeo](https://vimeo.com/1161035076).
+
+[Read more](news/dali-are-we-ready-vortrag-online.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/members/stadler.png){.feature-card-image fig-alt="Prof. Dr. Ingo Stadler"}
 
 ### Welcome Prof. Dr. Ingo Stadler
 
-`2026-04-11` -- The THK-AI Research Cluster welcomes **Prof. Dr. Ingo Stadler** (IET / CIRE) as a new member, bringing the cluster to **24 members**.
+`2026-04-11` -- The THK-AI Research Cluster welcomes Prof. Dr. Ingo Stadler (IET / CIRE) as a new member, bringing the cluster to 24 members.
 
 [Read more](news/welcome-prof-ingo-stadler.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](news/ai-resilience/three_pillars.png){.feature-card-image fig-alt="Three Pillars of AI Resilience"}
-
-### Why We Need an AI-Resilient Society
-
-`2026-04-10` -- An updated version of the report has been published on arXiv, proposing a three-pillar framework for AI resilience: Cognitive Sovereignty, Measurable Control, and Partial Autonomy.
-
-[Read more](news/why-we-need-an-ai-resilient-society.md){.btn .btn-outline-primary}
 :::
 
 :::

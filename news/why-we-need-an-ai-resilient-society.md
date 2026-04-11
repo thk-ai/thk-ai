@@ -4,7 +4,7 @@
 
 ![Three Pillars of AI Resilience](../news/ai-resilience/three_pillars.png)
 
-Eine aktualisierte und erweiterte Version des 2019 erschienenen Reports **"Why we need an AI-resilient society"** ist auf arXiv veroeffentlicht worden.
+Eine aktualisierte und erweiterte Version des 2019 erschienenen Reports „Why we need an AI-resilient society" ist [auf arXiv veröffentlicht worden](https://arxiv.org/abs/1912.08786v2).
 
 ## Hintergrund
 
@@ -34,4 +34,4 @@ Zur Bewaeltigung dieser Herausforderungen schlaegt der Report ein Drei-Saeulen-F
 2. **Messbare Kontrolle** -- Uebersetzung ethischer Verpflichtungen in durchsetzbare Standards und rote Linien
 3. **Partielle Autonomie** -- Wahrung menschlicher Handlungsfaehigkeit an kritischen Entscheidungspunkten
 
-Dieser Report ist eine aktualisierte und erweiterte Version von arXiv:1912.08786v1.
+Dieser Report ist eine aktualisierte und erweiterte Version von [arXiv:1912.08786v1](https://arxiv.org/abs/1912.08786v1). Die aktuelle Version ist verfügbar unter [arXiv:1912.08786v2](https://arxiv.org/abs/1912.08786v2).

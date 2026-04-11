@@ -16,23 +16,23 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](news/dali_bartz.d/dali_vimeo_bartz.jpg){.feature-card-image fig-alt="DaLI-Ringvorlesung: Are We Ready? The Urgent Need for an AI-Resilient Society"}
+
+### Vortrag „Are We Ready?" jetzt online
+
+`2026-04-11` -- Die Aufzeichnung des DaLI-Vortrags von Prof. Dr. Thomas Bartz-Beielstein ist nun [auf Vimeo](https://vimeo.com/1161035076) verfügbar.
+
+[Zum Beitrag](news/dali-are-we-ready-vortrag-online.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/members/stadler.png){.feature-card-image fig-alt="Prof. Dr. Ingo Stadler"}
 
 ### Willkommen Prof. Dr. Ingo Stadler
 
-`2026-04-11` -- Das THK-AI Forschungscluster begrüßt **Prof. Dr. Ingo Stadler** (IET / CIRE) als neues Mitglied und wächst damit auf **24 Mitglieder**.
+`2026-04-11` -- Das THK-AI Forschungscluster begrüßt Prof. Dr. Ingo Stadler (IET / CIRE) als neues Mitglied und wächst damit auf 24 Mitglieder.
 
 [Zum Beitrag](news/welcome-prof-ingo-stadler.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](news/ai-resilience/three_pillars.png){.feature-card-image fig-alt="Three Pillars of AI Resilience"}
-
-### Why We Need an AI-Resilient Society
-
-`2026-04-10` -- Eine aktualisierte Version des Reports ist auf arXiv erschienen und schlägt ein Drei-Säulen-Framework für KI-Resilienz vor: Kognitive Souveränität, Messbare Kontrolle und Partielle Autonomie.
-
-[Zum Beitrag](news/why-we-need-an-ai-resilient-society.md){.btn .btn-outline-primary}
 :::
 
 :::
