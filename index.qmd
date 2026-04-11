@@ -16,6 +16,16 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](news/robocup.d/_thkoeln_mp_dsc7719.jpg){.feature-card-image fig-alt="Team GM-Force Cologne beim RoboCup German Open 2026"}
+
+### RoboCup German Open 2026: Sieg für GM-Force Cologne
+
+`11. April 2026` -- Das Team von Prof. Dr. Elena Algorri gewinnt die Smart Manufacturing League; das Training der KI-Modelle lief vollständig auf dem THK-AI HPC-Cluster.
+
+[Zum Beitrag](news/robocup-german-open-2026-sieg-gm-force-cologne.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](news/dali_bartz.d/dali_vimeo_bartz.jpg){.feature-card-image fig-alt="DaLI-Ringvorlesung: Are We Ready? The Urgent Need for an AI-Resilient Society"}
 
 ### Vortrag „Are We Ready?" jetzt online
@@ -23,16 +33,6 @@ lang: de
 `11. April 2026` -- Die Aufzeichnung des DaLI-Vortrags von Prof. Dr. Thomas Bartz-Beielstein ist nun [auf Vimeo](https://vimeo.com/1161035076) verfügbar.
 
 [Zum Beitrag](news/dali-are-we-ready-vortrag-online.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/members/stadler.png){.feature-card-image fig-alt="Prof. Dr. Ingo Stadler"}
-
-### Willkommen Prof. Dr. Ingo Stadler
-
-`11. April 2026` -- Das THK-AI Forschungscluster begrüßt Prof. Dr. Ingo Stadler (IET / CIRE) als neues Mitglied und wächst damit auf 24 Mitglieder.
-
-[Zum Beitrag](news/welcome-prof-ingo-stadler.md){.btn .btn-outline-primary}
 :::
 
 :::

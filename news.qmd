@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](news/robocup.d/_thkoeln_mp_dsc7719.jpg){.news-card-image fig-alt="Team GM-Force Cologne beim RoboCup German Open 2026"}
+[RoboCup German Open 2026: Team GM-Force Cologne gewinnt die Smart Manufacturing League](news/robocup-german-open-2026-sieg-gm-force-cologne.md)
+`11. April 2026`
+
+Das Team GM-Force Cologne unter Leitung von [Prof. Dr. Maria Elena Algorri](https://www.th-koeln.de/personen/elena.algorri/) hat beim RoboCup German Open 2026 den Gesamtsieg in der Smart Manufacturing League und zusätzlich die Kategorie „Assembly" geholt. Das Training der eingesetzten KI-Modelle wurde vollständig auf dem im Rahmen von THK-KIplus beschafften HPC-Cluster des THK-AI Forschungsclusters durchgeführt.
+
+[Zum Beitrag](news/robocup-german-open-2026-sieg-gm-force-cologne.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](news/dali_bartz.d/dali_vimeo_bartz.jpg){.news-card-image fig-alt="DaLI-Ringvorlesung: Are We Ready? The Urgent Need for an AI-Resilient Society"}
 [Vortrag „Are We Ready? The Urgent Need for an AI-Resilient Society" jetzt online](news/dali-are-we-ready-vortrag-online.md)
 `11. April 2026`
