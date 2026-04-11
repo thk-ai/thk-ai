@@ -4,48 +4,73 @@ lang: de
 toc: false
 ---
 
-## Angaben gemaess &sect; 5 TMG / &sect; 18 MStV
+THK-AI ist ein Website-Projekt des Forschungsclusters THK-AI der TH Köln.
 
-Technische Hochschule Koeln\
+## Verantwortlich
+
+Prof. Dr. Thomas Bartz-Beielstein\
+Prof. Dr. Anja Richert\
+TH Köln
+
+**Postanschrift:**\
+Gustav-Heinemann-Ufer 54\
+50968 Köln
+
+**Hausanschrift Prof. Dr. Thomas Bartz-Beielstein:**\
+Campus Gummersbach\
+Steinmüllerallee 1\
+51643 Gummersbach\
+T: +49 2261-8196-6391\
+E: thomas.bartz-beielstein@th-koeln.de
+
+**Hausanschrift Prof. Dr. Anja Richert:**\
+Campus Deutz\
+Betzdorfer Straße 2\
+50679 Köln\
+T: +49 221-8275-2756\
+E: anja.richert@th-koeln.de
+
+Die TH Köln (Technische Hochschule Köln) ist eine Körperschaft des Öffentlichen Rechts. Sie wird durch die Präsidentin Prof. Dr. Sylvia Heuchemer gesetzlich vertreten.
+
+## Angaben gemäß § 5 TMG / § 18 MStV
+
+Technische Hochschule Köln\
 Claudiusstr. 1\
-50678 Koeln
+50678 Köln
 
-**Vertreten durch:**\
-Die Praesidentin Prof. Dr. Sylvia Heuchemer
-
-**Kontakt:**\
+**Kontakt der Hochschule:**\
 Telefon: +49 221-8275-0\
 Fax: +49 221-8275-3131\
 E-Mail: poststelle@th-koeln.de
 
-**Umsatzsteuer-Identifikationsnummer gemaess &sect; 27a UStG:**\
+**Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG:**\
 DE 122653679
 
-**Zustaendige Aufsichtsbehoerde:**\
-Ministerium fuer Kultur und Wissenschaft des Landes Nordrhein-Westfalen\
-Voelklinger Str. 49, 40221 Duesseldorf\
+**Zuständige Aufsichtsbehörde:**\
+Ministerium für Kultur und Wissenschaft des Landes Nordrhein-Westfalen\
+Völklinger Str. 49, 40221 Düsseldorf\
 [https://www.mkw.nrw/](https://www.mkw.nrw/)
 
-## Verantwortlich fuer den Inhalt (&sect; 18 Abs. 2 MStV)
+## Verantwortlich für den Inhalt (§ 18 Abs. 2 MStV)
 
 Prof. Dr. Thomas Bartz-Beielstein\
 Informatik und Ingenieurwissenschaften\
-Institut fuer Data Science, Engineering, and Analytics (IDE+A)
+Institut für Data Science, Engineering, and Analytics (IDE+A)
 
 Prof. Dr. Anja Richert\
 Anlagen, Energie- und Maschinensysteme\
-Institut fuer Produktentwicklung und Konstruktionstechnik (IPK)
+Institut für Produktentwicklung und Konstruktionstechnik (IPK)
 
-Technische Hochschule Koeln\
+Technische Hochschule Köln\
 Claudiusstr. 1\
-50678 Koeln
+50678 Köln
 
-## Vollstaendiges Impressum der TH Koeln
+## Vollständiges Impressum der TH Köln
 
-Das vollstaendige Impressum der Technischen Hochschule Koeln finden Sie unter:\
+Das vollständige Impressum der Technischen Hochschule Köln finden Sie unter:\
 [https://www.th-koeln.de/hochschule/impressum_8159.php](https://www.th-koeln.de/hochschule/impressum_8159.php)
 
 ## Haftungshinweis
 
-Es gelten die Haftungshinweise der Technischen Hochschule Koeln:\
+Es gelten die Haftungshinweise der Technischen Hochschule Köln:\
 [https://www.th-koeln.de/hochschule/haftungshinweis_8277.php](https://www.th-koeln.de/hochschule/haftungshinweis_8277.php)
