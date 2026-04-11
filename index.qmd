@@ -16,19 +16,19 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+### Willkommen Prof. Dr. Ingo Stadler
+
+`2026-04-11` -- Das THK-AI Forschungscluster begrüßt **Prof. Dr. Ingo Stadler** (IET / CIRE) als neues Mitglied. Das Cluster wächst damit auf **24 Mitglieder**. Seine Expertise zu erneuerbaren Energien, Energiespeichern und Smart Grids ergänzt das Cluster ideal im Bereich KI-gestützter Energiesysteme.
+
+[Zum Beitrag](news/welcome-prof-ingo-stadler.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ### Why We Need an AI-Resilient Society
 
 `2026-04-10` -- Eine aktualisierte Version des 2019 erschienenen Reports ist auf arXiv veroeffentlicht worden. Der Report schlaegt ein Drei-Saeulen-Framework fuer KI-Resilienz vor: Kognitive Souveraenitaet, Messbare Kontrolle und Partielle Autonomie.
 
 [Zum Beitrag](news/why-we-need-an-ai-resilient-society.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-### Kick-Off: FSP Risiko, Resilienz und Transformation
-
-`2026-03-12` -- Neuer interdisziplinaerer Forschungsschwerpunkt der TH Koeln: mit ueber 35 Professorinnen und Professoren aus 11 Fakultaeten buendelt der FSP Kompetenzen von Katastrophenschutz bis digitaler Infrastrukturresilienz.
-
-[Zum Beitrag](news/fsp-risiko-resilienz-transformation-kick-off-2026.md){.btn .btn-outline-primary}
 :::
 
 :::
