@@ -1,5 +1,5 @@
 ---
-title: "Vortrag „Are We Ready? The Urgent Need for an AI-Resilient Society" jetzt online"
+title: 'Vortrag „Are We Ready? The Urgent Need for an AI-Resilient Society" jetzt online'
 date: "2026-04-11"
 ---
 
