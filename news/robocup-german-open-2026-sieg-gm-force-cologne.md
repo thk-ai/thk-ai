@@ -5,7 +5,7 @@ date: "2026-04-11"
 
 # RoboCup German Open 2026: Team GM-Force Cologne gewinnt die Smart Manufacturing League
 
-![Team GM-Force Cologne beim RoboCup German Open 2026](robocup.d/_thkoeln_mp_dsc7719.jpg)
+![(v.l.) Martin Cavazos de la Garza, Matthias Härle, Sebastian Pütz, Prof. Dr. Elena Algorri, Hartmut Köhn, Ahmad Traboulssy, Yuvesh Aubeeluck, Abilash Madavath, Augustin Raju. (Bild: TH Köln, Monika Probst)](robocup.d/_thkoeln_mp_dsc7719.jpg)
 
 `11. April 2026`
 
@@ -13,17 +13,17 @@ Ein großer Erfolg für die TH Köln und den THK-AI Forschungscluster: Das Team 
 
 ## Die Aufgabenstellung
 
-![Autonome Roboter in der Arena der Smart Manufacturing League](robocup.d/_thkoeln_mp_dsc7685.jpg)
+![(Bild: TH Köln, Monika Probst)](robocup.d/_thkoeln_mp_dsc7685.jpg)
 
 Die Smart Manufacturing League bildet eine industrielle Produktionsumgebung im Kleinen ab. Autonome Roboter müssen farbige Bauteile in einer Arena lokalisieren, zu einer Montagestation transportieren, Produkte selbstständig zusammenbauen und an einen „Kunden" ausliefern. Ausgediente Produkte werden zurückgenommen, zerlegt und eingelagert. Die Disziplin verbindet damit Wahrnehmung, Planung, Manipulation und Logistik zu einem Gesamtszenario, das typische Fertigungsprobleme unter Wettbewerbsbedingungen abbildet.
 
 ## Das Team
 
-![Team GM-Force Cologne am Wettbewerbsstand](robocup.d/_thkoeln_mp_dsc7693.jpg)
+![(Bild: TH Köln, Monika Probst)](robocup.d/_thkoeln_mp_dsc7693.jpg)
 
 Für die TH Köln traten Martin Cavazos de la Garza, Sebastian Pütz, Hartmut Köhn, Augustin Raju, Yuvesh Aubeeluck, Abilash Madavath und Ahmad Traboulssy an. Betreut wurde das Team von Prof. Dr. Elena Algorri gemeinsam mit Dr. Nicolas Pyschny, Dr. Florian Zwanzig und Dr. Felix Hackelöer. Neben der Software- und KI-Entwicklung wurden die mechanische Unterstruktur der Roboter, die Mecanum-Räder und die Federungssysteme von Maschinenbau-Studierenden des Campus Gummersbach selbst konstruiert.
 
-![Montage- und Demontagestation während des Wettbewerbs](robocup.d/_thkoeln_mp_dsc7707.jpg)
+![(Bild: TH Köln, Monika Probst)](robocup.d/_thkoeln_mp_dsc7707.jpg)
 
 ## Rolle des THK-AI Rechenclusters
 
