@@ -16,17 +16,21 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/members/stadler.png){.feature-card-image fig-alt="Prof. Dr. Ingo Stadler"}
+
 ### Willkommen Prof. Dr. Ingo Stadler
 
-`2026-04-11` -- Das THK-AI Forschungscluster begrüßt **Prof. Dr. Ingo Stadler** (IET / CIRE) als neues Mitglied. Das Cluster wächst damit auf **24 Mitglieder**. Seine Expertise zu erneuerbaren Energien, Energiespeichern und Smart Grids ergänzt das Cluster ideal im Bereich KI-gestützter Energiesysteme.
+`2026-04-11` -- Das THK-AI Forschungscluster begrüßt **Prof. Dr. Ingo Stadler** (IET / CIRE) als neues Mitglied und wächst damit auf **24 Mitglieder**.
 
 [Zum Beitrag](news/welcome-prof-ingo-stadler.md){.btn .btn-outline-primary}
 :::
 
 :::{.feature-card}
+![](news/ai-resilience/three_pillars.png){.feature-card-image fig-alt="Three Pillars of AI Resilience"}
+
 ### Why We Need an AI-Resilient Society
 
-`2026-04-10` -- Eine aktualisierte Version des 2019 erschienenen Reports ist auf arXiv veroeffentlicht worden. Der Report schlaegt ein Drei-Saeulen-Framework fuer KI-Resilienz vor: Kognitive Souveraenitaet, Messbare Kontrolle und Partielle Autonomie.
+`2026-04-10` -- Eine aktualisierte Version des Reports ist auf arXiv erschienen und schlägt ein Drei-Säulen-Framework für KI-Resilienz vor: Kognitive Souveränität, Messbare Kontrolle und Partielle Autonomie.
 
 [Zum Beitrag](news/why-we-need-an-ai-resilient-society.md){.btn .btn-outline-primary}
 :::
