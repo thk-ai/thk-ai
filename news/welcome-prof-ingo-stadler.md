@@ -5,7 +5,7 @@ date: "2026-04-11"
 
 # Willkommen Prof. Dr. Ingo Stadler im THK-AI Forschungscluster
 
-Das THK-AI Forschungscluster freut sich, **Prof. Dr. Ingo Stadler** als neues Mitglied begrüßen zu dürfen. Mit seinem Beitritt wächst das Cluster auf **24 Mitglieder** aus unterschiedlichen Fakultäten der TH Köln und stärkt damit weiter seine interdisziplinäre Ausrichtung.
+Das THK-AI Forschungscluster freut sich, [Prof. Dr. Ingo Stadler](https://www.th-koeln.de/personen/ingo.stadler/) als neues Mitglied begrüßen zu dürfen. Mit seinem Beitritt wächst das Cluster auf 24 Mitglieder aus unterschiedlichen Fakultäten der TH Köln und stärkt damit weiter seine interdisziplinäre Ausrichtung.
 
 ## Kurzbiographie
 
