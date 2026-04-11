@@ -6,40 +6,49 @@ lang: en
 [Deutsche Version](index.qmd){.btn .btn-outline-primary .hero-btn}
 
 :::{.landing-hero}
-:::{.columns .v-center}
-:::{.column width="48%"}
 ![](figures/logos/THK-AI-Absenderkennung-EN.png){.hero-logo}
 
-## The central contact point for AI at TH Koln
+## The central contact point for AI at TH Köln
 
-The THK-AI Research Cluster promotes and supports collaborative projects between associations, industry partners, professors, and students.
-
-[News](news.qmd){.btn .btn-primary .hero-btn}
-[Explore Research](forschung.qmd){.btn .btn-outline-light .hero-btn}
-[Meet the Team](members.qmd){.btn .btn-outline-light .hero-btn}
 :::
 
-:::{.column width="52%"}
-![](figures/hpc/TH-KIplus_Monika%20Probst.jpg){.hero-image fig-alt="THK-AI research context"}
+## Latest News
+
+:::{.feature-grid}
+:::{.feature-card}
+![](figures/members/stadler.png){.feature-card-image fig-alt="Prof. Dr. Ingo Stadler"}
+
+### Welcome Prof. Dr. Ingo Stadler
+
+`2026-04-11` -- The THK-AI Research Cluster welcomes **Prof. Dr. Ingo Stadler** (IET / CIRE) as a new member, bringing the cluster to **24 members**.
+
+[Read more](news/welcome-prof-ingo-stadler.md){.btn .btn-outline-primary}
 :::
+
+:::{.feature-card}
+![](news/ai-resilience/three_pillars.png){.feature-card-image fig-alt="Three Pillars of AI Resilience"}
+
+### Why We Need an AI-Resilient Society
+
+`2026-04-10` -- An updated version of the report has been published on arXiv, proposing a three-pillar framework for AI resilience: Cognitive Sovereignty, Measurable Control, and Partial Autonomy.
+
+[Read more](news/why-we-need-an-ai-resilient-society.md){.btn .btn-outline-primary}
 :::
+
 :::
+
+[All news in the THK-AI Newsroom](news.qmd){.btn .btn-outline-primary}
 
 ## Members
 
-:::{.columns .v-center}
-:::{.column width="60%"}
+![Founding members](figures/members/founding_members_low.png){.team-mosaic fig-alt="Founding members of the THK-AI Cluster"}
+
+
 ::: {.callout-note appearance="simple"}
 ### Collaboration
-With more than 20 professors from all TH Koln faculties, the THK-AI Research Cluster is one of the largest AI research collaborations at a German university of applied sciences.
-:::
+With more than 20 professors from TH Köln, the THK-AI Research Cluster is one of the largest AI research collaborations at a German university of applied sciences.
 :::
 
-:::{.column width="40%"}
-
-![Founding members](figures/members/founding_members_low.png){.team-mosaic fig-alt="Founding members of the THK-AI Cluster"}
-:::
-:::
 
 
 ## Why THK-AI?
@@ -48,73 +57,60 @@ With more than 20 professors from all TH Koln faculties, the THK-AI Research Clu
 :::{.feature-card}
 ### Applied AI at scale
 
-THK-AI combines modern compute infrastructure and interdisciplinary expertise to accelerate applied AI from prototype to deployment.
+THK-AI combines powerful compute infrastructure with interdisciplinary expertise to bring AI from idea to deployable prototype.
 :::
 
 :::{.feature-card}
 ### Open for collaboration
 
-The cluster supports cooperative projects between associations, companies, professors, and students across disciplines.
+The cluster supports joint projects between associations, companies, professors, and students from different disciplines.
 :::
 
-:::{.feature-card}
-### Strong infrastructure
-
-A distributed high-performance setup in Gummersbach and Leverkusen enables resilient research workflows and 24/7 web access.
-:::
 :::
 
 ## THK-AI Example Project
 
-::: {.callout-note appearance="simple"}
-The project **THK-KIplus** (TH Koln - Kunstliche Intelligenz plus) was funded from June 2023 to November 2025 in the federal program **KI-Nachwuchs@FH** by the Federal Ministry for Research, Technology and Space.
+![](figures/hpc/TH-KIplus_Monika%20Probst.jpg){.hero-image fig-alt="THK-AI research context"}
 
-The initiative received funding of **around EUR 1.3 million** and established one of the strongest AI-oriented research infrastructures at German universities of applied sciences.
+::: {.callout-note appearance="simple"}
+The THK-KIplus project (TH Köln – Künstliche Intelligenz plus) was funded from June 2023 to November 2025 under the KI-Nachwuchs@FH programme by the German Federal Ministry for Research, Technology and Space. The initiative received *around EUR 1.3 million* in funding and has built one of the most powerful AI-oriented research infrastructures at German universities of applied sciences.
 :::
 
 ## Focus areas
 
-:::{.columns}
-:::{.column width="33%"}
-### Mobility
+:::{.feature-grid}
+:::{.feature-card}
+### Critical infrastructure
 
 Robust AI methods for autonomous and safety-critical systems.
 :::
 
-:::{.column width="33%"}
-### Sustainability
+:::{.feature-card}
+### Socially interactive AI agents
 
-Data-driven environmental monitoring and ecological decision support.
+Socio-empathic AI-based dialogue and hybrid avatars for social innovation.
 :::
 
-:::{.column width="33%"}
-### Society and transfer
-
-Responsible AI for education, social contexts, and industry collaboration.
-:::
 :::
 
 ## CAIRNE Gold Member
 
-:::{.columns .v-center}
-:::{.column width="36%"}
-![](figures/logos/Outlook-2d2n4pxp.png){fig-alt="CAIRNE logo" width="100%"}
-:::
-:::{.column width="64%"}
+![](figures/logos/Outlook-2d2n4pxp.png){fig-alt="CAIRNE logo" width="80%"}
+
 ::: {.callout-tip appearance="simple"}
-THK-AI is a **Gold Member** of the **CAIRNE Research Network** (Confederation of Laboratories for Artificial Intelligence Research in Europe).
+The THK-AI Research Cluster is a **Gold Member** of the **CAIRNE Research Network** (Confederation of Laboratories for Artificial Intelligence Research in Europe).
+
+CAIRNE is a European non-profit AI community with a human-centred focus. The network connects research institutions, industry, and policy stakeholders to strengthen European AI excellence, collaboration, and digital sovereignty.
 :::
 
-CAIRNE is a European non-profit AI community with a human-centred focus. It connects research institutions, industry, and policy stakeholders to strengthen AI excellence, collaboration, and digital sovereignty across Europe.
+
 
 [Learn more about CAIRNE](https://cairne.eu){.btn .btn-outline-primary}
 [Read more about THK-AI](about.qmd){.btn .btn-outline-light}
-:::
-:::
 
 ## Join and connect
 
-If you are looking for collaboration, student projects, or applied AI research partnerships, THK-AI is your central contact point at TH Koln.
+If you are looking for collaboration, student projects, or partnerships in applied AI, THK-AI is your central contact point at TH Köln.
 
 [Contact and About](about.qmd){.btn .btn-success}
-[Teaching Activities](lehre.qmd){.btn .btn-outline-primary}
+[Teaching and offerings](lehre.qmd){.btn .btn-outline-primary}
