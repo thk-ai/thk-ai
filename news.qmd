@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](news/bart26g-spotoptim/fig-surrogate-output-1.png){.news-card-image fig-alt="Surrogatmodell-Visualisierung aus dem SpotOptim-Paper"}
+[Paper „Optimization with SpotOptim" auf arXiv erschienen](news/bart26g-spotoptim/bart26g-spotoptim.md)
+`16. April 2026`
+
+Prof. Dr. Thomas Bartz-Beielstein stellt das Python-Paket `spotoptim` für surrogat-modellbasierte Optimierung teurer Black-Box-Funktionen vor. Der Report beschreibt Architektur, Anwendungsbeispiele und einen Vergleich mit BoTorch, Optuna, Ray Tune, BOHB, SMAC und Hyperopt. Das Paket baut auf zwei Jahrzehnten Sequential Parameter Optimization (SPO) auf und ist Open Source.
+
+[Zum Beitrag](news/bart26g-spotoptim/bart26g-spotoptim.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](news/robocup.d/_thkoeln_mp_dsc7719.jpg){.news-card-image fig-alt="Team GM-Force Cologne beim RoboCup German Open 2026"}
 [RoboCup German Open 2026: Team GM-Force Cologne gewinnt die Smart Manufacturing League](news/robocup-german-open-2026-sieg-gm-force-cologne.md)
 `11. April 2026`
