@@ -16,23 +16,23 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
-![](news/robocup.d/_thkoeln_mp_dsc7719.jpg){.feature-card-image fig-alt="Team GM-Force Cologne beim RoboCup German Open 2026"}
+![](news/aale-jelali/1775824265444.jpeg){.feature-card-image fig-alt="Marc Schneider bei der Präsentation auf der AALE-Konferenz"}
 
-### RoboCup German Open 2026: Sieg für GM-Force Cologne
+### AALE Student Award 2026: Marc Schneider ausgezeichnet
 
-`11. April 2026` -- Das Team von Prof. Dr. Elena Algorri gewinnt die Smart Manufacturing League; das Training der KI-Modelle lief vollständig auf dem THK-AI HPC-Cluster.
+`16. April 2026` -- TH Köln-Absolvent Marc Schneider wurde auf der AALE-Konferenz in Rosenheim als einer von drei Nominierten für den AALE Student Award ausgezeichnet. Seine Masterarbeit am CAISA-Labor integrierte Vision Transformer in YOLOv8 zur Erkennung von Pflanzenkrankheiten.
 
-[Zum Beitrag](news/robocup-german-open-2026-sieg-gm-force-cologne.md){.btn .btn-outline-primary}
+[Zum Beitrag](news/aale-jelali/aale-award-marc-schneider.md){.btn .btn-outline-primary}
 :::
 
 :::{.feature-card}
-![](news/dali_bartz.d/dali_vimeo_bartz.jpg){.feature-card-image fig-alt="DaLI-Ringvorlesung: Are We Ready? The Urgent Need for an AI-Resilient Society"}
+![](news/bart26g-spotoptim/fig-surrogate-output-1.png){.feature-card-image fig-alt="Surrogatmodell-Visualisierung aus dem SpotOptim-Paper"}
 
-### Vortrag „Are We Ready?" jetzt online
+### Paper „Optimization with SpotOptim" auf arXiv
 
-`11. April 2026` -- Die Aufzeichnung des DaLI-Vortrags von Prof. Dr. Thomas Bartz-Beielstein ist nun [auf Vimeo](https://vimeo.com/1161035076) verfügbar.
+`16. April 2026` -- Prof. Dr. Thomas Bartz-Beielstein stellt das Python-Paket `spotoptim` für surrogat-modellbasierte Optimierung teurer Black-Box-Funktionen vor, aufbauend auf zwei Jahrzehnten Sequential Parameter Optimization.
 
-[Zum Beitrag](news/dali-are-we-ready-vortrag-online.md){.btn .btn-outline-primary}
+[Zum Beitrag](news/bart26g-spotoptim/bart26g-spotoptim.md){.btn .btn-outline-primary}
 :::
 
 :::
