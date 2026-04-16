@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](news/aale-jelali/1775824265444.jpeg){.news-card-image fig-alt="Marc Schneider bei der Präsentation auf der AALE-Konferenz"}
+[AALE Student Award 2026: Marc Schneider für herausragende Masterarbeit ausgezeichnet](news/aale-jelali/aale-award-marc-schneider.md)
+`16. April 2026`
+
+TH Köln-Absolvent Marc Schneider wurde auf der AALE-Konferenz 2026 in Rosenheim als einer von drei Nominierten für den AALE Student Award ausgezeichnet. In seiner Masterarbeit am CAISA-Labor von Prof. Dr. Dr. Mohieddine Jelali integrierte er Vision Transformer in YOLOv8 zur Erkennung von Pflanzenkrankheiten.
+
+[Zum Beitrag](news/aale-jelali/aale-award-marc-schneider.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](news/bart26g-spotoptim/fig-surrogate-output-1.png){.news-card-image fig-alt="Surrogatmodell-Visualisierung aus dem SpotOptim-Paper"}
 [Paper „Optimization with SpotOptim" auf arXiv erschienen](news/bart26g-spotoptim/bart26g-spotoptim.md)
 `16. April 2026`
