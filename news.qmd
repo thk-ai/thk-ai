@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](news/akiev26a/tca_88_interpolation_and_beta.png){.news-card-image fig-alt="Interpolation von Speedlines in Compressor Performance Maps"}
+[Paper „Physics-based Approximation and Prediction of Speedlines in Compressor Performance Maps" auf arXiv erschienen](news/akiev26a/akiev26a-speedlines.md)
+`16. April 2026`
+
+Eine aktualisierte Version (v2) des THK-AI Research Report 1/2026 untersucht eine physikbasierte Methode zur Rekonstruktion von Compressor Performance Maps aus wenigen Messpunkten. Der Ansatz modelliert Speedlines als Superellipsen und wird an industriellen Turbolader-Datensätzen validiert.
+
+[Zum Beitrag](news/akiev26a/akiev26a-speedlines.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](news/aale-jelali/1775824265444.jpeg){.news-card-image fig-alt="Marc Schneider bei der Präsentation auf der AALE-Konferenz"}
 [AALE Student Award 2026: Marc Schneider für herausragende Masterarbeit ausgezeichnet](news/aale-jelali/aale-award-marc-schneider.md)
 `16. April 2026`
