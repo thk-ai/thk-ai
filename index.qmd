@@ -16,6 +16,16 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](news/akiev26a/tca_88_interpolation_and_beta.png){.feature-card-image fig-alt="Interpolation von Speedlines in Compressor Performance Maps"}
+
+### Speedlines in Compressor Performance Maps — Report auf arXiv
+
+`16. April 2026` -- Aktualisierte Version (v2) des THK-AI Research Report 1/2026: physikbasierte Rekonstruktion von Compressor Performance Maps aus wenigen Messpunkten mittels Superellipsen-Fitting.
+
+[Zum Beitrag](news/akiev26a/akiev26a-speedlines.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](news/aale-jelali/1775824265444.jpeg){.feature-card-image fig-alt="Marc Schneider bei der Präsentation auf der AALE-Konferenz"}
 
 ### AALE Student Award 2026: Marc Schneider ausgezeichnet
@@ -23,16 +33,6 @@ lang: de
 `16. April 2026` -- TH Köln-Absolvent Marc Schneider wurde auf der AALE-Konferenz in Rosenheim als einer von drei Nominierten für den AALE Student Award ausgezeichnet. Seine Masterarbeit am CAISA-Labor integrierte Vision Transformer in YOLOv8 zur Erkennung von Pflanzenkrankheiten.
 
 [Zum Beitrag](news/aale-jelali/aale-award-marc-schneider.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](news/bart26g-spotoptim/fig-surrogate-output-1.png){.feature-card-image fig-alt="Surrogatmodell-Visualisierung aus dem SpotOptim-Paper"}
-
-### Paper „Optimization with SpotOptim" auf arXiv
-
-`16. April 2026` -- Prof. Dr. Thomas Bartz-Beielstein stellt das Python-Paket `spotoptim` für surrogat-modellbasierte Optimierung teurer Black-Box-Funktionen vor, aufbauend auf zwei Jahrzehnten Sequential Parameter Optimization.
-
-[Zum Beitrag](news/bart26g-spotoptim/bart26g-spotoptim.md){.btn .btn-outline-primary}
 :::
 
 :::
