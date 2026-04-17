@@ -10,11 +10,21 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/vekil/fix_cumulative_hana.png){.news-card-image fig-alt="Kumulative Fix-Kurve aus der SAP-HANA-Studie"}
+[Paper „LLMs taking shortcuts in test generation: A study with SAP HANA and LevelDB" auf arXiv erschienen](news/vekil/veki26a-shortcuts.md)
+`17. April 2026`
+
+THK-AI Research Report 2/2026 von Vekil Bekmyradov, Noah C. Pütz und Prof. Dr. Thomas Bartz-Beielstein ist als Paper auf [arXiv:2604.14437](https://arxiv.org/abs/2604.14437) veröffentlicht. Untersucht wird, ob große Sprachmodelle bei der automatisierten Testgenerierung echte Generalisierung zeigen oder nur auf Memorisierung beruhende Abkürzungen nehmen — kontrastiert an LevelDB und dem in Trainingsdaten nicht enthaltenen SAP HANA.
+
+[Zum Beitrag](news/vekil/veki26a-shortcuts.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/shape-future/shapefuture-youtube-teaser.jpg){.news-card-image fig-alt="Banner des ShapeFuture YouTube-Kanals"}
 [ShapeFuture YouTube-Kanal jetzt online](news/shape-future_youtube/shapefuture-youtube-channel.md)
 `17. April 2026`
 
-Das EU-Projekt ShapeFuture hat seinen offiziellen [YouTube-Kanal](https://www.youtube.com/@ShapeFutureProject) gestartet. Verantwortlich für die Arbeiten an der TH Köln ist Prof. Dr. Thomas Bartz-Beielstein gemeinsam mit den Doktoranden Noah C. Pütz und Jens Uwe Brandt. Wir bitten die Community, den Kanal zu abonnieren und Beiträge zu teilen.
+Das EU-Projekt ShapeFuture hat seinen offiziellen [YouTube-Kanal](https://www.youtube.com/@ShapeFutureProject) gestartet. Verantwortlich für die Arbeiten an der TH Köln ist Prof. Dr. Thomas Bartz-Beielstein gemeinsam mit den Doktoranden Noah C. Pütz und Jens Uwe Brandt.
 
 [Zum Beitrag](news/shape-future_youtube/shapefuture-youtube-channel.md){.btn .btn-outline-primary}
 :::

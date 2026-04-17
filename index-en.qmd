@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/vekil/fix_cumulative_hana.png){.feature-card-image fig-alt="Cumulative fix curve from the SAP HANA study"}
+
+### LLMs taking shortcuts in test generation — Report on arXiv
+
+`2026-04-17` -- THK-AI Research Report 2/2026 by Vekil Bekmyradov, Noah C. Pütz, and Prof. Dr. Thomas Bartz-Beielstein on [arXiv:2604.14437](https://arxiv.org/abs/2604.14437): an empirical study of memorisation and generalisation in large language models for automated test generation, contrasting LevelDB with SAP HANA.
+
+[Read more](news/vekil/veki26a-shortcuts-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/shape-future/shapefuture-youtube-teaser.jpg){.feature-card-image fig-alt="Banner of the ShapeFuture YouTube channel"}
 
 ### ShapeFuture YouTube channel now online
@@ -23,16 +33,6 @@ lang: en
 `2026-04-17` -- The EU-funded ShapeFuture project has launched its official [YouTube channel](https://www.youtube.com/@ShapeFutureProject). Responsible for the work at TH Köln is Prof. Dr. Thomas Bartz-Beielstein together with PhD students Noah C. Pütz and Jens Uwe Brandt.
 
 [Read more](news/shape-future_youtube/shapefuture-youtube-channel-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](news/robocup.d/_thkoeln_mp_dsc7719.jpg){.feature-card-image fig-alt="Team GM-Force Cologne at RoboCup German Open 2026"}
-
-### RoboCup German Open 2026: Win for GM-Force Cologne
-
-`2026-04-11` -- The team led by Prof. Dr. Elena Algorri wins the Smart Manufacturing League; the AI models were trained entirely on the THK-AI HPC cluster.
-
-[Read more](news/robocup-german-open-2026-sieg-gm-force-cologne.md){.btn .btn-outline-primary}
 :::
 
 :::
