@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/shape-future/shapefuture-youtube-teaser.jpg){.news-card-image fig-alt="Banner des ShapeFuture YouTube-Kanals"}
+[ShapeFuture YouTube-Kanal jetzt online](news/shape-future_youtube/shapefuture-youtube-channel.md)
+`17. April 2026`
+
+Das EU-Projekt ShapeFuture hat seinen offiziellen [YouTube-Kanal](https://www.youtube.com/@ShapeFutureProject) gestartet. Verantwortlich für die Arbeiten an der TH Köln ist Prof. Dr. Thomas Bartz-Beielstein gemeinsam mit den Doktoranden Noah C. Pütz und Jens Uwe Brandt. Wir bitten die Community, den Kanal zu abonnieren und Beiträge zu teilen.
+
+[Zum Beitrag](news/shape-future_youtube/shapefuture-youtube-channel.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](news/akiev26a/tca_88_interpolation_and_beta.png){.news-card-image fig-alt="Interpolation von Speedlines in Compressor Performance Maps"}
 [Paper „Physics-based Approximation and Prediction of Speedlines in Compressor Performance Maps" auf arXiv erschienen](news/akiev26a/akiev26a-speedlines.md)
 `16. April 2026`
