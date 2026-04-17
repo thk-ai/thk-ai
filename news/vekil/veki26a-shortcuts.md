@@ -13,7 +13,7 @@ Der THK-AI Research Report 2/2026 ist als Paper auf arXiv veröffentlicht: [arXi
 
 ## Hintergrund
 
-Vekil Bekmyradov war Masterstudent am THK-AI Forschungscluster der TH Köln. Betreut wurde seine Arbeit von Prof. Dr. Thomas Bartz-Beielstein und Noah C. Pütz. Aus dieser Betreuung ist das vorliegende Paper entstanden.
+Vekil Bekmyradov war Masterstudent am THK-AI Forschungscluster der TH Köln. Betreut wurde seine Arbeit von Prof. Dr. Thomas Bartz-Beielstein und Noah C. Pütz. Aus dieser Betreuung ist in Zusammenarbeit mit SAP das vorliegende Paper entstanden.
 
 ## Fragestellung
 

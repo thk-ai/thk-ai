@@ -14,7 +14,7 @@ THK-AI Research Report 2/2026 has been published on arXiv: [arXiv:2604.14437](ht
 
 ## Background
 
-Vekil Bekmyradov was a Master student at the THK-AI Research Cluster at TH Köln. His thesis was supervised by Prof. Dr. Thomas Bartz-Beielstein and Noah C. Pütz. The paper grew out of this supervision.
+Vekil Bekmyradov was a Master student at the THK-AI Research Cluster at TH Köln. His thesis was supervised by Prof. Dr. Thomas Bartz-Beielstein and Noah C. Pütz. The paper is a result of this supervision, which was done in cooperation with SAP.
 
 ## Research question
 
