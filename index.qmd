@@ -16,6 +16,16 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/ksta/th_koeln_campus_gummersbach.png){.feature-card-image fig-alt="Campus Gummersbach der TH Köln"}
+
+### Kölnische Rundschau: Neue Artikelserie zu KI in Oberberg
+
+`18. April 2026` -- Torsten Sülzer startet in der Kölnischen Rundschau eine Serie zur Frage, wie gut das Oberbergische mit seinen innovationsfreudigen Unternehmen und „Hidden Champions" sowie der forschungsstarken TH Köln in Ingenieurswissenschaften und Informatik für die nächste industrielle Revolution aufgestellt ist.
+
+[Zum Beitrag](news/ksta/oberberg-ki-serie.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/vekil/fix_cumulative_hana.png){.feature-card-image fig-alt="Kumulative Fix-Kurve aus der SAP-HANA-Studie"}
 
 ### LLMs taking shortcuts in test generation — Report auf arXiv
@@ -23,16 +33,6 @@ lang: de
 `17. April 2026` -- THK-AI Research Report 2/2026 von Vekil Bekmyradov, Noah C. Pütz und Prof. Dr. Thomas Bartz-Beielstein auf [arXiv:2604.14437](https://arxiv.org/abs/2604.14437): empirische Studie zu Memorisierung und Generalisierung großer Sprachmodelle bei der automatisierten Testgenerierung, kontrastiert an LevelDB und SAP HANA.
 
 [Zum Beitrag](news/vekil/veki26a-shortcuts.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/shape-future/shapefuture-youtube-teaser.jpg){.feature-card-image fig-alt="Banner des ShapeFuture YouTube-Kanals"}
-
-### ShapeFuture YouTube-Kanal jetzt online
-
-`17. April 2026` -- Das EU-Projekt ShapeFuture hat seinen offiziellen [YouTube-Kanal](https://www.youtube.com/@ShapeFutureProject) gestartet.
-
-[Zum Beitrag](news/shape-future_youtube/shapefuture-youtube-channel.md){.btn .btn-outline-primary}
 :::
 
 :::
