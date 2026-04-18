@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/ksta/th_koeln_campus_gummersbach.png){.news-card-image fig-alt="Campus Gummersbach der TH Köln"}
+[Kölnische Rundschau: Neue Artikelserie zu KI in Oberberg](news/ksta/oberberg-ki-serie.md)
+`18. April 2026`
+
+Torsten Sülzer startet in der Kölnischen Rundschau eine Serie zur Frage, wie gut das Oberbergische mit seinen innovationsfreudigen Unternehmen und „Hidden Champions" sowie der forschungsstarken TH Köln in Ingenieurswissenschaften und Informatik für die nächste industrielle Revolution aufgestellt ist.
+
+[Zum Beitrag](news/ksta/oberberg-ki-serie.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/vekil/fix_cumulative_hana.png){.news-card-image fig-alt="Kumulative Fix-Kurve aus der SAP-HANA-Studie"}
 [Paper „LLMs taking shortcuts in test generation: A study with SAP HANA and LevelDB" auf arXiv erschienen](news/vekil/veki26a-shortcuts.md)
 `17. April 2026`
