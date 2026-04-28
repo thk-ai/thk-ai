@@ -26,13 +26,13 @@ lang: en
 :::
 
 :::{.feature-card}
-![](figures/news/hatz26a/monet_graph.png){.feature-card-image fig-alt="Schematic of the MONET task network"}
+![](news/puet26a/puet26a_fig1.png){.feature-card-image fig-alt="AgeDB training distribution with extrapolation and interpolation regimes and overlaid model error"}
 
-### Paper "Multi-Task Optimization over Networks of Tasks" published on arXiv
+### Paper "Deconstructing Deep Imbalance Regression" published in Artificial Intelligence Review
 
-`2026-04-28` -- Julian Hatzky (Vrije Universiteit Amsterdam), [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/), A. E. Eiben, and Anil Yaman introduce MONET: a multi-task optimization algorithm that models the task space as a graph and matches or exceeds established MAP-Elites variants on four benchmark domains. Published on [arXiv:2604.21991](https://arxiv.org/abs/2604.21991).
+`2026-04-28` -- Noah C. Puetz, Jens U. Brandt, Marc Hilbert, Elena Raponi, Thomas Bäck, and [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) deliver the first comprehensive review of Deep Imbalanced Regression in *Artificial Intelligence Review*. A two-axis taxonomy organises 19 methods, twelve are re-evaluated under identical conditions, and three new evaluation protocols expose previously hidden failure regimes. DOI: [10.1007/s10462-026-11570-1](https://doi.org/10.1007/s10462-026-11570-1).
 
-[Read more](news/hatz26a/hatz26a-monet-en.md){.btn .btn-outline-primary}
+[Read more](news/puet26a/puet26a-deep-imbalance-regression-en.md){.btn .btn-outline-primary}
 :::
 
 :::
