@@ -1,0 +1,4 @@
+Heute startet eine neue Artikelserie von Torsten Sülzer (Kölnische Rundschau). Es geht um die Frage, inwiefern das Hashtag#Oberbergische mit seinen vielen innovationsfreudigen Hashtag#Unternehmen und „Hidden Champions“ und mit der forschungsstarken TH Köln mit Hashtag#Ingenieurswissenschaften und Hashtag#Informatik für die nächste industrielle Revolution aufgestellt ist.
+https://www.rundschau-online.de/region/oberberg/wiehl/neue-serie-wie-ki-oberbergs-unternehmen-befluegelt-1260645
+
+Hier der LinkedIn Post: https://www.linkedin.com/posts/torsten-s%C3%BClzer-b4488a237_neue-serie-wie-ki-oberbergs-unternehmen-activity-7448314561847472128-4MDb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAjWwoEB7RJt2LiJ82OwRpBq042G-I4PbVo
