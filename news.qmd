@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/bart26c/pareto-front.png){.news-card-image fig-alt="Pareto-Front zweier Zielgrößen aus der Verdichter-Fallstudie"}
+[Beitrag „Multi-Objective Optimization with Desirability and Morris-Mitchell Criterion" für MCDM 2026 angenommen](news/mcdm/bart26c-mcdm.md)
+`28. April 2026`
+
+Das Programmkomitee der MCDM 2026 hat den Beitrag *Multi-Objective Optimization with Desirability and Morris-Mitchell Criterion* von [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) (TH Köln), Eva Bartz, Alexander Hinterleitner (Bartz & Bartz GmbH) sowie Christoph Leitenmeier und Ihab Abd El Hussein (Everllence SE) zur Präsentation angenommen. Die Arbeit verbindet Desirability-Funktionen mit dem Morris-Mitchell-Kriterium und wird an einer industriellen Fallstudie aus der Verdichterentwicklung demonstriert.
+
+[Zum Beitrag](news/mcdm/bart26c-mcdm.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/members/gwiggner.png){.news-card-image fig-alt="Prof. Dr. Claus Peter Gwiggner"}
 [Willkommen Prof. Dr. Claus Peter Gwiggner im THK-AI Forschungscluster](news/welcome_gwiggner/welcome-prof-claus-gwiggner.md)
 `28. April 2026`
