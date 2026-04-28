@@ -12,7 +12,7 @@ The THK-AI Research Cluster is delighted to welcome [Prof. Dr. Claus Peter Gwigg
 
 Prof. Dr. Claus Peter Gwiggner teaches and conducts research at the Faculty of Computer Science and Engineering Sciences of TH Köln. He is affiliated with the *Institute for Data Science, Engineering, and Analytics (IDE+A)* on Campus Gummersbach.
 
-His research focuses on supply chain analytics and stochastic optimisation. In teaching he covers discrete optimisation, causal statistical inference, decision-making under uncertainty, and *Decision Intelligence / Operations Research*. He is a member of the German Operations Research Society (GOR) and a recipient of fellowships from DAAD, EGIDE, and the Franco-German University. In 2024, one of his projects received the Wirtschaftswoche *Best of Consulting* award in the *Purchase & Supply Chain Management* category.
+His research focuses on supply chain analytics and stochastic optimisation. In teaching he covers discrete optimisation, causal statistical inference, decision-making under uncertainty, and *Decision Intelligence / Operations Research*. He is a member of the German Operations Research Society (GOR) and a recipient of fellowships from DAAD, EGIDE, and the Franco-German University Centre. In 2024, one of his projects received the Wirtschaftswoche *Best of Consulting* award in the *Purchase & Supply Chain Management* category.
 
 ## Connection to AI research
 

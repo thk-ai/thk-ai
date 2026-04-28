@@ -11,7 +11,7 @@ Das THK-AI Forschungscluster freut sich, [Prof. Dr. Claus Peter Gwiggner](https:
 
 Prof. Dr. Claus Peter Gwiggner lehrt und forscht an der Fakultät für Informatik und Ingenieurwissenschaften der TH Köln und ist dem *Institut für Data Science, Engineering, and Analytics (IDE+A)* am Campus Gummersbach zugeordnet.
 
-Seine Forschungsschwerpunkte liegen in der Supply-Chain-Analytik und der stochastischen Optimierung. In der Lehre vertritt er die Bereiche diskrete Optimierung, kausale statistische Inferenz, Entscheiden unter Unsicherheit sowie *Decision Intelligence / Operations Research*. Er ist Mitglied der Gesellschaft für Operations Research (GOR) und Träger von Stipendien des DAAD, EGIDE und der Deutsch-Französischen Hochschule. Im Jahr 2024 wurde eine seiner Arbeiten mit dem Wirtschaftswoche *Best of Consulting*-Preis in der Kategorie *Purchase & Supply Chain Management* ausgezeichnet.
+Seine Forschungsschwerpunkte liegen in der Supply-Chain-Analytik und der stochastischen Optimierung. In der Lehre vertritt er die Bereiche diskrete Optimierung, kausale statistische Inferenz, Entscheiden unter Unsicherheit sowie *Decision Intelligence / Operations Research*. Er ist Mitglied der Gesellschaft für Operations Research (GOR) und Träger von Stipendien des DAAD, EGIDE und des Deutsch-Französischen Hochschulzentrums. Im Jahr 2024 wurde eine seiner Arbeiten mit dem Wirtschaftswoche *Best of Consulting*-Preis in der Kategorie *Purchase & Supply Chain Management* ausgezeichnet.
 
 ## Verbindung zur KI-Forschung
 
