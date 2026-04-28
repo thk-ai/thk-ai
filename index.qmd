@@ -16,6 +16,16 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/bart26c/pareto-front.png){.feature-card-image fig-alt="Pareto-Front zweier Zielgrößen aus der Verdichter-Fallstudie"}
+
+### Beitrag „Multi-Objective Optimization with Desirability and Morris-Mitchell Criterion" für MCDM 2026 angenommen
+
+`28. April 2026` -- Das Programmkomitee der MCDM 2026 hat den Beitrag von [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) (TH Köln), Eva Bartz, Alexander Hinterleitner (Bartz & Bartz GmbH) sowie Christoph Leitenmeier und Ihab Abd El Hussein (Everllence SE) zur Präsentation angenommen. Die Arbeit verbindet Desirability-Funktionen mit dem Morris-Mitchell-Kriterium und wird an einer Fallstudie aus der Verdichterentwicklung demonstriert.
+
+[Zum Beitrag](news/mcdm/bart26c-mcdm.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/members/gwiggner.png){.feature-card-image fig-alt="Prof. Dr. Claus Peter Gwiggner"}
 
 ### Willkommen Prof. Dr. Claus Peter Gwiggner im THK-AI Forschungscluster
@@ -23,16 +33,6 @@ lang: de
 `28. April 2026` -- Das THK-AI Forschungscluster begrüßt [Prof. Dr. Claus Peter Gwiggner](https://www.th-koeln.de/personen/claus.gwiggner/) (Institut für Data Science, Engineering, and Analytics) als neues Mitglied. Mit seinem Beitritt wächst das Cluster auf 26 Mitglieder; seine Schwerpunkte liegen in Supply-Chain-Analytik, stochastischer Optimierung und Decision Intelligence.
 
 [Zum Beitrag](news/welcome_gwiggner/welcome-prof-claus-gwiggner.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](news/puet26a/puet26a_fig1.png){.feature-card-image fig-alt="AgeDB-Verteilung mit Extrapolations- und Interpolationsregimen sowie Modellfehler"}
-
-### Paper „Deconstructing Deep Imbalanced Regression" in Artificial Intelligence Review erschienen
-
-`28. April 2026` -- Noah C. Puetz, Jens U. Brandt, Marc Hilbert, Elena Raponi, Thomas Bäck und [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) liefern in *Artificial Intelligence Review* die erste umfassende Übersicht zu Deep Imbalanced Regression. Eine zweiachsige Taxonomie ordnet 19 Verfahren ein, zwölf werden unter identischen Bedingungen reevaluiert, und drei neue Protokolle decken bislang verborgene Fehlerregime auf. DOI: [10.1007/s10462-026-11570-1](https://doi.org/10.1007/s10462-026-11570-1).
-
-[Zum Beitrag](news/puet26a/puet26a-deep-imbalance-regression.md){.btn .btn-outline-primary}
 :::
 
 :::

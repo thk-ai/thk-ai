@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/bart26c/pareto-front.png){.feature-card-image fig-alt="Pareto front of two objectives from the compressor case study"}
+
+### Contribution "Multi-Objective Optimization with Desirability and Morris-Mitchell Criterion" accepted at MCDM 2026
+
+`2026-04-28` -- The Programme Committee of MCDM 2026 has accepted the contribution by [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) (TH Köln), Eva Bartz, Alexander Hinterleitner (Bartz & Bartz GmbH), and Christoph Leitenmeier and Ihab Abd El Hussein (Everllence SE) for presentation. The work combines desirability functions with the Morris-Mitchell criterion and is demonstrated on a compressor-development case study.
+
+[Read more](news/mcdm/bart26c-mcdm-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/members/gwiggner.png){.feature-card-image fig-alt="Prof. Dr. Claus Peter Gwiggner"}
 
 ### Welcome Prof. Dr. Claus Peter Gwiggner to the THK-AI Research Cluster
@@ -23,16 +33,6 @@ lang: en
 `2026-04-28` -- The THK-AI Research Cluster welcomes [Prof. Dr. Claus Peter Gwiggner](https://www.th-koeln.de/personen/claus.gwiggner/) (Institute for Data Science, Engineering, and Analytics) as its newest member. The cluster now counts 26 members; his focus is on supply chain analytics, stochastic optimisation, and decision intelligence.
 
 [Read more](news/welcome_gwiggner/welcome-prof-claus-gwiggner-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](news/puet26a/puet26a_fig1.png){.feature-card-image fig-alt="AgeDB training distribution with extrapolation and interpolation regimes and overlaid model error"}
-
-### Paper "Deconstructing Deep Imbalance Regression" published in Artificial Intelligence Review
-
-`2026-04-28` -- Noah C. Puetz, Jens U. Brandt, Marc Hilbert, Elena Raponi, Thomas Bäck, and [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) deliver the first comprehensive review of Deep Imbalanced Regression in *Artificial Intelligence Review*. A two-axis taxonomy organises 19 methods, twelve are re-evaluated under identical conditions, and three new evaluation protocols expose previously hidden failure regimes. DOI: [10.1007/s10462-026-11570-1](https://doi.org/10.1007/s10462-026-11570-1).
-
-[Read more](news/puet26a/puet26a-deep-imbalance-regression-en.md){.btn .btn-outline-primary}
 :::
 
 :::
