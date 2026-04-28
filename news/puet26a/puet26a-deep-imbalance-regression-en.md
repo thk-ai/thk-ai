@@ -4,7 +4,7 @@ date: "2026-04-28"
 lang: en
 ---
 
-# Paper "Deconstructing Deep Imbalance Regression" published in Artificial Intelligence Review
+# Paper "Deconstructing Deep Imbalanced Regression" published in Artificial Intelligence Review
 
 ![AgeDB age estimation as an example of deep imbalanced regression: the training distribution concentrates on middle ages, while model error grows sharply in the underrepresented extrapolation regimes at the edges and in the interpolation regime in the centre.](puet26a_fig1.png){fig-alt="AgeDB training distribution with extrapolation and interpolation regimes and overlaid model error"}
 

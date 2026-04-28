@@ -1,9 +1,9 @@
 ---
-title: 'Paper „Deconstructing Deep Imbalance Regression" in Artificial Intelligence Review erschienen'
+title: 'Paper „Deconstructing Deep Imbalanced Regression" in Artificial Intelligence Review erschienen'
 date: "2026-04-28"
 ---
 
-# Paper „Deconstructing Deep Imbalance Regression" in Artificial Intelligence Review erschienen
+# Paper „Deconstructing Deep Imbalanced Regression" in Artificial Intelligence Review erschienen
 
 ![AgeDB-Altersschätzung als Beispiel für Deep Imbalanced Regression: Die Trainingsverteilung konzentriert sich auf mittlere Altersgruppen, während der Modellfehler in den unterrepräsentierten Extrapolationsregimen am Rand und im Interpolationsregime in der Mitte deutlich anwächst.](puet26a_fig1.png){fig-alt="AgeDB-Trainingsverteilung mit Extrapolations- und Interpolationsregimen sowie überlagertem Modellfehler"}
 
