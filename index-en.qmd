@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/hatz26a/monet_graph.png){.feature-card-image fig-alt="Schematic of the MONET task network"}
+
+### Paper "Multi-Task Optimization over Networks of Tasks" published on arXiv
+
+`2026-04-28` -- Julian Hatzky (Vrije Universiteit Amsterdam), [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/), A. E. Eiben, and Anil Yaman introduce MONET: a multi-task optimization algorithm that models the task space as a graph and matches or exceeds established MAP-Elites variants on four benchmark domains. Published on [arXiv:2604.21991](https://arxiv.org/abs/2604.21991).
+
+[Read more](news/hatz26a/hatz26a-monet-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/members/kreiskoether.png){.feature-card-image fig-alt="Prof. Dr. Kai Kreisköther"}
 
 ### Welcome Prof. Dr. Kai Kreisköther to the THK-AI Research Cluster
@@ -23,16 +33,6 @@ lang: en
 `2026-04-28` -- The THK-AI Research Cluster welcomes [Prof. Dr. Kai Kreisköther](https://www.th-koeln.de/personen/kai.kreiskoether/) (Institute of Computer and Communication Technology) as its newest member. The cluster now counts 25 members; his focus is on electrified, networked, and automated mobility and logistics.
 
 [Read more](news/welcome_kreiskoether/welcome-prof-kai-kreiskoether-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/ksta/th_koeln_campus_gummersbach.png){.feature-card-image fig-alt="TH Köln Gummersbach campus"}
-
-### Kölnische Rundschau: New article series on AI in Oberberg
-
-`2026-04-18` -- Torsten Sülzer launches a series in the Kölnische Rundschau asking how well the Oberbergisch region — with its innovation-driven companies and "hidden champions" and the research-strong TH Köln in engineering and computer science — is positioned for the next industrial revolution.
-
-[Read more](news/ksta/oberberg-ki-serie-en.md){.btn .btn-outline-primary}
 :::
 
 :::
