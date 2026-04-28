@@ -16,6 +16,16 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/members/gwiggner.png){.feature-card-image fig-alt="Prof. Dr. Claus Peter Gwiggner"}
+
+### Willkommen Prof. Dr. Claus Peter Gwiggner im THK-AI Forschungscluster
+
+`28. April 2026` -- Das THK-AI Forschungscluster begrüßt [Prof. Dr. Claus Peter Gwiggner](https://www.th-koeln.de/personen/claus.gwiggner/) (Institut für Data Science, Engineering, and Analytics) als neues Mitglied. Mit seinem Beitritt wächst das Cluster auf 26 Mitglieder; seine Schwerpunkte liegen in Supply-Chain-Analytik, stochastischer Optimierung und Decision Intelligence.
+
+[Zum Beitrag](news/welcome_gwiggner/welcome-prof-claus-gwiggner.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/hatz26a/monet_graph.png){.feature-card-image fig-alt="Schematische Darstellung des MONET-Tasknetzwerks"}
 
 ### Paper „Multi-Task Optimization over Networks of Tasks" auf arXiv erschienen
@@ -23,16 +33,6 @@ lang: de
 `28. April 2026` -- Julian Hatzky (Vrije Universiteit Amsterdam), [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/), A. E. Eiben und Anil Yaman stellen MONET vor: einen Multi-Task-Optimierungsalgorithmus, der den Aufgabenraum als Graph modelliert und etablierte MAP-Elites-Varianten auf vier Benchmark-Domänen erreicht oder übertrifft. Veröffentlicht auf [arXiv:2604.21991](https://arxiv.org/abs/2604.21991).
 
 [Zum Beitrag](news/hatz26a/hatz26a-monet.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/members/kreiskoether.png){.feature-card-image fig-alt="Prof. Dr. Kai Kreisköther"}
-
-### Willkommen Prof. Dr. Kai Kreisköther im THK-AI Forschungscluster
-
-`28. April 2026` -- Das THK-AI Forschungscluster begrüßt [Prof. Dr. Kai Kreisköther](https://www.th-koeln.de/personen/kai.kreiskoether/) (Institute of Computer and Communication Technology) als neues Mitglied. Mit seinem Beitritt wächst das Cluster auf 25 Mitglieder; sein Schwerpunkt liegt auf elektrifizierter, vernetzter und automatisierter Mobilität und Logistik.
-
-[Zum Beitrag](news/welcome_kreiskoether/welcome-prof-kai-kreiskoether.md){.btn .btn-outline-primary}
 :::
 
 :::

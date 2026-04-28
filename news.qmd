@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/members/gwiggner.png){.news-card-image fig-alt="Prof. Dr. Claus Peter Gwiggner"}
+[Willkommen Prof. Dr. Claus Peter Gwiggner im THK-AI Forschungscluster](news/welcome_gwiggner/welcome-prof-claus-gwiggner.md)
+`28. April 2026`
+
+Das THK-AI Forschungscluster begrüßt [Prof. Dr. Claus Peter Gwiggner](https://www.th-koeln.de/personen/claus.gwiggner/) (Institut für Data Science, Engineering, and Analytics) als neues Mitglied. Mit seinem Beitritt wächst das Cluster auf 26 Mitglieder. Sein Schwerpunkt liegt auf Supply-Chain-Analytik, stochastischer Optimierung und Decision Intelligence – Felder, in denen KI-Methoden Entscheidungen unter Unsicherheit datengetrieben unterstützen.
+
+[Zum Beitrag](news/welcome_gwiggner/welcome-prof-claus-gwiggner.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/hatz26a/monet_graph.png){.news-card-image fig-alt="Schematische Darstellung des MONET-Tasknetzwerks"}
 [Paper „Multi-Task Optimization over Networks of Tasks" auf arXiv erschienen](news/hatz26a/hatz26a-monet.md)
 `28. April 2026`
