@@ -20,6 +20,16 @@ Das THK-AI Forschungscluster begrüßt [Prof. Dr. Claus Peter Gwiggner](https://
 :::
 
 :::{.news-card}
+![](news/puet26a/puet26a_fig1.png){.news-card-image fig-alt="AgeDB-Verteilung mit Extrapolations- und Interpolationsregimen sowie Modellfehler"}
+[Paper „Deconstructing Deep Imbalance Regression" in Artificial Intelligence Review erschienen](news/puet26a/puet26a-deep-imbalance-regression.md)
+`28. April 2026`
+
+Noah C. Puetz, Jens U. Brandt, Marc Hilbert, Elena Raponi, Thomas Bäck und [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) liefern in *Artificial Intelligence Review* die erste umfassende Übersicht zu Deep Imbalanced Regression. Eine zweiachsige Taxonomie ordnet 19 Verfahren ein, zwölf davon werden unter identischen Bedingungen reevaluiert, und drei neue Protokolle (Balanced Extrapolation, Bimodal Interpolation, Blind-Spot Isolation) decken bislang verborgene Fehlerregime auf. DOI: [10.1007/s10462-026-11570-1](https://doi.org/10.1007/s10462-026-11570-1).
+
+[Zum Beitrag](news/puet26a/puet26a-deep-imbalance-regression.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/hatz26a/monet_graph.png){.news-card-image fig-alt="Schematische Darstellung des MONET-Tasknetzwerks"}
 [Paper „Multi-Task Optimization over Networks of Tasks" auf arXiv erschienen](news/hatz26a/hatz26a-monet.md)
 `28. April 2026`
