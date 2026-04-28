@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/members/kreiskoether.png){.news-card-image fig-alt="Prof. Dr. Kai Kreisköther"}
+[Willkommen Prof. Dr. Kai Kreisköther im THK-AI Forschungscluster](news/welcome_kreiskoether/welcome-prof-kai-kreiskoether.md)
+`28. April 2026`
+
+Das THK-AI Forschungscluster begrüßt [Prof. Dr. Kai Kreisköther](https://www.th-koeln.de/personen/kai.kreiskoether/) (Institute of Computer and Communication Technology) als neues Mitglied. Mit seinem Beitritt wächst das Cluster auf 25 Mitglieder. Sein Schwerpunkt liegt auf elektrifizierter, vernetzter und automatisierter Mobilität und Logistik. In diesen Gebieten sind KI-Methoden für Wahrnehmung, Routenoptimierung und vorausschauende Wartung zentral.
+
+[Zum Beitrag](news/welcome_kreiskoether/welcome-prof-kai-kreiskoether.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/ksta/th_koeln_campus_gummersbach.png){.news-card-image fig-alt="Campus Gummersbach der TH Köln"}
 [Kölnische Rundschau: Neue Artikelserie zu KI in Oberberg](news/ksta/oberberg-ki-serie.md)
 `18. April 2026`
