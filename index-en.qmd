@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/members/kreiskoether.png){.feature-card-image fig-alt="Prof. Dr. Kai Kreisköther"}
+
+### Welcome Prof. Dr. Kai Kreisköther to the THK-AI Research Cluster
+
+`2026-04-28` -- The THK-AI Research Cluster welcomes [Prof. Dr. Kai Kreisköther](https://www.th-koeln.de/personen/kai.kreiskoether/) (Institute of Computer and Communication Technology) as its newest member. The cluster now counts 25 members; his focus is on electrified, networked, and automated mobility and logistics.
+
+[Read more](news/welcome_kreiskoether/welcome-prof-kai-kreiskoether-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/ksta/th_koeln_campus_gummersbach.png){.feature-card-image fig-alt="TH Köln Gummersbach campus"}
 
 ### Kölnische Rundschau: New article series on AI in Oberberg
@@ -23,16 +33,6 @@ lang: en
 `2026-04-18` -- Torsten Sülzer launches a series in the Kölnische Rundschau asking how well the Oberbergisch region — with its innovation-driven companies and "hidden champions" and the research-strong TH Köln in engineering and computer science — is positioned for the next industrial revolution.
 
 [Read more](news/ksta/oberberg-ki-serie-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/vekil/fix_cumulative_hana.png){.feature-card-image fig-alt="Cumulative fix curve from the SAP HANA study"}
-
-### LLMs taking shortcuts in test generation — Report on arXiv
-
-`2026-04-17` -- THK-AI Research Report 2/2026 by Vekil Bekmyradov, Noah C. Pütz, and Prof. Dr. Thomas Bartz-Beielstein on [arXiv:2604.14437](https://arxiv.org/abs/2604.14437): an empirical study of memorisation and generalisation in large language models for automated test generation, contrasting LevelDB with SAP HANA.
-
-[Read more](news/vekil/veki26a-shortcuts-en.md){.btn .btn-outline-primary}
 :::
 
 :::
