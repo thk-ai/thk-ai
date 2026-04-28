@@ -28,7 +28,7 @@ lang: de
 :::{.feature-card}
 ![](news/puet26a/puet26a_fig1.png){.feature-card-image fig-alt="AgeDB-Verteilung mit Extrapolations- und Interpolationsregimen sowie Modellfehler"}
 
-### Paper „Deconstructing Deep Imbalance Regression" in Artificial Intelligence Review erschienen
+### Paper „Deconstructing Deep Imbalanced Regression" in Artificial Intelligence Review erschienen
 
 `28. April 2026` -- Noah C. Puetz, Jens U. Brandt, Marc Hilbert, Elena Raponi, Thomas Bäck und [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) liefern in *Artificial Intelligence Review* die erste umfassende Übersicht zu Deep Imbalanced Regression. Eine zweiachsige Taxonomie ordnet 19 Verfahren ein, zwölf werden unter identischen Bedingungen reevaluiert, und drei neue Protokolle decken bislang verborgene Fehlerregime auf. DOI: [10.1007/s10462-026-11570-1](https://doi.org/10.1007/s10462-026-11570-1).
 
