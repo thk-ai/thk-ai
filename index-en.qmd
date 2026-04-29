@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/salm26b/KI-Forum4_01.jpg){.feature-card-image fig-alt="Participants of the 4th KI-Forum in conversation on Campus Deutz"}
+
+### 4th KI-Forum at TH Köln
+
+`2026-04-29` -- For the fourth time, the *KI-Forum* has taken place on Campus Deutz — with strong attendance and a notably large turnout of doctoral researchers from the THK-AI Research Cluster. The forum brings together students, cluster members, alumni, and guests from research and industry.
+
+[Read more](news/salm26b/salm26b-ki-forum-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/salm26a/salm26a-tribraide-titel.jpg){.feature-card-image fig-alt="Kai Altwicker presenting his master's thesis Tribraide"}
 
 ### Master's thesis "Tribraide": Kai Altwicker develops a fusion-based detector for AI-generated images
@@ -23,16 +33,6 @@ lang: en
 `2026-04-29` -- With "Tribraide", Kai Altwicker has developed a detector for AI-generated images in his master's thesis at the Institute of Media and Imaging Technology at TH Köln. The method combines spatial-domain, frequency, and reconstruction analyses; through the fusion of complementary feature spaces it remains reliable even under compression and noise. The thesis was supervised by [Prof. Dr. Jan Salmen](https://www.th-koeln.de/personen/jan.salmen/) and [Prof. Dr. Gregor Fischer](https://www.th-koeln.de/personen/gregor.fischer/).
 
 [Read more](news/salm26a/salm26a-tribraide-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/bart26c/pareto-front.png){.feature-card-image fig-alt="Pareto front of two objectives from the compressor case study"}
-
-### Contribution "Multi-Objective Optimization with Desirability and Morris-Mitchell Criterion" accepted at MCDM 2026
-
-`2026-04-28` -- The Programme Committee of MCDM 2026 has accepted the contribution by [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) (TH Köln), Eva Bartz, Alexander Hinterleitner (Bartz & Bartz GmbH), and Christoph Leitenmeier and Ihab Abd El Hussein (Everllence SE) for presentation. The work combines desirability functions with the Morris-Mitchell criterion and is demonstrated on a compressor-development case study.
-
-[Read more](news/mcdm/bart26c-mcdm-en.md){.btn .btn-outline-primary}
 :::
 
 :::

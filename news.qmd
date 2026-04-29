@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/salm26b/KI-Forum4_01.jpg){.news-card-image fig-alt="Teilnehmende des 4. KI-Forums beim Austausch am Campus Deutz"}
+[4. KI-Forum an der TH Köln](news/salm26b/salm26b-ki-forum.md)
+`29. April 2026`
+
+Bereits zum vierten Mal hat das *KI-Forum* am Campus Deutz stattgefunden — mit hoher Resonanz und einer auffallend starken Beteiligung von Doktorandinnen und Doktoranden des THK-AI Forschungsclusters. Das Forum bringt Studierende, Cluster-Mitglieder, Alumni und Gäste aus Forschung und Wirtschaft zusammen.
+
+[Zum Beitrag](news/salm26b/salm26b-ki-forum.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/salm26a/salm26a-tribraide-titel.jpg){.news-card-image fig-alt="Kai Altwicker bei der Präsentation seiner Masterarbeit Tribraide"}
 [Masterarbeit „Tribraide": Kai Altwicker entwickelt fusionsbasiertes Verfahren zur Erkennung KI-generierter Bilder](news/salm26a/salm26a-tribraide.md)
 `29. April 2026`
