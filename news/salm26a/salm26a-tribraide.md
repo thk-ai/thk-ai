@@ -9,7 +9,7 @@ date: "2026-04-29"
 
 `29. April 2026`
 
-Mit „Tribraide" hat Kai Altwicker im Rahmen seiner Masterarbeit am [Institut für Medien- und Phototechnik](https://www.th-koeln.de/informations-medien-und-elektrotechnik/institut-fuer-medien--und-phototechnik_3338.php) der TH Köln ein System zur Erkennung KI-generierter Bilder entwickelt, das über klassische Einzelmodelle hinausgeht. Die Arbeit kombiniert Ortsraum-, Frequenz- und Rekonstruktionsanalysen und nutzt die Komplementarität dieser Merkmalsräume zur Detektion synthetischer Inhalte. Betreut wurde die Arbeit von [Prof. Dr. Jan Salmen](https://www.th-koeln.de/personen/jan.salmen/) und [Prof. Dr. Gregor Fischer](https://www.th-koeln.de/personen/gregor.fischer/).
+Mit „Tribraide" hat Kai Altwicker im Rahmen seiner Masterarbeit am [Institut für Medien- und Phototechnik](https://www.th-koeln.de/informations-medien-und-elektrotechnik/institut-fuer-medien--und-phototechnik-imp_14807.php) der TH Köln ein System zur Erkennung KI-generierter Bilder entwickelt, das über klassische Einzelmodelle hinausgeht. Die Arbeit kombiniert Ortsraum-, Frequenz- und Rekonstruktionsanalysen und nutzt die Komplementarität dieser Merkmalsräume zur Detektion synthetischer Inhalte. Betreut wurde die Arbeit von [Prof. Dr. Jan Salmen](https://www.th-koeln.de/personen/jan.salmen/) und [Prof. Dr. Gregor Fischer](https://www.th-koeln.de/personen/gregor.fischer/).
 
 ## Ansatz
 
