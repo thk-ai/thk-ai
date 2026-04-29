@@ -10,7 +10,7 @@ lang: en
 
 `2026-04-29`
 
-With "Tribraide", Kai Altwicker has developed a detector for AI-generated images in his master's thesis at the [Institute of Media and Imaging Technology](https://www.th-koeln.de/informations-medien-und-elektrotechnik/institut-fuer-medien--und-phototechnik_3338.php) at TH Köln that goes beyond conventional single-model approaches. The work combines spatial-domain, frequency, and reconstruction analyses and exploits the complementarity of these feature spaces to detect synthetic content. The thesis was supervised by [Prof. Dr. Jan Salmen](https://www.th-koeln.de/personen/jan.salmen/) and [Prof. Dr. Gregor Fischer](https://www.th-koeln.de/personen/gregor.fischer/).
+With "Tribraide", Kai Altwicker has developed a detector for AI-generated images in his master's thesis at the [Institute of Media and Imaging Technology](https://www.th-koeln.de/informations-medien-und-elektrotechnik/institut-fuer-medien--und-phototechnik-imp_14807.php) at TH Köln that goes beyond conventional single-model approaches. The work combines spatial-domain, frequency, and reconstruction analyses and exploits the complementarity of these feature spaces to detect synthetic content. The thesis was supervised by [Prof. Dr. Jan Salmen](https://www.th-koeln.de/personen/jan.salmen/) and [Prof. Dr. Gregor Fischer](https://www.th-koeln.de/personen/gregor.fischer/).
 
 ## Approach
 
