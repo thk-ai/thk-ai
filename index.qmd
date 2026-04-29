@@ -16,6 +16,16 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/salm26b/KI-Forum4_01.jpg){.feature-card-image fig-alt="Teilnehmende des 4. KI-Forums beim Austausch am Campus Deutz"}
+
+### 4. KI-Forum an der TH Köln
+
+`29. April 2026` -- Bereits zum vierten Mal hat das *KI-Forum* am Campus Deutz stattgefunden — mit hoher Resonanz und einer auffallend starken Beteiligung von Doktorandinnen und Doktoranden des THK-AI Forschungsclusters. Das Forum bringt Studierende, Cluster-Mitglieder, Alumni und Gäste aus Forschung und Wirtschaft zusammen.
+
+[Zum Beitrag](news/salm26b/salm26b-ki-forum.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/salm26a/salm26a-tribraide-titel.jpg){.feature-card-image fig-alt="Kai Altwicker bei der Präsentation seiner Masterarbeit Tribraide"}
 
 ### Masterarbeit „Tribraide": Kai Altwicker entwickelt fusionsbasiertes Verfahren zur Erkennung KI-generierter Bilder
@@ -23,16 +33,6 @@ lang: de
 `29. April 2026` -- Mit „Tribraide" hat Kai Altwicker im Rahmen seiner Masterarbeit am Institut für Medien- und Phototechnik der TH Köln ein System zur Erkennung KI-generierter Bilder entwickelt, das Ortsraum-, Frequenz- und Rekonstruktionsanalysen kombiniert. Durch die Fusion komplementärer Merkmalsräume bleibt das Verfahren auch unter Kompression und Rauschen zuverlässig. Betreut wurde die Arbeit von [Prof. Dr. Jan Salmen](https://www.th-koeln.de/personen/jan.salmen/) und [Prof. Dr. Gregor Fischer](https://www.th-koeln.de/personen/gregor.fischer/).
 
 [Zum Beitrag](news/salm26a/salm26a-tribraide.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/bart26c/pareto-front.png){.feature-card-image fig-alt="Pareto-Front zweier Zielgrößen aus der Verdichter-Fallstudie"}
-
-### Beitrag „Multi-Objective Optimization with Desirability and Morris-Mitchell Criterion" für MCDM 2026 angenommen
-
-`28. April 2026` -- Das Programmkomitee der MCDM 2026 hat den Beitrag von [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) (TH Köln), Eva Bartz, Alexander Hinterleitner (Bartz & Bartz GmbH) sowie Christoph Leitenmeier und Ihab Abd El Hussein (Everllence SE) zur Präsentation angenommen. Die Arbeit verbindet Desirability-Funktionen mit dem Morris-Mitchell-Kriterium und wird an einer Fallstudie aus der Verdichterentwicklung demonstriert.
-
-[Zum Beitrag](news/mcdm/bart26c-mcdm.md){.btn .btn-outline-primary}
 :::
 
 :::
