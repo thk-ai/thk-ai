@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/ecip-gecco-2026/gecco-hero.png){.news-card-image fig-alt="Banner der GECCO 2026 in Costa Rica"}
+[ECiP @ GECCO 2026: Bartz-Beielstein organisiert den Industrie-Track in Costa Rica](news/ecip-gecco-2026/ecip-gecco-2026.md)
+`18. Juni 2026`
+
+[Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) organisiert auf der GECCO 2026 in Costa Rica erneut den renommierten Track *Evolutionary Computation in Practice* (ECiP), der seit 2002 akademische Forschung mit industrieller Praxis verbindet. Für die Session am 16. Juli 2026 haben bereits Nicolás Álvarez Gil (ArcelorMittal Global R&D, Spanien) und Ryoki Hamano (CyberAgent, Inc., Japan) zugesagt.
+
+[Zum Beitrag](news/ecip-gecco-2026/ecip-gecco-2026.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/salm26b/KI-Forum4_01.jpg){.news-card-image fig-alt="Teilnehmende des 4. KI-Forums beim Austausch am Campus Deutz"}
 [4. KI-Forum an der TH Köln](news/salm26b/salm26b-ki-forum.md)
 `29. April 2026`
