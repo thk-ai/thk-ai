@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/ecip-gecco-2026/gecco-hero.png){.feature-card-image fig-alt="GECCO 2026 banner, Costa Rica"}
+
+### ECiP @ GECCO 2026: Bartz-Beielstein organizes the industry track in Costa Rica
+
+`2026-06-18` -- [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) is once again organizing the renowned *Evolutionary Computation in Practice* (ECiP) track at GECCO 2026 in Costa Rica. Nicolás Álvarez Gil (ArcelorMittal Global R&D, Spain) and Ryoki Hamano (CyberAgent, Inc., Japan) have already confirmed for the session on 16 July 2026.
+
+[Read more](news/ecip-gecco-2026/ecip-gecco-2026-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/salm26b/KI-Forum4_01.jpg){.feature-card-image fig-alt="Participants of the 4th KI-Forum in conversation on Campus Deutz"}
 
 ### 4th KI-Forum at TH Köln
@@ -23,16 +33,6 @@ lang: en
 `2026-04-29` -- For the fourth time, the *KI-Forum* has taken place on Campus Deutz — with strong attendance and a notably large turnout of doctoral researchers from the THK-AI Research Cluster. The forum brings together students, cluster members, alumni, and guests from research and industry.
 
 [Read more](news/salm26b/salm26b-ki-forum-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/salm26a/salm26a-tribraide-titel.jpg){.feature-card-image fig-alt="Kai Altwicker presenting his master's thesis Tribraide"}
-
-### Master's thesis "Tribraide": Kai Altwicker develops a fusion-based detector for AI-generated images
-
-`2026-04-29` -- With "Tribraide", Kai Altwicker has developed a detector for AI-generated images in his master's thesis at the Institute of Media and Imaging Technology at TH Köln. The method combines spatial-domain, frequency, and reconstruction analyses; through the fusion of complementary feature spaces it remains reliable even under compression and noise. The thesis was supervised by [Prof. Dr. Jan Salmen](https://www.th-koeln.de/personen/jan.salmen/) and [Prof. Dr. Gregor Fischer](https://www.th-koeln.de/personen/gregor.fischer/).
-
-[Read more](news/salm26a/salm26a-tribraide-en.md){.btn .btn-outline-primary}
 :::
 
 :::

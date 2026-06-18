@@ -16,6 +16,16 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/ecip-gecco-2026/gecco-hero.png){.feature-card-image fig-alt="Banner der GECCO 2026 in Costa Rica"}
+
+### ECiP @ GECCO 2026: Bartz-Beielstein organisiert den Industrie-Track in Costa Rica
+
+`18. Juni 2026` -- [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) organisiert auf der GECCO 2026 in Costa Rica erneut den renommierten Track *Evolutionary Computation in Practice* (ECiP). Für die Session am 16. Juli 2026 haben bereits Nicolás Álvarez Gil (ArcelorMittal Global R&D, Spanien) und Ryoki Hamano (CyberAgent, Inc., Japan) zugesagt.
+
+[Zum Beitrag](news/ecip-gecco-2026/ecip-gecco-2026.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/salm26b/KI-Forum4_01.jpg){.feature-card-image fig-alt="Teilnehmende des 4. KI-Forums beim Austausch am Campus Deutz"}
 
 ### 4. KI-Forum an der TH Köln
@@ -23,16 +33,6 @@ lang: de
 `29. April 2026` -- Bereits zum vierten Mal hat das *KI-Forum* am Campus Deutz stattgefunden — mit hoher Resonanz und einer auffallend starken Beteiligung von Doktorandinnen und Doktoranden des THK-AI Forschungsclusters. Das Forum bringt Studierende, Cluster-Mitglieder, Alumni und Gäste aus Forschung und Wirtschaft zusammen.
 
 [Zum Beitrag](news/salm26b/salm26b-ki-forum.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/salm26a/salm26a-tribraide-titel.jpg){.feature-card-image fig-alt="Kai Altwicker bei der Präsentation seiner Masterarbeit Tribraide"}
-
-### Masterarbeit „Tribraide": Kai Altwicker entwickelt fusionsbasiertes Verfahren zur Erkennung KI-generierter Bilder
-
-`29. April 2026` -- Mit „Tribraide" hat Kai Altwicker im Rahmen seiner Masterarbeit am Institut für Medien- und Phototechnik der TH Köln ein System zur Erkennung KI-generierter Bilder entwickelt, das Ortsraum-, Frequenz- und Rekonstruktionsanalysen kombiniert. Durch die Fusion komplementärer Merkmalsräume bleibt das Verfahren auch unter Kompression und Rauschen zuverlässig. Betreut wurde die Arbeit von [Prof. Dr. Jan Salmen](https://www.th-koeln.de/personen/jan.salmen/) und [Prof. Dr. Gregor Fischer](https://www.th-koeln.de/personen/gregor.fischer/).
-
-[Zum Beitrag](news/salm26a/salm26a-tribraide.md){.btn .btn-outline-primary}
 :::
 
 :::
