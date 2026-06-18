@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/mcdm2026-report/bartz-beielstein-mcdm.jpeg){.feature-card-image fig-alt="Thomas Bartz-Beielstein giving his talk at MCDM 2026 in Wuppertal"}
+
+### MCDM 2026 in Wuppertal: Bartz-Beielstein presents results from the Everllence cooperation
+
+`2026-06-18` -- [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) presented results from the long-standing cooperation with Everllence SE at MCDM 2026 in Wuppertal. The corresponding paper is available on [arXiv](https://arxiv.org/abs/2512.21989); in Wuppertal he received valuable feedback and held stimulating discussions with leading researchers in multi-objective optimization.
+
+[Read more](news/mcdm2026-report/mcdm2026-report-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/ecip-gecco-2026/gecco-hero.png){.feature-card-image fig-alt="GECCO 2026 banner, Costa Rica"}
 
 ### ECiP @ GECCO 2026: Bartz-Beielstein organizes the industry track in Costa Rica
@@ -23,16 +33,6 @@ lang: en
 `2026-06-18` -- [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) is once again organizing the renowned *Evolutionary Computation in Practice* (ECiP) track at GECCO 2026 in Costa Rica. Nicolás Álvarez Gil (ArcelorMittal Global R&D, Spain) and Ryoki Hamano (CyberAgent, Inc., Japan) have already confirmed for the session on 16 July 2026.
 
 [Read more](news/ecip-gecco-2026/ecip-gecco-2026-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/salm26b/KI-Forum4_01.jpg){.feature-card-image fig-alt="Participants of the 4th KI-Forum in conversation on Campus Deutz"}
-
-### 4th KI-Forum at TH Köln
-
-`2026-04-29` -- For the fourth time, the *KI-Forum* has taken place on Campus Deutz — with strong attendance and a notably large turnout of doctoral researchers from the THK-AI Research Cluster. The forum brings together students, cluster members, alumni, and guests from research and industry.
-
-[Read more](news/salm26b/salm26b-ki-forum-en.md){.btn .btn-outline-primary}
 :::
 
 :::

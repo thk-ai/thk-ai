@@ -16,6 +16,16 @@ lang: de
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/mcdm2026-report/bartz-beielstein-mcdm.jpeg){.feature-card-image fig-alt="Thomas Bartz-Beielstein bei seinem Vortrag auf der MCDM 2026 in Wuppertal"}
+
+### MCDM 2026 in Wuppertal: Bartz-Beielstein präsentiert Ergebnisse der Everllence-Kooperation
+
+`18. Juni 2026` -- [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) hat auf der MCDM 2026 in Wuppertal Ergebnisse aus der langjährigen Kooperation mit der Everllence SE vorgestellt. Das zugehörige Paper ist auf [arXiv](https://arxiv.org/abs/2512.21989) verfügbar; in Wuppertal gab es wertvolles Feedback und anregende Diskussionen mit führenden Forschenden der multikriteriellen Optimierung.
+
+[Zum Beitrag](news/mcdm2026-report/mcdm2026-report.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/ecip-gecco-2026/gecco-hero.png){.feature-card-image fig-alt="Banner der GECCO 2026 in Costa Rica"}
 
 ### ECiP @ GECCO 2026: Bartz-Beielstein organisiert den Industrie-Track in Costa Rica
@@ -23,16 +33,6 @@ lang: de
 `18. Juni 2026` -- [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) organisiert auf der GECCO 2026 in Costa Rica erneut den renommierten Track *Evolutionary Computation in Practice* (ECiP). Für die Session am 16. Juli 2026 haben bereits Nicolás Álvarez Gil (ArcelorMittal Global R&D, Spanien) und Ryoki Hamano (CyberAgent, Inc., Japan) zugesagt.
 
 [Zum Beitrag](news/ecip-gecco-2026/ecip-gecco-2026.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/salm26b/KI-Forum4_01.jpg){.feature-card-image fig-alt="Teilnehmende des 4. KI-Forums beim Austausch am Campus Deutz"}
-
-### 4. KI-Forum an der TH Köln
-
-`29. April 2026` -- Bereits zum vierten Mal hat das *KI-Forum* am Campus Deutz stattgefunden — mit hoher Resonanz und einer auffallend starken Beteiligung von Doktorandinnen und Doktoranden des THK-AI Forschungsclusters. Das Forum bringt Studierende, Cluster-Mitglieder, Alumni und Gäste aus Forschung und Wirtschaft zusammen.
-
-[Zum Beitrag](news/salm26b/salm26b-ki-forum.md){.btn .btn-outline-primary}
 :::
 
 :::
