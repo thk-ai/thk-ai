@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/mcdm2026-report/bartz-beielstein-mcdm.jpeg){.news-card-image fig-alt="Thomas Bartz-Beielstein bei seinem Vortrag auf der MCDM 2026 in Wuppertal"}
+[MCDM 2026 in Wuppertal: Bartz-Beielstein präsentiert Ergebnisse der Everllence-Kooperation](news/mcdm2026-report/mcdm2026-report.md)
+`18. Juni 2026`
+
+Auf der MCDM 2026 in Wuppertal hat [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) Ergebnisse aus der langjährigen Kooperation mit der Everllence SE (vormals MAN Energy Solutions) vorgestellt. Sein Vortrag am 28. Mai war Teil der Session *Bayesian and Surrogate-Model Assisted Multiobjective Optimization*. Das zugehörige Paper ist auf [arXiv](https://arxiv.org/abs/2512.21989) verfügbar; in Wuppertal gab es wertvolles Feedback und anregende Diskussionen mit führenden Forschenden der multikriteriellen Optimierung.
+
+[Zum Beitrag](news/mcdm2026-report/mcdm2026-report.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/ecip-gecco-2026/gecco-hero.png){.news-card-image fig-alt="Banner der GECCO 2026 in Costa Rica"}
 [ECiP @ GECCO 2026: Bartz-Beielstein organisiert den Industrie-Track in Costa Rica](news/ecip-gecco-2026/ecip-gecco-2026.md)
 `18. Juni 2026`
