@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/west26a/minervas-schatten-szene.jpg){.news-card-image fig-alt="Drei Schauspielende in einer Bürosituation um einen Laptop, im Hintergrund ein Flipchart mit den Stichworten Risiken, Chancen, Globalisierung, Digitalisierung und KI"}
+[Uraufführung „Minervas Schatten": Hartmut Westenberger bringt KI und Arbeitswelt auf die Theaterbühne](news/west26a/west26a-minervas-schatten.md)
+`29. Juni 2026`
+
+Die Freie Theatergruppe Wiehl bringt am 18. Juli 2026 in Nümbrecht-Bierenbachtal das Stück „Minervas Schatten" zur Uraufführung. Es stellt die Auswirkungen von Künstlicher Intelligenz, Digitalisierung und Globalisierung auf den Menschen und die Arbeitswelt zur Diskussion. Geschrieben hat es [Prof. Dr. rer. nat. Hartmut Westenberger](https://www.th-koeln.de/personen/hartmut.westenberger/), Mitglied des THK-AI Forschungsclusters und Informatik-Professor der TH Köln am Campus Gummersbach.
+
+[Zum Beitrag](news/west26a/west26a-minervas-schatten.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/mcdm2026-report/bartz-beielstein-mcdm.jpeg){.news-card-image fig-alt="Thomas Bartz-Beielstein bei seinem Vortrag auf der MCDM 2026 in Wuppertal"}
 [MCDM 2026 in Wuppertal: Bartz-Beielstein präsentiert Ergebnisse der Everllence-Kooperation](news/mcdm2026-report/mcdm2026-report.md)
 `18. Juni 2026`
