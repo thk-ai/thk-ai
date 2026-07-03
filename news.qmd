@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/ecip-gecco-2026/gecco-hero.png){.news-card-image fig-alt="Logo der GECCO 2026"}
+[ECiP @ GECCO 2026: Programm steht – drei internationale Sprecher aus der industriellen Praxis](news/ecip-gecco-2026-program/ecip-gecco-2026-program.md)
+`3. Juli 2026`
+
+Das Programm des Tracks *Evolutionary Computation in Practice* (ECiP) auf der GECCO 2026 in Costa Rica ist komplett: Nicolás Álvarez Gil (ArcelorMittal Global R&D, Spanien), Ryoki Hamano (CyberAgent AI Lab, Japan) und Alberto Tonda (INRAE / Université Paris-Saclay, Frankreich) sprechen am 16. Juli 2026 über evolutionäre Optimierung in der industriellen Praxis. [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) organisiert den Track gemeinsam mit Daniel Hernández (Tecnológico Nacional de México / IT Tijuana) und Francisco Fernandez de Vega (Universidad de Extremadura).
+
+[Zum Beitrag](news/ecip-gecco-2026-program/ecip-gecco-2026-program.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/west26a/minervas-schatten-szene.jpg){.news-card-image fig-alt="Drei Schauspielende in einer Bürosituation um einen Laptop, im Hintergrund ein Flipchart mit den Stichworten Risiken, Chancen, Globalisierung, Digitalisierung und KI"}
 [Uraufführung „Minervas Schatten": Hartmut Westenberger bringt KI und Arbeitswelt auf die Theaterbühne](news/west26a/west26a-minervas-schatten.md)
 `29. Juni 2026`
