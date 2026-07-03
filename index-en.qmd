@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/ecip-gecco-2026/gecco-hero.png){.feature-card-image fig-alt="GECCO 2026 logo"}
+
+### ECiP @ GECCO 2026: Program complete – three international speakers from industrial practice
+
+`2026-07-03` -- The program of the *Evolutionary Computation in Practice* (ECiP) track at GECCO 2026 in Costa Rica is complete: Nicolás Álvarez Gil (ArcelorMittal Global R&D, Spain), Ryoki Hamano (CyberAgent AI Lab, Japan), and Alberto Tonda (INRAE / Université Paris-Saclay, France) will speak on 16 July 2026 about evolutionary optimization in industrial practice. [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) organizes the track together with Daniel Hernández and Francisco Fernandez de Vega.
+
+[Read more](news/ecip-gecco-2026-program/ecip-gecco-2026-program-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/west26a/minervas-schatten-szene.jpg){.feature-card-image fig-alt="Three actors in an office setting around a laptop, with a flip chart in the background listing the keywords risks, opportunities, globalization, digitalization, and AI"}
 
 ### World premiere of "Minervas Schatten": Hartmut Westenberger brings AI and the world of work to the stage
@@ -23,16 +33,6 @@ lang: en
 `2026-06-29` -- On 18 July 2026 the Freie Theatergruppe Wiehl will give the world premiere of "Minervas Schatten" (Minerva's Shadow) in Nümbrecht-Bierenbachtal. The play opens a discussion of how artificial intelligence, digitalization, and globalization affect the individual and the world of work. It was written by [Prof. Dr. rer. nat. Hartmut Westenberger](https://www.th-koeln.de/personen/hartmut.westenberger/), a member of the THK-AI Research Cluster.
 
 [Read more](news/west26a/west26a-minervas-schatten-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/mcdm2026-report/bartz-beielstein-mcdm.jpeg){.feature-card-image fig-alt="Thomas Bartz-Beielstein giving his talk at MCDM 2026 in Wuppertal"}
-
-### MCDM 2026 in Wuppertal: Bartz-Beielstein presents results from the Everllence cooperation
-
-`2026-06-18` -- [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) presented results from the long-standing cooperation with Everllence SE at MCDM 2026 in Wuppertal. The corresponding paper is available on [arXiv](https://arxiv.org/abs/2512.21989); in Wuppertal he received valuable feedback and held stimulating discussions with leading researchers in multi-objective optimization.
-
-[Read more](news/mcdm2026-report/mcdm2026-report-en.md){.btn .btn-outline-primary}
 :::
 
 :::
