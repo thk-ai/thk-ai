@@ -14,6 +14,7 @@ The Programme Committee of [MCDM 2026](https://mcdm2026.uni-wuppertal.de/en/welc
 
 ## Background
 
+
 The work emerged from a collaboration between the THK-AI Research Cluster at TH Köln, Bartz & Bartz GmbH, and [Everllence SE](https://www.everllence.com/en). Everllence is the new name of the former MAN Energy Solutions, headquartered in Augsburg; the company develops propulsion, decarbonisation, and efficiency solutions for shipping, the energy sector, and industry, and employs around 16,200 people worldwide. Within its portfolio, the *Engineering Turbocharger* unit in Augsburg covers the development of large turbochargers for marine, energy, and industrial applications. The study is motivated by an industrial application from exactly this area of compressor development, in which existing experimental data must be reused, with no opportunity to plan a new experimental campaign from scratch.
 
 [![Logo of MCDM 2026 in Wuppertal.](../../figures/news/bart26c/mcdm-2026-logo.jpg){fig-alt="MCDM 2026 conference logo featuring the Wuppertal suspension railway" width=240}](https://mcdm2026.uni-wuppertal.de/en/welcome/)
