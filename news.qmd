@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/lastprognose-challenge-2026/teaser.png){.news-card-image fig-alt="Grafik zur Live-Lastprognose-Challenge 2026 mit stilisierter Lastkurve"}
+[Lastprognose-Challenge 2026: Sechs Wochen, elf Teams, jeden Tag eine Prognose](news/lastprognose-challenge-2026/lastprognose-challenge-2026.md)
+`20. Juli 2026`
+
+Die Live-Lastprognose-Challenge 2026 an der TH Köln ist erfolgreich zu Ende gegangen. Seit Juni reichten elf studentische Teams jeden Tag vor Mitternacht eine 24-Stunden-Prognose des deutschen Strombedarfs ein, die am Folgetag automatisch an der tatsächlichen Netzlast der ENTSO-E Transparency Platform gemessen wurde. Neben der Prognosegüte stand offene, überprüfbare Forschung im Mittelpunkt: Model Cards, OpenSSF-Scorecards und gegenseitige Reproduktion der Ergebnisse. Die Siegerteams der beiden Award-Tracks werden in Kürze geehrt.
+
+[Zum Beitrag](news/lastprognose-challenge-2026/lastprognose-challenge-2026.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/ecip-gecco-2026/gecco-hero.png){.news-card-image fig-alt="Logo der GECCO 2026"}
 [ECiP @ GECCO 2026: Programm steht – drei internationale Sprecher aus der industriellen Praxis](news/ecip-gecco-2026-program/ecip-gecco-2026-program.md)
 `3. Juli 2026`
