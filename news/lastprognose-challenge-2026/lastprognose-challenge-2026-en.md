@@ -4,8 +4,6 @@ date: "2026-07-20"
 lang: en
 ---
 
-# Load-Forecasting Challenge 2026: six weeks, eleven teams, one forecast every day
-
 ![Six weeks, eleven teams, one forecast every day: the Live Load-Forecasting Challenge 2026 at TH Köln.](../../figures/news/lastprognose-challenge-2026/teaser.png){fig-alt="Graphic for the Live Load-Forecasting Challenge 2026 with a stylized load curve"}
 
 `2026-07-20`

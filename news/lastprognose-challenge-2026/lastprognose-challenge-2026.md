@@ -3,8 +3,6 @@ title: "Lastprognose-Challenge 2026: Sechs Wochen, elf Teams, jeden Tag eine Pro
 date: "2026-07-20"
 ---
 
-# Lastprognose-Challenge 2026: Sechs Wochen, elf Teams, jeden Tag eine Prognose
-
 ![Sechs Wochen, elf Teams, jeden Tag eine Prognose: die Live-Lastprognose-Challenge 2026 an der TH Köln.](../../figures/news/lastprognose-challenge-2026/teaser.png){fig-alt="Grafik zur Live-Lastprognose-Challenge 2026 mit stilisierter Lastkurve"}
 
 `20. Juli 2026`
