@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/news/lastprognose-challenge-2026/teaser.png){.feature-card-image fig-alt="Graphic for the Live Load-Forecasting Challenge 2026 with a stylized load curve"}
+
+### Load-Forecasting Challenge 2026: six weeks, eleven teams, one forecast every day
+
+`2026-07-20` -- The Live Load-Forecasting Challenge 2026 at TH Köln has crossed the finish line. Since June, eleven student teams submitted a 24-hour forecast of Germany's national electricity demand every day before midnight, scored automatically the next day against the actual grid load published by the ENTSO-E Transparency Platform. Beyond forecast quality, the challenge focused on open, verifiable research. The winning teams of the two award tracks will be honored soon.
+
+[Read more](news/lastprognose-challenge-2026/lastprognose-challenge-2026-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/ecip-gecco-2026/gecco-hero.png){.feature-card-image fig-alt="GECCO 2026 logo"}
 
 ### ECiP @ GECCO 2026: Program complete – three international speakers from industrial practice
@@ -23,16 +33,6 @@ lang: en
 `2026-07-03` -- The program of the *Evolutionary Computation in Practice* (ECiP) track at GECCO 2026 in Costa Rica is complete: Nicolás Álvarez Gil (ArcelorMittal Global R&D, Spain), Ryoki Hamano (CyberAgent AI Lab, Japan), and Alberto Tonda (INRAE / Université Paris-Saclay, France) will speak on 16 July 2026 about evolutionary optimization in industrial practice. [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) organizes the track together with Daniel Hernández and Francisco Fernandez de Vega.
 
 [Read more](news/ecip-gecco-2026-program/ecip-gecco-2026-program-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/west26a/minervas-schatten-szene.jpg){.feature-card-image fig-alt="Three actors in an office setting around a laptop, with a flip chart in the background listing the keywords risks, opportunities, globalization, digitalization, and AI"}
-
-### World premiere of "Minervas Schatten": Hartmut Westenberger brings AI and the world of work to the stage
-
-`2026-06-29` -- On 18 July 2026 the Freie Theatergruppe Wiehl will give the world premiere of "Minervas Schatten" (Minerva's Shadow) in Nümbrecht-Bierenbachtal. The play opens a discussion of how artificial intelligence, digitalization, and globalization affect the individual and the world of work. It was written by [Prof. Dr. rer. nat. Hartmut Westenberger](https://www.th-koeln.de/personen/hartmut.westenberger/), a member of the THK-AI Research Cluster.
-
-[Read more](news/west26a/west26a-minervas-schatten-en.md){.btn .btn-outline-primary}
 :::
 
 :::
