@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-53a3eb1ff9330d44960d26a0ddb2dd24.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-84e71acc51357bd30f0d305e5a97f02f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -188,6 +191,11 @@ ul.task-list li input[type="checkbox"] {
 <p>Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.</p>
 </section>
 <div class="news-grid">
+<div class="news-card">
+<p><img src="figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg" class="news-card-image img-fluid" alt="Studierende mit ihren Zertifikaten und Prof. Bartz-Beielstein vor dem projizierten Leaderboard der Lastprognose-Challenge 2026"> <a href="./news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss.html">Lastprognose-Challenge 2026: Zertifikatsübergabe und Prognosen auf Spitzenniveau</a> <code>27. Juli 2026</code></p>
+<p>Mit der Zertifikatsübergabe an die Teams beider Lehrveranstaltungen ist die Live-Lastprognose-Challenge 2026 an der TH Köln offiziell zu Ende gegangen. Zehn der elf studentischen Teams unterboten die offizielle Day-Ahead-Prognose der ENTSO-E, alle elf schlugen die naiven Vergleichsmodelle. Bestes studentisches Team war Hot Rod mit rund 1.230 MW mittlerem absolutem Fehler. Die Gruppensiege gingen an Das A Team und Hot Rod. Model Cards, OpenSSF-Scorecards und gegenseitige Reproduktion machten die Challenge zugleich zu einer Lektion in offener, überprüfbarer Forschung.</p>
+<p><a href="./news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss.html" class="btn btn-outline-primary">Zum Beitrag</a></p>
+</div>
 <div class="news-card">
 <p><img src="figures/news/lastprognose-challenge-2026/teaser.png" class="news-card-image img-fluid" alt="Grafik zur Live-Lastprognose-Challenge 2026 mit stilisierter Lastkurve"> <a href="./news/lastprognose-challenge-2026/lastprognose-challenge-2026.html">Lastprognose-Challenge 2026: Sechs Wochen, elf Teams, jeden Tag eine Prognose</a> <code>20. Juli 2026</code></p>
 <p>Die Live-Lastprognose-Challenge 2026 an der TH Köln ist erfolgreich zu Ende gegangen. Seit Juni reichten elf studentische Teams jeden Tag vor Mitternacht eine 24-Stunden-Prognose des deutschen Strombedarfs ein, die am Folgetag automatisch an der tatsächlichen Netzlast der ENTSO-E Transparency Platform gemessen wurde. Neben der Prognosegüte stand offene, überprüfbare Forschung im Mittelpunkt: Model Cards, OpenSSF-Scorecards und gegenseitige Reproduktion der Ergebnisse. Die Siegerteams der beiden Award-Tracks werden in Kürze geehrt.</p>
