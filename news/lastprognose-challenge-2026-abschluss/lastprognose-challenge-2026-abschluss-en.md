@@ -24,16 +24,27 @@ The students' engagement stood out. Week after week the teams reliably submitted
 
 The challenge does not end with the semester but continues on a voluntary basis. Current results of the ongoing forecasts are available on the [live leaderboard](https://advm1.gm.fh-koeln.de/~bartz/sf2-forecast).
 
-## Impressions from the certificate ceremony and garden party
+## Impressions from the conclusion of the challenge
 
 <div class="gallery-grid">
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5189.jpeg" alt="The certificates of the Live Load-Forecasting Challenge 2026 fanned out on a table"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5194.jpeg" alt="Three students present their load-forecasting results at two screens"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5203.jpeg" alt="A student explains the data pipeline built from ENTSO-E and Open-Meteo data"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5205.jpeg" alt="A student presents his team's competition results"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5209.jpeg" alt="A team presents its base model and processing pipeline"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5214.jpeg" alt="A team presents its backtest results against the persistence baseline"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5222.jpeg" alt="Team Hot Rod presents the explainability of their Voltcrown forecasting system"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5637.jpeg" alt="Prof. Bartz-Beielstein hands a certificate to one of the teams"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5639.jpeg" alt="Certificate presentation to a team of international students"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/gartenfest-01.jpeg" alt="Garden party at Prof. Bartz-Beielstein's home marking the end of the challenge"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/gartenfest-02.jpeg" alt="International master's students talking at the garden party"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5235.jpeg" alt="Students sitting together at a table in the garden during the garden party"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5241.jpeg" alt="Colleagues involved at the garden party at the end of the semester"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg" alt="A team with certificates and Prof. Bartz-Beielstein in front of the projected leaderboard"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-03.jpeg" alt="Two students holding their Load-Forecasting Challenge 2026 certificates"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-04.jpeg" alt="A team with their certificates next to Prof. Bartz-Beielstein"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-05.jpeg" alt="Students with certificates in front of the projected leaderboard"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-06.jpeg" alt="Two students receiving their certificates"></div>
-<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/gartenfest-01.jpeg" alt="Garden party at Prof. Bartz-Beielstein's home marking the end of the challenge"></div>
-<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/gartenfest-02.jpeg" alt="International master's students talking at the garden party"></div>
 </div>
 
 The challenge was based on data from the [ENTSO-E Transparency Platform](https://transparency.entsoe.eu/). The challenge infrastructure was provided by the SpotSeven Lab at the [Institute for Data Science, Engineering, and Analytics (IDE+A)](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/institut-fuer-data-science-engineering-and-analytics_54523.php) at TH Köln. The full ranking is available on the [public leaderboard](https://bartzbeielstein.github.io/challenge-leaderboard/). Contact: [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/).

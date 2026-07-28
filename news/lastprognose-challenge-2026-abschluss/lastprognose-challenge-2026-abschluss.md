@@ -23,16 +23,27 @@ Hervorzuheben ist das Engagement der Studierenden. Über Wochen hinweg reichten 
 
 Mit dem Ende des Semesters ist die Challenge nicht abgeschlossen, sondern wird auf freiwilliger Basis fortgeführt. Aktuelle Ergebnisse der fortlaufenden Prognosen sind im [laufenden Leaderboard](https://advm1.gm.fh-koeln.de/~bartz/sf2-forecast) einsehbar.
 
-## Impressionen von Zertifikatsübergabe und Gartenfest
+## Impressionen zum Abschluss der Challenge
 
 <div class="gallery-grid">
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5189.jpeg" alt="Die Zertifikate der Live-Lastprognose-Challenge 2026, aufgefächert auf einem Tisch"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5194.jpeg" alt="Drei Studierende präsentieren ihre Lastprognose-Ergebnisse an zwei Leinwänden"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5203.jpeg" alt="Studierender erläutert die Datenpipeline aus ENTSO-E- und Open-Meteo-Daten"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5205.jpeg" alt="Studierender präsentiert die Wettbewerbsergebnisse seines Teams"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5209.jpeg" alt="Ein Team stellt sein Basismodell und die Verarbeitungspipeline vor"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5214.jpeg" alt="Ein Team präsentiert seine Backtest-Ergebnisse gegenüber der Persistenz-Baseline"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5222.jpeg" alt="Das Team Hot Rod präsentiert die Erklärbarkeit seines Prognosesystems Voltcrown"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5637.jpeg" alt="Prof. Bartz-Beielstein überreicht einem Team seine Zertifikate"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5639.jpeg" alt="Zertifikatsübergabe an ein Team mit internationalen Studierenden"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/gartenfest-01.jpeg" alt="Gartenfest zum Abschluss der Challenge im Garten von Prof. Bartz-Beielstein"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/gartenfest-02.jpeg" alt="Internationale Masterstudierende im Gespräch beim Gartenfest"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5235.jpeg" alt="Studierende sitzen beim Gartenfest gemeinsam an einem Tisch im Garten"></div>
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/IMG_5241.jpeg" alt="Beteiligte Kolleginnen und Kollegen beim Gartenfest zum Semesterausklang"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg" alt="Ein Team mit Zertifikaten und Prof. Bartz-Beielstein vor dem projizierten Leaderboard"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-03.jpeg" alt="Zwei Studierende zeigen ihre Zertifikate der Lastprognose-Challenge 2026"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-04.jpeg" alt="Ein Team mit seinen Urkunden neben Prof. Bartz-Beielstein"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-05.jpeg" alt="Studierende mit Zertifikaten vor dem projizierten Leaderboard"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-06.jpeg" alt="Zwei Studierende nehmen ihre Zertifikate entgegen"></div>
-<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/gartenfest-01.jpeg" alt="Gartenfest zum Abschluss der Challenge im Garten von Prof. Bartz-Beielstein"></div>
-<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/gartenfest-02.jpeg" alt="Internationale Masterstudierende im Gespräch beim Gartenfest"></div>
 </div>
 
 Datengrundlage der Challenge war die [ENTSO-E Transparency Platform](https://transparency.entsoe.eu/). Die Challenge-Infrastruktur stellte das SpotSeven Lab am [Institut für Data Science, Engineering, and Analytics (IDE+A)](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/institut-fuer-data-science-engineering-and-analytics_54523.php) der TH Köln bereit. Die vollständige Rangliste ist im [öffentlichen Leaderboard](https://bartzbeielstein.github.io/challenge-leaderboard/) einsehbar. Ansprechpartner ist [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/).
