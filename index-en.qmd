@@ -16,7 +16,7 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
-![](figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg){.feature-card-image fig-alt="Students with their certificates and Prof. Bartz-Beielstein in front of the projected leaderboard of the Load-Forecasting Challenge 2026"}
+![](figures/news/lastprognose-challenge-2026-abschluss/siegerteam.jpeg){.feature-card-image fig-alt="The winning team Hot Rod with Prof. Bartz-Beielstein in front of the slides of their Voltcrown forecasting system"}
 
 ### Load-Forecasting Challenge 2026: certificate ceremony and top-tier forecasts
 

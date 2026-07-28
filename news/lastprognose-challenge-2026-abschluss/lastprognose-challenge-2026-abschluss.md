@@ -5,7 +5,7 @@ date: "2026-07-27"
 
 # Lastprognose-Challenge 2026: Zertifikatsübergabe und Prognosen auf Spitzenniveau
 
-![Zertifikatsübergabe vor dem finalen Leaderboard: feierlicher Abschluss der Live-Lastprognose-Challenge 2026 an der TH Köln.](../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg){fig-alt="Studierende mit ihren Zertifikaten und Prof. Bartz-Beielstein vor dem projizierten Leaderboard der Lastprognose-Challenge 2026"}
+![Das Siegerteam Hot Rod: das beste studentische Team der Lastprognose-Challenge 2026, hier mit Prof. Bartz-Beielstein](../../figures/news/lastprognose-challenge-2026-abschluss/siegerteam.jpeg){fig-alt="Vier Studierende des Teams Hot Rod mit Prof. Bartz-Beielstein vor den Präsentationsfolien ihres Prognosesystems Voltcrown"}
 
 `27. Juli 2026`
 
@@ -26,6 +26,7 @@ Mit dem Ende des Semesters ist die Challenge nicht abgeschlossen, sondern wird a
 ## Impressionen von Zertifikatsübergabe und Gartenfest
 
 <div class="gallery-grid">
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg" alt="Ein Team mit Zertifikaten und Prof. Bartz-Beielstein vor dem projizierten Leaderboard"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-03.jpeg" alt="Zwei Studierende zeigen ihre Zertifikate der Lastprognose-Challenge 2026"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-04.jpeg" alt="Ein Team mit seinen Urkunden neben Prof. Bartz-Beielstein"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-05.jpeg" alt="Studierende mit Zertifikaten vor dem projizierten Leaderboard"></div>

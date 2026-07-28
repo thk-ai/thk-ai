@@ -10,7 +10,7 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
-![](figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg){.news-card-image fig-alt="Studierende mit ihren Zertifikaten und Prof. Bartz-Beielstein vor dem projizierten Leaderboard der Lastprognose-Challenge 2026"}
+![](figures/news/lastprognose-challenge-2026-abschluss/siegerteam.jpeg){.news-card-image fig-alt="Das Siegerteam Hot Rod mit Prof. Bartz-Beielstein vor den Folien seines Prognosesystems Voltcrown"}
 [Lastprognose-Challenge 2026: Zertifikatsübergabe und Prognosen auf Spitzenniveau](news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss.md)
 `27. Juli 2026`
 

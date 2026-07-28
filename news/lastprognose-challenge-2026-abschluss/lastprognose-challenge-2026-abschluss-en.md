@@ -6,7 +6,7 @@ lang: en
 
 # Load-Forecasting Challenge 2026: certificate ceremony and top-tier forecasts
 
-![Certificate ceremony in front of the final leaderboard: a festive close to the Live Load-Forecasting Challenge 2026 at TH Köln.](../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg){fig-alt="Students with their certificates and Prof. Bartz-Beielstein in front of the projected leaderboard of the Load-Forecasting Challenge 2026"}
+![The winning team Hot Rod: the best student team of the Load-Forecasting Challenge 2026, here with Prof. Bartz-Beielstein](../../figures/news/lastprognose-challenge-2026-abschluss/siegerteam.jpeg){fig-alt="Four students of Team Hot Rod with Prof. Bartz-Beielstein in front of the presentation slides of their Voltcrown forecasting system"}
 
 `2026-07-27`
 
@@ -27,6 +27,7 @@ The challenge does not end with the semester but continues on a voluntary basis.
 ## Impressions from the certificate ceremony and garden party
 
 <div class="gallery-grid">
+<div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg" alt="A team with certificates and Prof. Bartz-Beielstein in front of the projected leaderboard"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-03.jpeg" alt="Two students holding their Load-Forecasting Challenge 2026 certificates"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-04.jpeg" alt="A team with their certificates next to Prof. Bartz-Beielstein"></div>
 <div class="gallery-item"><img class="gallery-img" src="../../figures/news/lastprognose-challenge-2026-abschluss/zeremonie-05.jpeg" alt="Students with certificates in front of the projected leaderboard"></div>
