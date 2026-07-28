@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/news/lastprognose-challenge-2026-abschluss/zeremonie-01.jpeg){.news-card-image fig-alt="Studierende mit ihren Zertifikaten und Prof. Bartz-Beielstein vor dem projizierten Leaderboard der Lastprognose-Challenge 2026"}
+[Lastprognose-Challenge 2026: Zertifikatsübergabe und Prognosen auf Spitzenniveau](news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss.md)
+`27. Juli 2026`
+
+Mit der Zertifikatsübergabe an die Teams beider Lehrveranstaltungen ist die Live-Lastprognose-Challenge 2026 an der TH Köln offiziell zu Ende gegangen. Zehn der elf studentischen Teams unterboten die offizielle Day-Ahead-Prognose der ENTSO-E, alle elf schlugen die naiven Vergleichsmodelle. Bestes studentisches Team war Hot Rod mit rund 1.230 MW mittlerem absolutem Fehler. Die Gruppensiege gingen an Das A Team und Hot Rod. Model Cards, OpenSSF-Scorecards und gegenseitige Reproduktion machten die Challenge zugleich zu einer Lektion in offener, überprüfbarer Forschung.
+
+[Zum Beitrag](news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/lastprognose-challenge-2026/teaser.png){.news-card-image fig-alt="Grafik zur Live-Lastprognose-Challenge 2026 mit stilisierter Lastkurve"}
 [Lastprognose-Challenge 2026: Sechs Wochen, elf Teams, jeden Tag eine Prognose](news/lastprognose-challenge-2026/lastprognose-challenge-2026.md)
 `20. Juli 2026`
