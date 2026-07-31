@@ -20,6 +20,16 @@ Mit der Zertifikatsübergabe an die Teams beider Lehrveranstaltungen ist die Liv
 :::
 
 :::{.news-card}
+![](figures/news/doktorandenkolloquium-nadirov/teaser.jpg){.news-card-image fig-alt="Banner der Abteilung Informatik und Data Science des Promotionskollegs NRW mit dem Logo des Promotionskollegs"}
+[Doktorandenkolloquium am IDE+A: Nadir Nadirov zur KI-gestützten Optimierung von Blisks](news/doktorandenkolloquium-nadirov/doktorandenkolloquium-nadirov.md)
+`23. Juli 2026`
+
+Nadir Nadirov hat im Doktorandenkolloquium des Instituts für Data Science, Engineering, and Analytics (IDE+A) der TH Köln Ergebnisse aus seiner Promotion vorgestellt. Sein Vortrag „An AI-Assisted Computational Framework for Intentional Mistuning and Aeroelastic Optimization of Blisks" verbindet strukturmechanische und aeroelastische Simulationen mit Methoden der Künstlichen Intelligenz, um gezielt entworfene Mistuning-Muster für integral gefertigte Laufräder in Turbomaschinen zu optimieren. Das Kolloquium wird gemeinsam mit der Abteilung Informatik und Data Science des Promotionskollegs NRW und dem Graduiertenzentrum der TH Köln getragen.
+
+[Zum Beitrag](news/doktorandenkolloquium-nadirov/doktorandenkolloquium-nadirov.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/lastprognose-challenge-2026/teaser.png){.news-card-image fig-alt="Grafik zur Live-Lastprognose-Challenge 2026 mit stilisierter Lastkurve"}
 [Lastprognose-Challenge 2026: Sechs Wochen, elf Teams, jeden Tag eine Prognose](news/lastprognose-challenge-2026/lastprognose-challenge-2026.md)
 `20. Juli 2026`

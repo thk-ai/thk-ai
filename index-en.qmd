@@ -26,13 +26,13 @@ lang: en
 :::
 
 :::{.feature-card}
-![](figures/news/lastprognose-challenge-2026/teaser.png){.feature-card-image fig-alt="Graphic for the Live Load-Forecasting Challenge 2026 with a stylized load curve"}
+![](figures/news/doktorandenkolloquium-nadirov/teaser.jpg){.feature-card-image fig-alt="Banner of the Computer Science and Data Science department of the Promotionskolleg NRW with the logo of the doctoral college"}
 
-### Load-Forecasting Challenge 2026: six weeks, eleven teams, one forecast every day
+### Doctoral colloquium at IDE+A: Nadir Nadirov on AI-assisted optimization of blisks
 
-`2026-07-20` -- The Live Load-Forecasting Challenge 2026 at TH Köln has crossed the finish line. Since June, eleven student teams submitted a 24-hour forecast of Germany's national electricity demand every day before midnight, scored automatically the next day against the actual grid load published by the ENTSO-E Transparency Platform. Beyond forecast quality, the challenge focused on open, verifiable research. The winning teams of the two award tracks will be honored soon.
+`2026-07-23` -- Nadir Nadirov presented results from his doctoral research at the doctoral colloquium of the Institute for Data Science, Engineering, and Analytics (IDE+A) at TH Köln. His talk "An AI-Assisted Computational Framework for Intentional Mistuning and Aeroelastic Optimization of Blisks" combines costly simulations with methods from artificial intelligence to optimize mistuning patterns for integrally bladed rotors in turbomachinery.
 
-[Read more](news/lastprognose-challenge-2026/lastprognose-challenge-2026-en.md){.btn .btn-outline-primary}
+[Read more](news/doktorandenkolloquium-nadirov/doktorandenkolloquium-nadirov-en.md){.btn .btn-outline-primary}
 :::
 
 :::
