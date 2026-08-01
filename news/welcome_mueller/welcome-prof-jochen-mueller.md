@@ -3,8 +3,6 @@ title: "Willkommen Prof. Dr. Jochen Müller im THK-AI Forschungscluster"
 date: "2026-08-01"
 ---
 
-# Willkommen Prof. Dr. Jochen Müller im THK-AI Forschungscluster
-
 Das THK-AI Forschungscluster freut sich, [Prof. Dr. Jochen Müller](https://www.th-koeln.de/personen/jochen.mueller/) als neues Mitglied begrüßen zu dürfen.
 Mit seinem Beitritt wächst das Cluster auf 26 Mitglieder und gewinnt an Tiefe in den Bereichen Gebäudeautomation, digitale Zwillinge und semantische Interoperabilität.
 

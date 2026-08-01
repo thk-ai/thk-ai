@@ -4,8 +4,6 @@ date: "2026-08-01"
 lang: en
 ---
 
-# Welcome Prof. Dr. Jochen Müller to the THK-AI Research Cluster
-
 The THK-AI Research Cluster welcomes [Prof. Dr. Jochen Müller](https://www.th-koeln.de/personen/jochen.mueller/) as a new member.
 With his addition, the cluster grows to 26 members and gains depth in building automation, digital twins, and semantic interoperability.
 
