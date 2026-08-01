@@ -30,7 +30,7 @@ lang: de
 
 ### Lastprognose-Challenge 2026: Zertifikatsübergabe und Prognosen auf Spitzenniveau
 
-`27. Juli 2026` -- Mit der Zertifikatsübergabe an die Teams beider Lehrveranstaltungen ist die Live-Lastprognose-Challenge 2026 an der TH Köln offiziell zu Ende gegangen. Zehn der elf studentischen Teams unterboten die offizielle Day-Ahead-Prognose der ENTSO-E, alle elf schlugen die naiven Vergleichsmodelle. Bestes studentisches Team war Hot Rod. Die Gruppensiege gingen an Das A Team und Hot Rod.
+`27. Juli 2026` -- Mit der Zertifikatsübergabe an die Teams beider Lehrveranstaltungen ist die Live-Lastprognose-Challenge 2026 an der TH Köln offiziell zu Ende gegangen. Zehn der elf studentischen Teams waren besser als die offizielle Day-Ahead-Prognose der ENTSO-E.
 
 [Zum Beitrag](news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss.md){.btn .btn-outline-primary}
 :::

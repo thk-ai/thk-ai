@@ -30,7 +30,7 @@ lang: en
 
 ### Load-Forecasting Challenge 2026: certificate ceremony and top-tier forecasts
 
-`2026-07-27` -- With the certificate ceremony for the teams of both courses, the Live Load-Forecasting Challenge 2026 at TH Köln has officially come to a close. Ten of the eleven student teams beat the official ENTSO-E day-ahead forecast, and every team beat the naive baselines. The best student team was Hot Rod. The group wins went to Das A Team and Hot Rod.
+`2026-07-27` -- With the certificate ceremony for the teams of both courses, the Live Load-Forecasting Challenge 2026 at TH Köln has officially come to a close. Ten of the eleven student teams beat the official ENTSO-E day-ahead forecast.
 
 [Read more](news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss-en.md){.btn .btn-outline-primary}
 :::
