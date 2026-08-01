@@ -16,6 +16,16 @@ lang: en
 
 :::{.feature-grid}
 :::{.feature-card}
+![](figures/members/mueller.png){.feature-card-image fig-alt="Prof. Dr. Jochen Müller"}
+
+### Welcome Prof. Dr. Jochen Müller to the THK-AI Research Cluster
+
+`2026-08-01` -- The THK-AI Research Cluster welcomes [Prof. Dr. Jochen Müller](https://www.th-koeln.de/personen/jochen.mueller/) (Institut für Technische Gebäudeausrüstung, TGA) as its newest member. His research focuses on AI methods for building automation: using NLP and large language models, operating data are mapped onto the information model of the Industry 4.0 Asset Administration Shell and made usable as digital twins in the projects OptGA4.0 and EcoTwin.
+
+[Read more](news/welcome_mueller/welcome-prof-jochen-mueller-en.md){.btn .btn-outline-primary}
+:::
+
+:::{.feature-card}
 ![](figures/news/lastprognose-challenge-2026-abschluss/siegerteam.jpeg){.feature-card-image fig-alt="The winning team Hot Rod with Prof. Bartz-Beielstein in front of the slides of their Voltcrown forecasting system"}
 
 ### Load-Forecasting Challenge 2026: certificate ceremony and top-tier forecasts
@@ -23,16 +33,6 @@ lang: en
 `2026-07-27` -- With the certificate ceremony for the teams of both courses, the Live Load-Forecasting Challenge 2026 at TH Köln has officially come to a close. Ten of the eleven student teams beat the official ENTSO-E day-ahead forecast, and every team beat the naive baselines. The best student team was Hot Rod. The group wins went to Das A Team and Hot Rod.
 
 [Read more](news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss-en.md){.btn .btn-outline-primary}
-:::
-
-:::{.feature-card}
-![](figures/news/doktorandenkolloquium-nadirov/teaser.jpg){.feature-card-image fig-alt="Banner of the Computer Science and Data Science department of the Promotionskolleg NRW with the logo of the doctoral college"}
-
-### Doctoral colloquium at IDE+A: Nadir Nadirov on AI-assisted optimization of blisks
-
-`2026-07-23` -- Nadir Nadirov presented results from his doctoral research at the doctoral colloquium of the Institute for Data Science, Engineering, and Analytics (IDE+A) at TH Köln. His talk "An AI-Assisted Computational Framework for Intentional Mistuning and Aeroelastic Optimization of Blisks" combines costly simulations with methods from artificial intelligence to optimize mistuning patterns for integrally bladed rotors in turbomachinery.
-
-[Read more](news/doktorandenkolloquium-nadirov/doktorandenkolloquium-nadirov-en.md){.btn .btn-outline-primary}
 :::
 
 :::

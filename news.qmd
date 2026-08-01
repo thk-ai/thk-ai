@@ -10,6 +10,16 @@ Aktuelle Meldungen aus Forschung, Lehre, Community und Transfer.
 
 :::{.news-grid}
 :::{.news-card}
+![](figures/members/mueller.png){.news-card-image fig-alt="Prof. Dr. Jochen Müller"}
+[Willkommen Prof. Dr. Jochen Müller im THK-AI Forschungscluster](news/welcome_mueller/welcome-prof-jochen-mueller.md)
+`1. August 2026`
+
+Das THK-AI Forschungscluster begrüßt [Prof. Dr. Jochen Müller](https://www.th-koeln.de/personen/jochen.mueller/) (Institut für Technische Gebäudeausrüstung, TGA) als neues Mitglied. Mit seinem Beitritt wächst das Cluster auf 26 Mitglieder. Sein Schwerpunkt liegt auf KI-Methoden für die Gebäudeautomation: Mit NLP und großen Sprachmodellen werden Betriebsdaten auf das Informationsmodell der Industrie-4.0-Verwaltungsschale übertragen und in den Projekten OptGA4.0 und EcoTwin als digitale Zwillinge nutzbar gemacht, bis hin zu einer Chatbot-Anwendung für die vereinfachte Mensch-Gebäude-Interaktion.
+
+[Zum Beitrag](news/welcome_mueller/welcome-prof-jochen-mueller.md){.btn .btn-outline-primary}
+:::
+
+:::{.news-card}
 ![](figures/news/lastprognose-challenge-2026-abschluss/siegerteam.jpeg){.news-card-image fig-alt="Das Siegerteam Hot Rod mit Prof. Bartz-Beielstein vor den Folien seines Prognosesystems Voltcrown"}
 [Lastprognose-Challenge 2026: Zertifikatsübergabe und Prognosen auf Spitzenniveau](news/lastprognose-challenge-2026-abschluss/lastprognose-challenge-2026-abschluss.md)
 `27. Juli 2026`
