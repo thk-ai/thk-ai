@@ -20,7 +20,7 @@ lang: en
 
 ### Welcome Prof. Dr. Jochen Müller to the THK-AI Research Cluster
 
-`2026-08-01` -- The THK-AI Research Cluster welcomes [Prof. Dr. Jochen Müller](https://www.th-koeln.de/personen/jochen.mueller/) (Institut für Technische Gebäudeausrüstung, TGA) as its newest member. His research focuses on AI methods for building automation: using NLP and large language models, operating data are mapped onto the information model of the Industry 4.0 Asset Administration Shell and made usable as digital twins in the projects OptGA4.0 and EcoTwin.
+`2026-08-01` -- The THK-AI Research Cluster welcomes [Prof. Dr. Jochen Müller](https://www.th-koeln.de/personen/jochen.mueller/) (Institut für Technische Gebäudeausrüstung, TGA) as its newest member. His research focuses on AI methods for building automation.
 
 [Read more](news/welcome_mueller/welcome-prof-jochen-mueller-en.md){.btn .btn-outline-primary}
 :::
