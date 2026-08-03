@@ -19,6 +19,8 @@ title: "Veranstaltungen"
 | 12.3.2026 | 10:30-12:00 | Online (Zoom) | Kooperation: Forschungsschwerpunkt "Risiko, Resilienz und Transformation" | intern |
 | 19.3.2026 | 10:30-12:00 | SpotSevenLab | Nguyen Ha Ngan: AI and Water Resources Management | Doktorandenkolloquium: Anmeldung erforderlich bei [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) |
 | 03.06.2026 | 14:00-15:30 | Online (MS-Teams) | Mitgliedertreffen | intern |
+| 11.06.2026 | 10:30-12:00 | SPOTSeven Lab (Raum 1.518) | Aleksandr Subbotin: Hybrid Modeling Approach for<br>Pyrolysis Coils Condition Monitoring | Doktorandenkolloquium: Anmeldung erforderlich bei [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) |
+| 23.07.2026 | 10:30-12:00 | SPOTSeven Lab (Raum 1.518) | Nadir Nadirov: An AI-Assisted Computational Framework<br>for Intentional Mistuning and Aeroelastic Optimization of Blisks | Doktorandenkolloquium: Anmeldung erforderlich bei [Prof. Dr. Thomas Bartz-Beielstein](https://www.th-koeln.de/personen/thomas.bartz-beielstein/) |
 | 10.09.2026 | 9:00-10:30 | Online (MS-Teams) | Mitgliedertreffen | intern |
 | 10.12.2026 | 14:00-15:30 | Online (MS-Teams) | Mitgliedertreffen | intern |
 
